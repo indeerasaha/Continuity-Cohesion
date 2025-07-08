@@ -1,0 +1,1508 @@
+{
+  "metadata": {
+    "episode_title": "The One With the Sonogram at the End",
+    "season": 1,
+    "episode_number": 2,
+    "series_episode_number": 2,
+    "air_date": null,
+    "writers": [
+      "Marta Kauffman",
+      "David Crane"
+    ],
+    "directors": [],
+    "story_by": [],
+    "teleplay_by": [],
+    "production_code": null,
+    "total_pages": 11,
+    "file_info": {
+      "filename": "S1_Ep2.pdf",
+      "file_path": "Raw_Data/S1_Scripts/S1_Ep2.pdf",
+      "file_size": 196433,
+      "extraction_date": "2025-07-07T23:36:17.998833"
+    }
+  },
+  "statistics": {
+    "total_scenes": 9,
+    "total_dialogue_lines": 217,
+    "character_stats": {
+      "Rachel": {
+        "total_lines": 38,
+        "scenes_appeared": 6,
+        "average_lines_per_scene": 6.333333333333333
+      },
+      "Ross": {
+        "total_lines": 59,
+        "scenes_appeared": 8,
+        "average_lines_per_scene": 7.375
+      },
+      "Joey": {
+        "total_lines": 7,
+        "scenes_appeared": 4,
+        "average_lines_per_scene": 1.75
+      },
+      "Phoebe": {
+        "total_lines": 14,
+        "scenes_appeared": 4,
+        "average_lines_per_scene": 3.5
+      },
+      "Monica": {
+        "total_lines": 28,
+        "scenes_appeared": 4,
+        "average_lines_per_scene": 7.0
+      },
+      "Chandler": {
+        "total_lines": 16,
+        "scenes_appeared": 4,
+        "average_lines_per_scene": 4.0
+      },
+      "Marsha": {
+        "total_lines": 4,
+        "scenes_appeared": 1,
+        "average_lines_per_scene": 4.0
+      },
+      "Carol": {
+        "total_lines": 20,
+        "scenes_appeared": 4,
+        "average_lines_per_scene": 5.0
+      },
+      "All": {
+        "total_lines": 2,
+        "scenes_appeared": 2,
+        "average_lines_per_scene": 1.0
+      },
+      "Bernice": {
+        "total_lines": 1,
+        "scenes_appeared": 1,
+        "average_lines_per_scene": 1.0
+      },
+      "Barry": {
+        "total_lines": 16,
+        "scenes_appeared": 2,
+        "average_lines_per_scene": 8.0
+      },
+      "Robbie": {
+        "total_lines": 3,
+        "scenes_appeared": 2,
+        "average_lines_per_scene": 1.5
+      },
+      "Susan": {
+        "total_lines": 9,
+        "scenes_appeared": 3,
+        "average_lines_per_scene": 3.0
+      }
+    },
+    "scene_lengths": [
+      9,
+      19,
+      62,
+      31,
+      26,
+      11,
+      23,
+      21,
+      15
+    ],
+    "average_scene_length": 24.11111111111111,
+    "longest_scene": {
+      "length": 62,
+      "scene_index": 2
+    },
+    "shortest_scene": {
+      "length": 9,
+      "scene_index": 0
+    },
+    "page_range": {
+      "start": 1,
+      "end": 11
+    },
+    "unique_characters": [
+      "Rachel",
+      "Ross",
+      "Marsha",
+      "Joey",
+      "Phoebe",
+      "Carol",
+      "Bernice",
+      "Barry",
+      "Robbie",
+      "Monica",
+      "Chandler",
+      "Susan",
+      "All"
+    ],
+    "speaking_characters": [
+      "Rachel",
+      "Ross",
+      "Marsha",
+      "Joey",
+      "Phoebe",
+      "Carol",
+      "Barry",
+      "Bernice",
+      "Robbie",
+      "Monica",
+      "Chandler",
+      "Susan",
+      "All"
+    ]
+  },
+  "script": [
+    {
+      "scene": null,
+      "scene_number": 0,
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Joey",
+        "Phoebe",
+        "Monica",
+        "Chandler"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Monica",
+          "line": "What you guys don't understand is, for us, kissing is as important as any part of it.",
+          "line_number": 6
+        },
+        {
+          "speaker": "Joey",
+          "line": "Yeah, right!.......Y'serious?",
+          "line_number": 7
+        },
+        {
+          "speaker": "Phoebe",
+          "line": "Oh, yeah!",
+          "line_number": 8
+        },
+        {
+          "speaker": "Rachel",
+          "line": "Everything you need to know is in that first kiss.",
+          "line_number": 9
+        },
+        {
+          "speaker": "Monica",
+          "line": "Absolutely.",
+          "line_number": 10
+        },
+        {
+          "speaker": "Chandler",
+          "line": "Yeah, I think for us, kissing is pretty much like an opening act, y'know? I mean it's like the stand-up comedian you have to sit through before Pink Floyd comes out.",
+          "line_number": 12
+        },
+        {
+          "speaker": "Ross",
+          "line": "Yeah, and-and it's not that we don't like the comedian, it's that-that... that's not why we bought the ticket.",
+          "line_number": 13
+        },
+        {
+          "speaker": "Chandler",
+          "line": "The problem is, though, after the concert's over, no matter how great the show was, you girls are always looking for the comedian again, y'know? I mean, we're in the car, we're fighting traffic... basically just trying to stay awake.",
+          "line_number": 16
+        },
+        {
+          "speaker": "Rachel",
+          "line": "Yeah, well, word of advice: Bring back the comedian. Otherwise next time you're gonna find yourself sitting at home, listening to that album alone.",
+          "line_number": 18
+        }
+      ],
+      "page_numbers": [],
+      "episode_title": "The One With the Sonogram at the End",
+      "stage_directions": [
+        {
+          "direction": "[Scene Central Perk, everyone's there.]",
+          "line_number": 4
+        }
+      ]
+    },
+    {
+      "scene": null,
+      "scene_number": 1,
+      "characters": [
+        "Marsha",
+        "Ross",
+        "Carol"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Ross",
+          "line": "No, it's good, it is good, it's just that- mm- doesn't she seem a little angry?",
+          "line_number": 23
+        },
+        {
+          "speaker": "Marsha",
+          "line": "Well, she has issues.",
+          "line_number": 24
+        },
+        {
+          "speaker": "Ross",
+          "line": "Does she.",
+          "line_number": 25
+        },
+        {
+          "speaker": "Marsha",
+          "line": "He's out banging other women over the head with a club, while she sits at home trying to get the mastodon smell out of the carpet!",
+          "line_number": 27
+        },
+        {
+          "speaker": "Ross",
+          "line": "Marsha, these are cave people. Okay? They have issues like 'Gee, that glacier's getting kinda close.' See?",
+          "line_number": 28
+        },
+        {
+          "speaker": "Marsha",
+          "line": "Speaking of issues, isn't that your ex-wife?",
+          "line_number": 30
+        },
+        {
+          "speaker": "Ross",
+          "line": "(trying to ignore her) No. No.",
+          "line_number": 35,
+          "page_number": "1/11",
+          "cleaned": true
+        },
+        {
+          "speaker": "Marsha",
+          "line": "Yes, it is. Carol! Hi!",
+          "line_number": 36
+        },
+        {
+          "speaker": "Ross",
+          "line": "Okay, okay, yes, it is. (waves) How about I'll, uh, catch up with you in the Ice Age.",
+          "line_number": 38
+        },
+        {
+          "speaker": "Ross",
+          "line": "Hi.",
+          "line_number": 39
+        },
+        {
+          "speaker": "Carol",
+          "line": "So.",
+          "line_number": 40
+        },
+        {
+          "speaker": "Ross",
+          "line": "You look great. I, uh... I hate that.",
+          "line_number": 41
+        },
+        {
+          "speaker": "Carol",
+          "line": "Sorry. You look good too.",
+          "line_number": 42
+        },
+        {
+          "speaker": "Ross",
+          "line": "Ah, well, in here, anyone who... stands erect... So what's new? Still, uh...",
+          "line_number": 43
+        },
+        {
+          "speaker": "Carol",
+          "line": "A lesbian?",
+          "line_number": 44
+        },
+        {
+          "speaker": "Ross",
+          "line": "Well... you never know. How's, um.. how's the family?",
+          "line_number": 45
+        },
+        {
+          "speaker": "Carol",
+          "line": "Marty's still totally paranoid. Oh, and, uh-",
+          "line_number": 46
+        },
+        {
+          "speaker": "Ross",
+          "line": "Why- why are you here, Carol?",
+          "line_number": 47
+        },
+        {
+          "speaker": "Carol",
+          "line": "I'm pregnant.",
+          "line_number": 48
+        }
+      ],
+      "page_numbers": [
+        "1/11"
+      ],
+      "episode_title": "The One With the Sonogram at the End",
+      "stage_directions": [
+        {
+          "direction": "(Carol, Ross's ex-wife, has entered behind them and is standing outstide the exhibit.)",
+          "line_number": 29
+        },
+        {
+          "direction": "(Marsha extis and Ross waves Carol into the exhibit.)",
+          "line_number": 37
+        }
+      ],
+      "line_number_start": 20
+    },
+    {
+      "scene": "Monica and Rachel's, Chandler, Joey, Phoebe, and Monica are watching Three's Company.",
+      "scene_number": 2,
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Joey",
+        "Phoebe",
+        "Monica",
+        "Chandler",
+        "All"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Chandler",
+          "line": "Oh, I think this is the episode of Three's Company where there's some kind of misunderstanding.",
+          "line_number": 51
+        },
+        {
+          "speaker": "Phoebe",
+          "line": "...Then I've already seen this one! (Turns off the TV.)",
+          "line_number": 52
+        },
+        {
+          "speaker": "Monica",
+          "line": "(taking a drink from Joey) Are you through with that?",
+          "line_number": 53
+        },
+        {
+          "speaker": "Joey",
+          "line": "Yeah, sorry, the swallowing slowed me down.",
+          "line_number": 54
+        },
+        {
+          "speaker": "Monica",
+          "line": "Whose little ball of paper is this?!",
+          "line_number": 55
+        },
+        {
+          "speaker": "Chandler",
+          "line": "Oh, uh, that would be mine. See, I wrote a note to myself, and then I realised I didn't need it, so I balled it up and... (sees that Monica is glaring at him) ...now I wish I was dead.",
+          "line_number": 58
+        },
+        {
+          "speaker": "Phoebe",
+          "line": "She's already fluffed that pillow... Monica, you know, you've already fluffed that- (Monica glares at her.) -but, it's fine!",
+          "line_number": 60
+        },
+        {
+          "speaker": "Monica",
+          "line": "Look , I'm sorry, guys, I just don't wanna give them any more ammunition than they already have.",
+          "line_number": 61
+        },
+        {
+          "speaker": "Chandler",
+          "line": "Yes, and we all know how cruel a parent can be about the flatness of a child's pillow.",
+          "line_number": 62
+        },
+        {
+          "speaker": "Phoebe",
+          "line": "Monica- Hi! Um, Monica, you're scaring me. I mean, you're like, you're like all chaotic and twirly. And not-not in a good way.",
+          "line_number": 64
+        },
+        {
+          "speaker": "Joey",
+          "line": "Yeah, calm down. You don't see Ross getting all chaotic and twirly every time they come.",
+          "line_number": 69,
+          "page_number": "2/11",
+          "cleaned": true
+        },
+        {
+          "speaker": "Monica",
+          "line": "That's because as far as my parents are concerned, Ross can do no wrong. Y'see, he's the Prince. Apparently they had some big ceremony before I was born.",
+          "line_number": 71
+        },
+        {
+          "speaker": "Chandler",
+          "line": "(looking out the window) Ew, ew, ew, ew ew ew ew ew!",
+          "line_number": 72
+        },
+        {
+          "speaker": "Monica",
+          "line": "What?",
+          "line_number": 73
+        },
+        {
+          "speaker": "Chandler",
+          "line": "Ugly Naked Guy got a Thighmaster!",
+          "line_number": 74
+        },
+        {
+          "speaker": "All",
+          "line": "Eeaagh!",
+          "line_number": 76
+        },
+        {
+          "speaker": "Rachel",
+          "line": "Has anybody seen my engagement ring?",
+          "line_number": 77
+        },
+        {
+          "speaker": "Phoebe",
+          "line": "Yeah, it's beautiful.",
+          "line_number": 78
+        },
+        {
+          "speaker": "Rachel",
+          "line": "Oh God, oh God, oh God oh God oh God oh God.... (Starts to look under the couch cushions.)",
+          "line_number": 79
+        },
+        {
+          "speaker": "Phoebe",
+          "line": "No, look, don't touch that!",
+          "line_number": 80
+        },
+        {
+          "speaker": "Rachel",
+          "line": "Oh, like I wasn't dreading tomorrow enough, having to give it back to him... 'Hi Barry! Remember me? I'm the girl in the veil who stomped on your heart in front of your entire family!' Oh God and now I'm gonna have to return the ring, without the ring, which makes it so much harder...",
+          "line_number": 83
+        },
+        {
+          "speaker": "Monica",
+          "line": "Easy Rach, we'll find it. (To all) Won't we! Chandler and Joey: Oh! Yeah!",
+          "line_number": 85
+        },
+        {
+          "speaker": "Joey",
+          "line": "Alright, when'd'ya have it on last?",
+          "line_number": 86
+        },
+        {
+          "speaker": "Phoebe",
+          "line": "Doy! Probably right before she lost it!",
+          "line_number": 87
+        },
+        {
+          "speaker": "Chandler",
+          "line": "You don't get a lot of 'doy' these days...",
+          "line_number": 88
+        },
+        {
+          "speaker": "Rachel",
+          "line": "I know I had it this morning, and I know I had it when I was in the kitchen with...",
+          "line_number": 89
+        },
+        {
+          "speaker": "Chandler",
+          "line": "...Dinah?",
+          "line_number": 90
+        },
+        {
+          "speaker": "Rachel",
+          "line": "(looks at the lasagne and realizes something) Ohhhhh, don't be mad...",
+          "line_number": 91
+        },
+        {
+          "speaker": "Monica",
+          "line": "You didn't.",
+          "line_number": 92
+        },
+        {
+          "speaker": "Rachel",
+          "line": "Oh, I am sorry...",
+          "line_number": 93
+        },
+        {
+          "speaker": "Monica",
+          "line": "I gave you one job! (Starts to examin the lasagne through the bottom of the glass pan.)",
+          "line_number": 94
+        },
+        {
+          "speaker": "Rachel",
+          "line": "Oh, but look how straight those noodles are!",
+          "line_number": 95
+        },
+        {
+          "speaker": "Chandler",
+          "line": "Now, Monica, you know that's not how you look for an engagement ring in a lasagne...",
+          "line_number": 96
+        },
+        {
+          "speaker": "Monica",
+          "line": "(puts down the lasagne) I just... can't do it.",
+          "line_number": 97
+        },
+        {
+          "speaker": "Chandler",
+          "line": "Boys? We're going in. answers.)",
+          "line_number": 104,
+          "page_number": "3/11",
+          "cleaned": true
+        },
+        {
+          "speaker": "Ross",
+          "line": "(standing outside the door).....Hi.",
+          "line_number": 105
+        },
+        {
+          "speaker": "Monica",
+          "line": "Wow. That is not a happy hi.",
+          "line_number": 106
+        },
+        {
+          "speaker": "Ross",
+          "line": "Carol's pregnant.",
+          "line_number": 107
+        },
+        {
+          "speaker": "Phoebe",
+          "line": "(while everyone else is stunned) Ooh! I found it!",
+          "line_number": 108
+        },
+        {
+          "speaker": "Monica",
+          "line": "W-w-wh-... wha-... w-w-w-...",
+          "line_number": 109
+        },
+        {
+          "speaker": "Ross",
+          "line": "Yeah. Do that for another two hours, you might be where I am right about now. (He enters.)",
+          "line_number": 110
+        },
+        {
+          "speaker": "Chandler",
+          "line": "Kinda puts that whole pillow thing in perspective, huh, Mon?",
+          "line_number": 111
+        },
+        {
+          "speaker": "Rachel",
+          "line": "Well now, how-how do you fit into this whole thing?",
+          "line_number": 112
+        },
+        {
+          "speaker": "Ross",
+          "line": "Well, Carol says she and Susan want me to be involved, but if I'm not comfortable with it, I don't have to be involved.. basically it's entirely up to me.",
+          "line_number": 114
+        },
+        {
+          "speaker": "Phoebe",
+          "line": "She is so great! I miss her.",
+          "line_number": 115
+        },
+        {
+          "speaker": "Monica",
+          "line": "What does she mean by 'involved'?",
+          "line_number": 116
+        },
+        {
+          "speaker": "Chandler",
+          "line": "I mean presumably, the biggest part of your job is done.",
+          "line_number": 117
+        },
+        {
+          "speaker": "Ross",
+          "line": "Anyway, they want me to go down to this- sonogram thing with them tomorrow.",
+          "line_number": 118
+        },
+        {
+          "speaker": "Rachel",
+          "line": "So what are you gonna do?",
+          "line_number": 119
+        },
+        {
+          "speaker": "Ross",
+          "line": "I have no idea. No matter what I do, though, I'm still gonna be a father.",
+          "line_number": 121
+        },
+        {
+          "speaker": "Joey",
+          "line": ".....Well, this is still ruined, right? Mrs. Geller: Oh, Martha Ludwin's daughter is gonna call you. (Tastes a snack) Mmm! What's that curry taste?",
+          "line_number": 124
+        },
+        {
+          "speaker": "Monica",
+          "line": "Curry. Mrs. Geller: Mmmm!",
+          "line_number": 126
+        },
+        {
+          "speaker": "Ross",
+          "line": "I- I think they're great! I, I really do. Mr. Geller: (To Ross) Do you remember the Ludwins? The big one had a thing for you, didn't she? Mrs. Geller: They all had a thing for him.",
+          "line_number": 129
+        },
+        {
+          "speaker": "Ross",
+          "line": "Aw, Mom...",
+          "line_number": 130
+        },
+        {
+          "speaker": "Monica",
+          "line": "I'm sorry, why is this girl going to call me? Mrs. Geller: Oh, she just graduated, and she wants to be something in cooking, or food, or.... I don't know. Anyway, I told her you had a restaurant-",
+          "line_number": 133
+        },
+        {
+          "speaker": "Monica",
+          "line": "No Mom, I don't have a restaurant, I work in a restaurant.4/11 Mrs. Geller: Well, they don't have to know that... (She starts to fluff the same pillow Monica fluffed multiple times earlier.)",
+          "line_number": 140,
+          "cleaned": true
+        },
+        {
+          "speaker": "Monica",
+          "line": "Ross, could you come and help me with the spaghetti, please?",
+          "line_number": 141
+        },
+        {
+          "speaker": "Ross",
+          "line": "Yeah. (They go to the kitchen.) Mrs. Geller: Oh, we're having spaghetti! That's.... easy.",
+          "line_number": 143
+        },
+        {
+          "speaker": "Monica",
+          "line": "I know this is going to sound unbelievably selfish, but, were you planning on bringing up the whole baby/lesbian thing? Because I think it might take some of the heat off me. Mrs. Geller: What that Rachel did to her life.... We ran into her parents at the club, they were not playing very well. Mr. Geller: I'm not gonna tell you what they spent on that wedding... but forty thousand dollars is a lot of money! Mrs. Geller: Well, at least she had the chance to leave a man at the altar...",
+          "line_number": 151
+        },
+        {
+          "speaker": "Monica",
+          "line": "What's that supposed to mean? Mrs. Geller: Nothing! It's an expression.",
+          "line_number": 153
+        },
+        {
+          "speaker": "Monica",
+          "line": "No it's not. Mr. Geller: Don't listen to your mother. You're independent, and you always have been! Even when you were a kid... and you were chubby, and you had no friends, you were just fine! And you would read alone in your room, and your puzzles... Mr. Geller: Look, there are people like Ross who need to shoot for the stars, with his museum, and his papers getting published. Other people are satisfied with staying where they are- I'm telling you, these are the people who never get cancer. Mr. Geller: ...And I read about these women trying to have it all, and I thank God 'Our Little Harmonica' doesn't seem to have that problem.",
+          "line_number": 164
+        },
+        {
+          "speaker": "Monica",
+          "line": "(trying desperately to change the subject) So, Ross, what's going on with you? Any stories? (Digs her elbow into his hand.) No news, no little anecdotes to share with the folks?",
+          "line_number": 166
+        }
+      ],
+      "page_numbers": [
+        "2/11",
+        "3/11"
+      ],
+      "episode_title": "The One With the Sonogram at the End",
+      "stage_directions": [
+        {
+          "direction": "(Monica starts to fluff a pillow.)",
+          "line_number": 57
+        },
+        {
+          "direction": "(Rachel enters from her room.)",
+          "line_number": 75
+        },
+        {
+          "direction": "(Chandler, Joey, and Phoebe start to pick through the lasagne as there's a knock on the door which Monica",
+          "line_number": 98
+        },
+        {
+          "direction": "(Joey starts to eat the rest of the lasagne and everyone turns and stares at him.)",
+          "line_number": 120
+        },
+        {
+          "direction": "[Scene, Monica and Rachel's, Monica and Ross are pouring wine for their parents.]",
+          "line_number": 122
+        },
+        {
+          "direction": "[Time Lapse, everyone is now eating.]",
+          "line_number": 145
+        },
+        {
+          "direction": "[Time Lapse.]",
+          "line_number": 157
+        },
+        {
+          "direction": "[Time Lapse.]",
+          "line_number": 161
+        },
+        {
+          "direction": "(Stunned silence ensues.)",
+          "line_number": 169
+        }
+      ],
+      "line_number_start": 49
+    },
+    {
+      "scene": "Central Park, everyone's there.",
+      "scene_number": 3,
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Joey",
+        "Phoebe",
+        "Monica",
+        "Chandler"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Joey",
+          "line": "Your folks are really that bad, huh?",
+          "line_number": 178
+        },
+        {
+          "speaker": "Ross",
+          "line": "Well, y'know, these people are pros. They know what they're doing, they take their time, they get the job done.",
+          "line_number": 180
+        },
+        {
+          "speaker": "Monica",
+          "line": "Boy, I know they say you can't change your parents,... boy, if you could- (To Ross) -I'd want yours.",
+          "line_number": 181
+        },
+        {
+          "speaker": "Ross",
+          "line": "Must pee. (Goes to pee.)",
+          "line_number": 182
+        },
+        {
+          "speaker": "Phoebe",
+          "line": "Y'know, it's even worse when you're twins.",
+          "line_number": 183
+        },
+        {
+          "speaker": "Rachel",
+          "line": "You're twins?",
+          "line_number": 184
+        },
+        {
+          "speaker": "Phoebe",
+          "line": "Yeah. We don't speak. She's like this high-powered, driven career type.",
+          "line_number": 185
+        },
+        {
+          "speaker": "Chandler",
+          "line": "What does she do?",
+          "line_number": 186
+        },
+        {
+          "speaker": "Phoebe",
+          "line": "She's a waitress.",
+          "line_number": 187
+        },
+        {
+          "speaker": "Rachel",
+          "line": "All right, you guys, I kinda gotta clean up now. (They all start to leave.)",
+          "line_number": 188
+        },
+        {
+          "speaker": "Monica",
+          "line": "Chandler, you're an only child, right? You don't have any of this.",
+          "line_number": 189
+        },
+        {
+          "speaker": "Chandler",
+          "line": "Well, no, although I did have an imaginary friend, who... my parents actually preferred.",
+          "line_number": 190
+        },
+        {
+          "speaker": "Rachel",
+          "line": "The lights, please..",
+          "line_number": 192
+        },
+        {
+          "speaker": "Ross",
+          "line": "...How long was I in there?",
+          "line_number": 193
+        },
+        {
+          "speaker": "Rachel",
+          "line": "I'm just cleaning up.",
+          "line_number": 194
+        },
+        {
+          "speaker": "Ross",
+          "line": "D'ya.. uh.. d'ya need any help?",
+          "line_number": 195
+        },
+        {
+          "speaker": "Rachel",
+          "line": "Uh.. okay, sure! Thanks! (She hands him the broom and sits down.)",
+          "line_number": 196
+        },
+        {
+          "speaker": "Ross",
+          "line": "Anyway.. um.. (Starts to sweep.) So, you- uh- you nervous about Barry tomorrow?",
+          "line_number": 197
+        },
+        {
+          "speaker": "Rachel",
+          "line": "Oh.. a little..",
+          "line_number": 198
+        },
+        {
+          "speaker": "Ross",
+          "line": "Mm-hmm..",
+          "line_number": 199
+        },
+        {
+          "speaker": "Rachel",
+          "line": "A lot.",
+          "line_number": 200
+        },
+        {
+          "speaker": "Ross",
+          "line": "Mm.",
+          "line_number": 201
+        },
+        {
+          "speaker": "Rachel",
+          "line": "So, got any advice? Y'know, as someone who's recently been- dumped?",
+          "line_number": 202
+        },
+        {
+          "speaker": "Ross",
+          "line": "Well, you may wanna steer clear of the word 'dumped'. Chances are he's gonna be this, this broken shell of a man, y'know, so you should try not to look too terrific, I know it'll be hard. Or, y'know, uh, hey!, I'll go down there, and I'll give Barry back his ring, and you can go with Carol and Susan to the OB/GYN...",
+          "line_number": 205
+        },
+        {
+          "speaker": "Rachel",
+          "line": "Oh, you've got Carol tomorrow.. When did it get so complicated?",
+          "line_number": 206
+        },
+        {
+          "speaker": "Ross",
+          "line": "Got me.",
+          "line_number": 211,
+          "page_number": "6/11",
+          "cleaned": true
+        },
+        {
+          "speaker": "Rachel",
+          "line": "Remember when we were in high school together?",
+          "line_number": 212
+        },
+        {
+          "speaker": "Ross",
+          "line": "Yeah.",
+          "line_number": 213
+        },
+        {
+          "speaker": "Rachel",
+          "line": "I mean, didn't you think you were just gonna meet somone, fall in love- and that'd be it? (Ross gazes at her.) ..Ross?",
+          "line_number": 215
+        },
+        {
+          "speaker": "Ross",
+          "line": "Yes, yes!",
+          "line_number": 216
+        },
+        {
+          "speaker": "Rachel",
+          "line": "Oh! Man, I never thought I'd be here.. (She leans back onto his hand.)",
+          "line_number": 217
+        }
+      ],
+      "page_numbers": [
+        "6/11"
+      ],
+      "episode_title": "The One With the Sonogram at the End",
+      "stage_directions": [
+        {
+          "direction": "(Joey turns off the lights, and they all leave as Rachel starts to clean up.  Ross enters from the bathroom.)",
+          "line_number": 191
+        }
+      ],
+      "line_number_start": 172
+    },
+    {
+      "scene": "Carol's OB/GYN, Carol is waiting.",
+      "scene_number": 4,
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Bernice",
+        "Carol",
+        "Barry",
+        "Robbie",
+        "Susan"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Ross",
+          "line": "(entering) Sorry I'm late, I was stuck at work. There was this big dinosaur.. thing.. anyway.",
+          "line_number": 221
+        },
+        {
+          "speaker": "Susan",
+          "line": "Hi.",
+          "line_number": 222
+        },
+        {
+          "speaker": "Carol",
+          "line": "Ross, you remember Susan.",
+          "line_number": 223
+        },
+        {
+          "speaker": "Ross",
+          "line": "How could I forget?",
+          "line_number": 224
+        },
+        {
+          "speaker": "Susan",
+          "line": "Ross.",
+          "line_number": 225
+        },
+        {
+          "speaker": "Ross",
+          "line": "(they shake hands) Hello, Susan. (To Carol) Good shake. Good shake. So, uh, we're just waiting for...?",
+          "line_number": 226
+        },
+        {
+          "speaker": "Carol",
+          "line": "Dr. Oberman.",
+          "line_number": 227
+        },
+        {
+          "speaker": "Ross",
+          "line": "..Dr. Oberman. Okay. And is he-",
+          "line_number": 228
+        },
+        {
+          "speaker": "Susan",
+          "line": "She.",
+          "line_number": 229
+        },
+        {
+          "speaker": "Ross",
+          "line": "-she, of course, she- uh- familiar with our.. special situation?",
+          "line_number": 230
+        },
+        {
+          "speaker": "Carol",
+          "line": "Yes, and she's very supportive.",
+          "line_number": 231
+        },
+        {
+          "speaker": "Ross",
+          "line": "Okay, that's great. (Susan gives her drink to Carol.) No, I'm- Oh.",
+          "line_number": 232
+        },
+        {
+          "speaker": "Carol",
+          "line": "Thanks.",
+          "line_number": 233
+        },
+        {
+          "speaker": "Ross",
+          "line": "(picks up a surgical instrament and mimes a duck with it) Quack, quack..",
+          "line_number": 234
+        },
+        {
+          "speaker": "Carol",
+          "line": "Ross? That opens my cervix. (He drops it in horror.)",
+          "line_number": 236
+        },
+        {
+          "speaker": "Rachel",
+          "line": "Barry?",
+          "line_number": 237
+        },
+        {
+          "speaker": "Barry",
+          "line": "C'mon in.",
+          "line_number": 238
+        },
+        {
+          "speaker": "Rachel",
+          "line": "(hesitates) Are you sure?",
+          "line_number": 239
+        },
+        {
+          "speaker": "Barry",
+          "line": "Yeah! It's fine, it's fine. Robbie's gonna be here for hours.",
+          "line_number": 244,
+          "page_number": "7/11",
+          "cleaned": true
+        },
+        {
+          "speaker": "Robbie",
+          "line": "Huh?!",
+          "line_number": 245
+        },
+        {
+          "speaker": "Barry",
+          "line": "So, how ya doin?",
+          "line_number": 246
+        },
+        {
+          "speaker": "Rachel",
+          "line": "I'm- uh- I'm okay... You look great!",
+          "line_number": 247
+        },
+        {
+          "speaker": "Barry",
+          "line": "Yeah, well..",
+          "line_number": 248
+        },
+        {
+          "speaker": "Bernice",
+          "line": "(over intercom) Dr. Farber, Jason Greenstein's gagging.",
+          "line_number": 249
+        },
+        {
+          "speaker": "Barry",
+          "line": "(answering the intercom) Be right there. (To Robbie and Rachel) Be back in a sec.",
+          "line_number": 251
+        },
+        {
+          "speaker": "Rachel",
+          "line": "I dumped him.",
+          "line_number": 252
+        }
+      ],
+      "page_numbers": [
+        "7/11"
+      ],
+      "episode_title": "The One With the Sonogram at the End",
+      "stage_directions": [
+        {
+          "direction": "(Susan enters holding a drink.)",
+          "line_number": 220
+        },
+        {
+          "direction": "[Scene Barry's office, Barry is working on patient, Robbie, as Rachel enters.]",
+          "line_number": 235
+        },
+        {
+          "direction": "(As Barry exits Robbie stares at Rachel.)",
+          "line_number": 250
+        }
+      ],
+      "line_number_start": 218
+    },
+    {
+      "scene": "Carol's OB/GYN, they're talking about how this is going to work.",
+      "scene_number": 5,
+      "characters": [
+        "Susan",
+        "Ross",
+        "Carol"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Ross",
+          "line": "So, um- so how's this, uh, how's this gonna work? Y'know, with us? Y'know, when, like, important decisions have to be made?",
+          "line_number": 256
+        },
+        {
+          "speaker": "Carol",
+          "line": "Give me a 'for instance'.",
+          "line_number": 257
+        },
+        {
+          "speaker": "Ross",
+          "line": "Well, uh, uh, I don't know, okay, okay, how about with the, uh, with the baby's name?",
+          "line_number": 258
+        },
+        {
+          "speaker": "Carol",
+          "line": "Marlon-",
+          "line_number": 259
+        },
+        {
+          "speaker": "Ross",
+          "line": "Marlon?!",
+          "line_number": 260
+        },
+        {
+          "speaker": "Carol",
+          "line": "-if it's a boy, Minnie if it's a girl.",
+          "line_number": 261
+        },
+        {
+          "speaker": "Ross",
+          "line": "...As in Mouse?",
+          "line_number": 262
+        },
+        {
+          "speaker": "Carol",
+          "line": "As in my grandmother.",
+          "line_number": 263
+        },
+        {
+          "speaker": "Ross",
+          "line": "Still, you- you say Minnie, you hear Mouse. Um, how about, um.. how about Julia?",
+          "line_number": 264
+        },
+        {
+          "speaker": "Carol",
+          "line": "Julia..",
+          "line_number": 265
+        },
+        {
+          "speaker": "Susan",
+          "line": "We agreed on Minnie.",
+          "line_number": 266
+        }
+      ],
+      "page_numbers": [],
+      "episode_title": "The One With the Sonogram at the End",
+      "stage_directions": [],
+      "line_number_start": 253
+    },
+    {
+      "scene": "Barry's office, Rachel is doing her makeup in the mirror on Barry's lamp as Barry enters.",
+      "scene_number": 6,
+      "characters": [
+        "Rachel",
+        "Robbie",
+        "Barry"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Barry",
+          "line": "Sorry about that. So. What have you been up to?",
+          "line_number": 270
+        },
+        {
+          "speaker": "Rachel",
+          "line": "Oh, not much. I-I got a job.",
+          "line_number": 271
+        },
+        {
+          "speaker": "Barry",
+          "line": "Oh, that's great.",
+          "line_number": 272
+        },
+        {
+          "speaker": "Rachel",
+          "line": "Why are- why are you so tanned?",
+          "line_number": 273
+        },
+        {
+          "speaker": "Barry",
+          "line": "Oh, I, uh- I went to Aruba.",
+          "line_number": 278,
+          "page_number": "8/11",
+          "cleaned": true
+        },
+        {
+          "speaker": "Rachel",
+          "line": "Oh no. You went on our honeymoon alone?",
+          "line_number": 279
+        },
+        {
+          "speaker": "Barry",
+          "line": "No. I went with, uh.. Now, this may hurt.",
+          "line_number": 280
+        },
+        {
+          "speaker": "Robbie",
+          "line": "Me?!",
+          "line_number": 281
+        },
+        {
+          "speaker": "Barry",
+          "line": "No! (To Rachel) I went with Mindy.",
+          "line_number": 282
+        },
+        {
+          "speaker": "Rachel",
+          "line": "Mindy?! My maid of honour, Mindy?!",
+          "line_number": 283
+        },
+        {
+          "speaker": "Barry",
+          "line": "Yeah, well, uh, we're kind of a thing now.",
+          "line_number": 284
+        },
+        {
+          "speaker": "Rachel",
+          "line": "Oh! Well, um.. (Grabs his forehand) You've got plugs!",
+          "line_number": 285
+        },
+        {
+          "speaker": "Barry",
+          "line": "Careful! They haven't quite taken yet.",
+          "line_number": 286
+        },
+        {
+          "speaker": "Rachel",
+          "line": "And you've got lenses! But you hate sticking your finger in your eye!",
+          "line_number": 287
+        },
+        {
+          "speaker": "Barry",
+          "line": "Not for her. Listen, I really wanted to thank you.",
+          "line_number": 288
+        },
+        {
+          "speaker": "Rachel",
+          "line": "Okay..",
+          "line_number": 289
+        },
+        {
+          "speaker": "Barry",
+          "line": "See, about a month ago, I wanted to hurt you. More than I've ever wanted to hurt anyone in my life. And I'm an orthodontist.",
+          "line_number": 291
+        },
+        {
+          "speaker": "Rachel",
+          "line": "Wow.",
+          "line_number": 292
+        },
+        {
+          "speaker": "Barry",
+          "line": "You know, you were right? I mean, I thought we were happy. We weren't happy. But with Mindy, now I'm happy. Spit.",
+          "line_number": 294
+        },
+        {
+          "speaker": "Rachel",
+          "line": "What?",
+          "line_number": 295
+        },
+        {
+          "speaker": "Robbie",
+          "line": "Me. (Spits.)",
+          "line_number": 296
+        },
+        {
+          "speaker": "Rachel",
+          "line": "Anyway, um, (Gets the ring out of her purse.) I guess this belongs to you. And thank you for giving it to me.",
+          "line_number": 298
+        },
+        {
+          "speaker": "Barry",
+          "line": "Well, thank you for giving it back.",
+          "line_number": 300
+        }
+      ],
+      "page_numbers": [
+        "8/11"
+      ],
+      "episode_title": "The One With the Sonogram at the End",
+      "stage_directions": [
+        {
+          "direction": "(Barry and Rachel look at each other.)",
+          "line_number": 299
+        }
+      ],
+      "line_number_start": 268
+    },
+    {
+      "scene": "Carol's OB/GYN, they're still arguing about what to name the baby.",
+      "scene_number": 7,
+      "characters": [
+        "All",
+        "Susan",
+        "Ross",
+        "Carol"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Susan",
+          "line": "Oh, please! What's wrong with Helen?",
+          "line_number": 303
+        },
+        {
+          "speaker": "Ross",
+          "line": "Helen Geller? I don't think so.",
+          "line_number": 304
+        },
+        {
+          "speaker": "Carol",
+          "line": "Hello? It's not gonna be Helen Geller.",
+          "line_number": 305
+        },
+        {
+          "speaker": "Ross",
+          "line": "Thank you!",
+          "line_number": 306
+        },
+        {
+          "speaker": "Carol",
+          "line": "No, I mean it's not Geller.",
+          "line_number": 307
+        },
+        {
+          "speaker": "Ross",
+          "line": "What, it's gonna be Helen Willick?",
+          "line_number": 312,
+          "page_number": "9/11",
+          "cleaned": true
+        },
+        {
+          "speaker": "Carol",
+          "line": "No, actually, um, we talked about Helen Willick-Bunch.",
+          "line_number": 313
+        },
+        {
+          "speaker": "Ross",
+          "line": "Well, wait a minute, wha- why is she in the title?",
+          "line_number": 314
+        },
+        {
+          "speaker": "Susan",
+          "line": "It's my baby too.",
+          "line_number": 315
+        },
+        {
+          "speaker": "Ross",
+          "line": "Oh, 's'funny, really? Um, I don't remember you making any sperm.",
+          "line_number": 316
+        },
+        {
+          "speaker": "Susan",
+          "line": "Yeah, and we all know what a challenge that is!",
+          "line_number": 317
+        },
+        {
+          "speaker": "Carol",
+          "line": "All right, you two, stop it!",
+          "line_number": 318
+        },
+        {
+          "speaker": "Ross",
+          "line": "No no no, she gets a credit, hey, I'm in there too.",
+          "line_number": 319
+        },
+        {
+          "speaker": "Carol",
+          "line": "Ross. You're not actually suggesting Helen Willick-Bunch-Geller? 'Cause I think that borders on child abuse.",
+          "line_number": 321
+        },
+        {
+          "speaker": "Ross",
+          "line": "Of course not, I'm... suggesting Geller-Willick-Bunch.",
+          "line_number": 322
+        },
+        {
+          "speaker": "Susan",
+          "line": "Oh, no, nonononono, you see what he's doing? He knows no-one's gonna say all those names, so they'll wind up calling her Geller, then he gets his way!",
+          "line_number": 324
+        },
+        {
+          "speaker": "Ross",
+          "line": "My way?! You-you think this is my way? Believe me, of all the ways I ever imagined this moment in my life being, this is not my way- y'know what? Uh, um, this is too hard. I'm not, I can't do- Dr. Oberman: (entering) Knock knock!How are we today? Any nausea?",
+          "line_number": 327
+        },
+        {
+          "speaker": "All",
+          "line": "Yeah. Yeah. A little. Dr. Oberman: Well, I was just wondering about the mother-to-be, but.. thanks for sharing. (To Carol) Uh, lie back..",
+          "line_number": 330
+        },
+        {
+          "speaker": "Ross",
+          "line": "You- uh- y'know what, I'm gonna go. I don't- I don't think I can be involved in this particular thing right now.",
+          "line_number": 333
+        },
+        {
+          "speaker": "Ross",
+          "line": "Oh my God.",
+          "line_number": 334
+        },
+        {
+          "speaker": "Susan",
+          "line": "Look at that.",
+          "line_number": 335
+        }
+      ],
+      "page_numbers": [
+        "9/11"
+      ],
+      "episode_title": "The One With the Sonogram at the End",
+      "stage_directions": [
+        {
+          "direction": "(He turns to go, but the sound of the sonogram catches hes ear.  He returns and stares at it.)",
+          "line_number": 332
+        }
+      ],
+      "line_number_start": 301
+    },
+    {
+      "scene": null,
+      "scene_number": 8,
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Joey",
+        "Phoebe",
+        "Monica",
+        "Chandler"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Ross",
+          "line": "Well? Isn't that amazing?",
+          "line_number": 340
+        },
+        {
+          "speaker": "Joey",
+          "line": "What are we supposed to be seeing here?",
+          "line_number": 341
+        },
+        {
+          "speaker": "Chandler",
+          "line": "I dunno, but.. I think it's about to attack the Enterprise.",
+          "line_number": 342
+        },
+        {
+          "speaker": "Phoebe",
+          "line": "You know, if you tilt your head to the left, and relax your eyes, it kinda looks like an old potato.",
+          "line_number": 343
+        },
+        {
+          "speaker": "Ross",
+          "line": "Then don't do that, alright?",
+          "line_number": 348,
+          "page_number": "10/11",
+          "cleaned": true
+        },
+        {
+          "speaker": "Phoebe",
+          "line": "Okay!",
+          "line_number": 349
+        },
+        {
+          "speaker": "Ross",
+          "line": "(walks over to where Monica is standing)Monica. Whaddya think?",
+          "line_number": 350
+        },
+        {
+          "speaker": "Monica",
+          "line": "(welling up) Mm-hmm.",
+          "line_number": 351
+        },
+        {
+          "speaker": "Ross",
+          "line": "Wh- are you welling up?",
+          "line_number": 352
+        },
+        {
+          "speaker": "Monica",
+          "line": "No.",
+          "line_number": 353
+        },
+        {
+          "speaker": "Ross",
+          "line": "You are, you're welling up.",
+          "line_number": 354
+        },
+        {
+          "speaker": "Monica",
+          "line": "Am not!",
+          "line_number": 355
+        },
+        {
+          "speaker": "Ross",
+          "line": "You're gonna be an aunt.",
+          "line_number": 356
+        },
+        {
+          "speaker": "Monica",
+          "line": "(pushes him and starts to cry) Oh shut up!",
+          "line_number": 357
+        },
+        {
+          "speaker": "Rachel",
+          "line": "(on phone) Hi, Mindy. Hi, it-it's Rachel. Yeah, I'm fine. I-I saw Barry today. Oh, yeah, yeah he-he told me. No, no, it's okay. I hope you two are very happy, I really do. Oh, oh, and Mind, y'know, if-if everything works out, and you guys end up getting married and having kids- and everything- I just hope they have his old hairline and your old nose. (Slams the phone down.) (To everyone) Okay, I know it was a cheap shot, but I feel so much better now. End",
+          "line_number": 366,
+          "page_number": "11/11",
+          "cleaned": true
+        }
+      ],
+      "page_numbers": [
+        "10/11",
+        "11/11"
+      ],
+      "episode_title": "The One With the Sonogram at the End",
+      "stage_directions": [],
+      "line_number_start": 337
+    }
+  ],
+  "parsing_info": {
+    "parser_version": "2.0",
+    "total_lines_processed": 366,
+    "parsing_date": "2025-07-07T23:36:18.028600",
+    "dialogue_lines_cleaned": 10
+  }
+}

@@ -1,0 +1,1461 @@
+{
+  "metadata": {
+    "episode_title": "The One With the Butt",
+    "season": 1,
+    "episode_number": 6,
+    "series_episode_number": 6,
+    "air_date": null,
+    "writers": [
+      "Adam Chase",
+      "Ira Ungerleider"
+    ],
+    "directors": [],
+    "story_by": [],
+    "teleplay_by": [],
+    "production_code": null,
+    "total_pages": 10,
+    "file_info": {
+      "filename": "S1_Ep6.pdf",
+      "file_path": "Raw_Data/S1_Scripts/S1_Ep6.pdf",
+      "file_size": 204654,
+      "extraction_date": "2025-07-07T23:37:50.292016"
+    }
+  },
+  "statistics": {
+    "total_scenes": 9,
+    "total_dialogue_lines": 211,
+    "character_stats": {
+      "Joey": {
+        "total_lines": 28,
+        "scenes_appeared": 7,
+        "average_lines_per_scene": 4.0
+      },
+      "Ross": {
+        "total_lines": 19,
+        "scenes_appeared": 5,
+        "average_lines_per_scene": 3.8
+      },
+      "Rachel": {
+        "total_lines": 15,
+        "scenes_appeared": 5,
+        "average_lines_per_scene": 3.0
+      },
+      "Phoebe": {
+        "total_lines": 9,
+        "scenes_appeared": 5,
+        "average_lines_per_scene": 1.8
+      },
+      "Chandler": {
+        "total_lines": 57,
+        "scenes_appeared": 7,
+        "average_lines_per_scene": 8.142857142857142
+      },
+      "All": {
+        "total_lines": 14,
+        "scenes_appeared": 4,
+        "average_lines_per_scene": 3.5
+      },
+      "Monica": {
+        "total_lines": 33,
+        "scenes_appeared": 6,
+        "average_lines_per_scene": 5.5
+      },
+      "Aurora": {
+        "total_lines": 29,
+        "scenes_appeared": 3,
+        "average_lines_per_scene": 9.666666666666666
+      },
+      "Director": {
+        "total_lines": 7,
+        "scenes_appeared": 1,
+        "average_lines_per_scene": 7.0
+      }
+    },
+    "scene_lengths": [
+      4,
+      35,
+      42,
+      42,
+      16,
+      12,
+      34,
+      25,
+      1
+    ],
+    "average_scene_length": 23.444444444444443,
+    "longest_scene": {
+      "length": 42,
+      "scene_index": 2
+    },
+    "shortest_scene": {
+      "length": 1,
+      "scene_index": 8
+    },
+    "page_range": {
+      "start": 1,
+      "end": 10
+    },
+    "unique_characters": [
+      "Director",
+      "Joey",
+      "All",
+      "Ross",
+      "Rachel",
+      "Phoebe",
+      "Monica",
+      "Chandler",
+      "Aurora"
+    ],
+    "speaking_characters": [
+      "Director",
+      "Joey",
+      "All",
+      "Ross",
+      "Rachel",
+      "Phoebe",
+      "Monica",
+      "Chandler",
+      "Aurora"
+    ]
+  },
+  "script": [
+    {
+      "scene": "A Theater, the gang is in the audience wating for a play of Joey's to start.",
+      "scene_number": 1,
+      "characters": [
+        "Joey",
+        "Ross",
+        "Rachel",
+        "Phoebe",
+        "Chandler"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Rachel",
+          "line": "(reading the program) Ooh! Look! Look! Look! Look, there's Joey's picture! This is so exciting!",
+          "line_number": 6
+        },
+        {
+          "speaker": "Chandler",
+          "line": "You can always spot someone who's never seen one of his plays before. Notice, no fear, no sense of impending doom...",
+          "line_number": 8
+        },
+        {
+          "speaker": "Phoebe",
+          "line": "The exclamation point in the title scares me. (Gesturing) Y'know, it's not just Freud, it's Freud!",
+          "line_number": 10
+        },
+        {
+          "speaker": "Ross",
+          "line": "Oh, shhh, shh. Magic is about to happen.",
+          "line_number": 12
+        }
+      ],
+      "page_numbers": [],
+      "episode_title": "The One With the Butt",
+      "stage_directions": [
+        {
+          "direction": "(The lights dim.)",
+          "line_number": 9
+        },
+        {
+          "direction": "(The lights go up on the stage, Joey, as Freud, is talking to a female patient.)",
+          "line_number": 11
+        }
+      ],
+      "line_number_start": 4
+    },
+    {
+      "scene": null,
+      "scene_number": 2,
+      "characters": [
+        "Joey",
+        "All",
+        "Ross",
+        "Rachel",
+        "Phoebe",
+        "Monica",
+        "Chandler",
+        "Aurora"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Rachel",
+          "line": "God. I feel violated.",
+          "line_number": 22
+        },
+        {
+          "speaker": "Monica",
+          "line": "Did anybody else feel they just wanted to peel the skin off their body, to have something else to do?",
+          "line_number": 23
+        },
+        {
+          "speaker": "Chandler",
+          "line": "(staring at a woman across the room) Ross, ten o'clock.",
+          "line_number": 24
+        },
+        {
+          "speaker": "Ross",
+          "line": "Is it? Feels like two.",
+          "line_number": 25
+        },
+        {
+          "speaker": "Chandler",
+          "line": "No, ten o'clock.",
+          "line_number": 26
+        },
+        {
+          "speaker": "Ross",
+          "line": "What?",
+          "line_number": 27
+        },
+        {
+          "speaker": "Chandler",
+          "line": "(sighs and gestures to explain) There's a beautiful woman at eight, nine, ten o'clock!",
+          "line_number": 28
+        },
+        {
+          "speaker": "Ross",
+          "line": "Oh. Hel-lo!",
+          "line_number": 29
+        },
+        {
+          "speaker": "Chandler",
+          "line": "She's amazing! She makes the women that I dream about look like short, fat, bald men!",
+          "line_number": 30
+        },
+        {
+          "speaker": "Monica",
+          "line": "Well, go over to her! She's not with anyone.",
+          "line_number": 35,
+          "page_number": "1/10",
+          "cleaned": true
+        },
+        {
+          "speaker": "Chandler",
+          "line": "Oh yeah, and what would my opening line be? 'Excuse me. Blarrglarrghh.'",
+          "line_number": 36
+        },
+        {
+          "speaker": "Rachel",
+          "line": "Oh, c'mon. She's a person, you can do it!",
+          "line_number": 37
+        },
+        {
+          "speaker": "Chandler",
+          "line": "Oh please, could she be more out of my league? Ross, back me up here.",
+          "line_number": 38
+        },
+        {
+          "speaker": "Ross",
+          "line": "He could never get a woman like that in a million years.",
+          "line_number": 39
+        },
+        {
+          "speaker": "Chandler",
+          "line": "Thank you, buddy.",
+          "line_number": 40
+        },
+        {
+          "speaker": "Phoebe",
+          "line": "Oh, oh, but y'know, you always see these really beautiful women with these really nothing guys, you could be one of those guys.",
+          "line_number": 42
+        },
+        {
+          "speaker": "Monica",
+          "line": "You could do that!",
+          "line_number": 43
+        },
+        {
+          "speaker": "Chandler",
+          "line": "Y'think?",
+          "line_number": 44
+        },
+        {
+          "speaker": "All",
+          "line": "Yeah!",
+          "line_number": 45
+        },
+        {
+          "speaker": "Chandler",
+          "line": "Oh God, I can't believe I'm even considering this... I'm very very aware of my tongue...",
+          "line_number": 46
+        },
+        {
+          "speaker": "Ross",
+          "line": "C'mon! C'mon!",
+          "line_number": 47
+        },
+        {
+          "speaker": "Chandler",
+          "line": "Here goes. (He walks over to her but just stands there.)",
+          "line_number": 48
+        },
+        {
+          "speaker": "Aurora",
+          "line": "...Yes?",
+          "line_number": 49
+        },
+        {
+          "speaker": "Chandler",
+          "line": "Hi.... um... okay, next word... would be... Chandler! Chandler is my name, and, uh...(He clears his throat noisily)...hi.",
+          "line_number": 51
+        },
+        {
+          "speaker": "Aurora",
+          "line": "Yes, you said that.",
+          "line_number": 52
+        },
+        {
+          "speaker": "Chandler",
+          "line": "Yes, yes I did, but what I didn't say was what I was about to say, what I wanted to say was, uh... would you like to go out with me sometime, thankyou, goodnight. (He walks back to the others but she calls him back.)",
+          "line_number": 55
+        },
+        {
+          "speaker": "Aurora",
+          "line": "Chandler?",
+          "line_number": 57
+        },
+        {
+          "speaker": "All",
+          "line": "Hey! You're in a play! I didn't know you could dance! You had a beard!",
+          "line_number": 58
+        },
+        {
+          "speaker": "Joey",
+          "line": "Whadja think?",
+          "line_number": 60
+        },
+        {
+          "speaker": "All",
+          "line": "...Hey! You're in a play! I didn't know you could dance! You had a beard!",
+          "line_number": 61
+        },
+        {
+          "speaker": "Joey",
+          "line": "C'mon, you guys, it wasn't that bad. It was better than that thing I did with the trolls, at least you got to see my head.",
+          "line_number": 63
+        },
+        {
+          "speaker": "All",
+          "line": "(admitting) Saw your head. Saw your head.",
+          "line_number": 64
+        },
+        {
+          "speaker": "Chandler",
+          "line": "(running back) She said yes!! She said yes!! (To Joey) Awful play, man. Whoah. (To All) Her name's Aurora, and she's Italian, and she pronounces my name 'Chand-lrr'. 'Chand-lrr'. I think I like it better that way.",
+          "line_number": 71,
+          "page_number": "2/10",
+          "cleaned": true
+        },
+        {
+          "speaker": "Rachel",
+          "line": "What is it?",
+          "line_number": 72
+        },
+        {
+          "speaker": "Joey",
+          "line": "The Estelle Leonard Talent Agency. Wow, an agency left me its card! Maybe they wanna sign me!",
+          "line_number": 73
+        }
+      ],
+      "page_numbers": [
+        "1/10",
+        "2/10"
+      ],
+      "episode_title": "The One With the Butt",
+      "stage_directions": [
+        {
+          "direction": "(Joey enters from behind a curtain.  The others all talk at once.)",
+          "line_number": 56
+        },
+        {
+          "direction": "(Pause)",
+          "line_number": 59
+        },
+        {
+          "direction": "(To Joey) Oh, listen, the usher gave me this to give to you. (He fishes a card out of his pocket.)",
+          "line_number": 66
+        }
+      ],
+      "line_number_start": 19
+    },
+    {
+      "scene": "Central Perk, everyone else is there as Chandler enters.",
+      "scene_number": 3,
+      "characters": [
+        "Joey",
+        "All",
+        "Ross",
+        "Monica",
+        "Phoebe",
+        "Chandler",
+        "Aurora"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Chandler",
+          "line": "Hey, kids.",
+          "line_number": 76
+        },
+        {
+          "speaker": "All",
+          "line": "Hey.",
+          "line_number": 77
+        },
+        {
+          "speaker": "Phoebe",
+          "line": "(reading Monica's palm) No, 'cause this line is passion, and this is... just a line.",
+          "line_number": 78
+        },
+        {
+          "speaker": "Chandler",
+          "line": "Well, I can't believe I've been here almost seven seconds and you haven't asked me how my date went.",
+          "line_number": 80
+        },
+        {
+          "speaker": "Monica",
+          "line": "Oh, right, right. How was your date, 'Chand-lrr'?",
+          "line_number": 81
+        },
+        {
+          "speaker": "Chandler",
+          "line": "It was unbelievable. I-I've never met anyone like her. She's had the most amazing life! She was in the Israeli army...",
+          "line_number": 84
+        },
+        {
+          "speaker": "Aurora",
+          "line": "...Luckily none of the bullets hit the engine block. So, we made it to the border, but just barely, and I- ...I've been talking about myself all night long, I'm sorry. What about you? Tell me one of your stories.",
+          "line_number": 86
+        },
+        {
+          "speaker": "Chandler",
+          "line": "Alright. Once I got on the subway, right, and it was at night, and I rode it all the way to Brooklyn... just for the hell of it.",
+          "line_number": 88
+        },
+        {
+          "speaker": "Chandler",
+          "line": "We talked 'til like two. It was this perfect evening... more or less.",
+          "line_number": 89
+        },
+        {
+          "speaker": "Aurora",
+          "line": "...All of a sudden we realised we were in Yammon.",
+          "line_number": 90
+        },
+        {
+          "speaker": "Chandler",
+          "line": "Oh, I'm sorry, so 'we' is?",
+          "line_number": 91
+        },
+        {
+          "speaker": "Aurora",
+          "line": "'We' would be me and Rick.",
+          "line_number": 92
+        },
+        {
+          "speaker": "Joey",
+          "line": "Who's Rick?",
+          "line_number": 93
+        },
+        {
+          "speaker": "Chandler",
+          "line": "Who's Rick?",
+          "line_number": 94
+        },
+        {
+          "speaker": "Aurora",
+          "line": "My husband.",
+          "line_number": 95
+        },
+        {
+          "speaker": "All",
+          "line": "Ooooohhh.",
+          "line_number": 96
+        },
+        {
+          "speaker": "Chandler",
+          "line": "Oh, so you're divorced?",
+          "line_number": 97
+        },
+        {
+          "speaker": "Aurora",
+          "line": "No.",
+          "line_number": 98
+        },
+        {
+          "speaker": "Chandler",
+          "line": "Oh, I'm sorry, then you're widowed?...Hopefully?",
+          "line_number": 99
+        },
+        {
+          "speaker": "Aurora",
+          "line": "No, I'm still married.",
+          "line_number": 100
+        },
+        {
+          "speaker": "Chandler",
+          "line": "So tell me, how do- how do you think your husband would feel about you sitting here with me?...Sliding your foot so far up my pant leg you can count the change in my pocket?",
+          "line_number": 106,
+          "page_number": "3/10",
+          "cleaned": true
+        },
+        {
+          "speaker": "Aurora",
+          "line": "Don't worry. I imagine he'd be okay with you because really, he's okay with Ethan.",
+          "line_number": 107
+        },
+        {
+          "speaker": "Chandler",
+          "line": "Ethan? There's, there's an Ethan?",
+          "line_number": 108
+        },
+        {
+          "speaker": "Aurora",
+          "line": "Mmmm... Ethan is my... boyfriend.",
+          "line_number": 109
+        },
+        {
+          "speaker": "All",
+          "line": "What?!",
+          "line_number": 110
+        },
+        {
+          "speaker": "Chandler",
+          "line": "So explain something to me here, uh, what kind of a relationship do you imagine us having if you already have a husband and a boyfriend?",
+          "line_number": 112
+        },
+        {
+          "speaker": "Aurora",
+          "line": "I suppose mainly sexual.",
+          "line_number": 113
+        },
+        {
+          "speaker": "Chandler",
+          "line": "...Hm.",
+          "line_number": 114
+        },
+        {
+          "speaker": "Monica",
+          "line": "Oh. I'm sorry it didn't work out.",
+          "line_number": 115
+        },
+        {
+          "speaker": "Chandler",
+          "line": "What 'not work out'? I'm seeing her again on Thursday. Didn't you listen to the story?",
+          "line_number": 116
+        },
+        {
+          "speaker": "Monica",
+          "line": "Didn't you listen to the story? I mean, this is twisted! How could you get involved with a woman like this?",
+          "line_number": 118
+        },
+        {
+          "speaker": "Chandler",
+          "line": "Well, y'know, I had some trouble with it at first too, but the way I look at it is, I get all the good stuff: all the fun, all the talking, all the sex; and none of the responsibility. I mean, this is every guy's fantasy!",
+          "line_number": 120
+        },
+        {
+          "speaker": "Phoebe",
+          "line": "Oh, yeah. That is not true. Ross, is this your fantasy?",
+          "line_number": 121
+        },
+        {
+          "speaker": "Ross",
+          "line": "No, of course not! (Thinks) ...Yeah, yeah, it is.",
+          "line_number": 122
+        },
+        {
+          "speaker": "Monica",
+          "line": "What? So you guys don't mind going out with someone else who's going out with someone else?",
+          "line_number": 123
+        },
+        {
+          "speaker": "Joey",
+          "line": "I couldn't do it.",
+          "line_number": 124
+        },
+        {
+          "speaker": "Monica",
+          "line": "Good for you, Joey.",
+          "line_number": 125
+        },
+        {
+          "speaker": "Joey",
+          "line": "When I'm with a woman, I need to know that I'm going out with more people than she is.",
+          "line_number": 126
+        },
+        {
+          "speaker": "Ross",
+          "line": "Well, y'know, monogamy can be a, uh, tricky concept. I mean, anthropologically speaking-",
+          "line_number": 128
+        },
+        {
+          "speaker": "Ross",
+          "line": "Fine. Fine, alright, now you'll never know.",
+          "line_number": 129
+        },
+        {
+          "speaker": "Monica",
+          "line": "We're kidding. C'mon, tell us!",
+          "line_number": 130
+        },
+        {
+          "speaker": "All",
+          "line": "Yeah! C'mon!",
+          "line_number": 131
+        }
+      ],
+      "page_numbers": [
+        "3/10"
+      ],
+      "episode_title": "The One With the Butt",
+      "stage_directions": [
+        {
+          "direction": "(A flashback of Aurora and Chandler on their date in Central Perk is denoted by italics.)",
+          "line_number": 83
+        },
+        {
+          "direction": "(They all pretend to fall asleep.)",
+          "line_number": 127
+        },
+        {
+          "direction": "(They all fall asleep again.)",
+          "line_number": 132
+        }
+      ],
+      "line_number_start": 74
+    },
+    {
+      "scene": "Monica and Rachel's, Rachel is there as enter except Joey enter.",
+      "scene_number": 4,
+      "characters": [
+        "Joey",
+        "All",
+        "Ross",
+        "Rachel",
+        "Monica",
+        "Phoebe",
+        "Chandler"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Rachel",
+          "line": "Tah-daaah!",
+          "line_number": 135
+        },
+        {
+          "speaker": "Chandler",
+          "line": "Are we greeting each other this way now? 'Cause I like that.",
+          "line_number": 140,
+          "page_number": "4/10",
+          "cleaned": true
+        },
+        {
+          "speaker": "Rachel",
+          "line": "Look! I cleaned! I did the windows, I did the floors... I even used all the attachments on the vacuum, except that little round one with the bristles, I don't know what that's for.",
+          "line_number": 142
+        },
+        {
+          "speaker": "Ross",
+          "line": "Oh yeah, nobody knows. And we're not supposed to ask.",
+          "line_number": 143
+        },
+        {
+          "speaker": "Rachel",
+          "line": "Well, whaddya think?",
+          "line_number": 144
+        },
+        {
+          "speaker": "All",
+          "line": "Very clean! It looks great! Terrific!",
+          "line_number": 145
+        },
+        {
+          "speaker": "Monica",
+          "line": "...Oh! I-I see you moved the green ottoman.",
+          "line_number": 146
+        },
+        {
+          "speaker": "All",
+          "line": "Uh-oh...",
+          "line_number": 147
+        },
+        {
+          "speaker": "Monica",
+          "line": "How-how did that happen?",
+          "line_number": 148
+        },
+        {
+          "speaker": "Rachel",
+          "line": "I dunno.. I-I thought it looked better there. And I- and also, it's an extra seat around the coffee table.",
+          "line_number": 149
+        },
+        {
+          "speaker": "Monica",
+          "line": "Yeah, yeah, it's interesting.. but y'know what? Just for fun, let's see what it looked like in the old spot. while.",
+          "line_number": 152
+        },
+        {
+          "speaker": "Phoebe",
+          "line": "(to Rachel) I can't believe you tried to move the green ottoman.",
+          "line_number": 153
+        },
+        {
+          "speaker": "Chandler",
+          "line": "Thank God you didn't try to fan out the magazines. I mean, she'll scratch your eyes right out.",
+          "line_number": 154
+        },
+        {
+          "speaker": "Monica",
+          "line": "You guys, I am not that bad!",
+          "line_number": 155
+        },
+        {
+          "speaker": "Phoebe",
+          "line": "Yeah, you are, Monica. Remember when I lived with you? You were like, a little, y'know, (psycho) Ree! Ree! Ree! Ree!",
+          "line_number": 157
+        },
+        {
+          "speaker": "Monica",
+          "line": "That is so unfair!",
+          "line_number": 158
+        },
+        {
+          "speaker": "Ross",
+          "line": "Oh c'mon! When we were kids, yours was the only Raggedy Ann doll that wasn't raggedy!",
+          "line_number": 159
+        },
+        {
+          "speaker": "Monica",
+          "line": "Okay, so I'm responsible, I'm organised. But hey, I can be a kook.",
+          "line_number": 160
+        },
+        {
+          "speaker": "Ross",
+          "line": "Alright, you madcap gal. Try to imagine this. The phone bill arrives, but you don't pay it right away.",
+          "line_number": 161
+        },
+        {
+          "speaker": "Monica",
+          "line": "Why not?",
+          "line_number": 162
+        },
+        {
+          "speaker": "Ross",
+          "line": "Because you're a kook! Instead you wait until they send you a notice.",
+          "line_number": 163
+        },
+        {
+          "speaker": "Monica",
+          "line": "I could do that.",
+          "line_number": 164
+        },
+        {
+          "speaker": "Rachel",
+          "line": "Okay, uh, you let me go grocery shopping, and I buy laundry detergent, but it's not the one with the easy-pour spout.",
+          "line_number": 166
+        },
+        {
+          "speaker": "Monica",
+          "line": "Why would someone do that?! ...One might wonder.",
+          "line_number": 167
+        },
+        {
+          "speaker": "Chandler",
+          "line": "Someone's left a glass on the coffee table. There's no coaster. It's a cold drink, it's a hot day. Little beads of condensation are inching their way closer and closer to the surface of the wood...",
+          "line_number": 169
+        },
+        {
+          "speaker": "Monica",
+          "line": "STOP IT!! ...Oh my God. It's true! Who am I?",
+          "line_number": 170
+        },
+        {
+          "speaker": "Ross",
+          "line": "Monica? You're Mom.",
+          "line_number": 176,
+          "page_number": "5/10",
+          "cleaned": true
+        },
+        {
+          "speaker": "Phoebe",
+          "line": "Ree! Ree! Ree! Ree! Ree!",
+          "line_number": 178
+        },
+        {
+          "speaker": "Joey",
+          "line": "(on phone) Uh huh.. uh huh... oh my God! Okay! Okay, I'll be there! (He hangs up and to all.) That was my agent. (He tosses and catches the phone.) My agent has just gotten me a job...in the new Al Pacino movie!",
+          "line_number": 180
+        },
+        {
+          "speaker": "All",
+          "line": "Oh my God! Whoah!",
+          "line_number": 181
+        },
+        {
+          "speaker": "Monica",
+          "line": "Well, what's the part?",
+          "line_number": 182
+        },
+        {
+          "speaker": "Joey",
+          "line": "Can you believe this? Al Pacino! This guy's the reason I became an actor! \"I'm out of order? Pfeeeh. You're out of order! This whole courtroom's out of order!\"",
+          "line_number": 184
+        },
+        {
+          "speaker": "Phoebe",
+          "line": "Seriously, what-what's the part?",
+          "line_number": 185
+        },
+        {
+          "speaker": "Joey",
+          "line": "\"Just when I thought I was out, they pull me back in!\"",
+          "line_number": 186
+        },
+        {
+          "speaker": "Ross",
+          "line": "C'mon, seriously, Joey, what's the part?",
+          "line_number": 187
+        },
+        {
+          "speaker": "Joey",
+          "line": "...I'm his (mumbles)",
+          "line_number": 188
+        },
+        {
+          "speaker": "Rachel",
+          "line": "..You're, you're 'mah mah mah' what?",
+          "line_number": 189
+        },
+        {
+          "speaker": "Joey",
+          "line": "...I'm his butt double. 'Kay? I play Al Pacino's butt. Alright? He goes into the shower, and then- I'm his butt.",
+          "line_number": 191
+        },
+        {
+          "speaker": "Monica",
+          "line": "(trying not to laugh) Oh my God.",
+          "line_number": 192
+        },
+        {
+          "speaker": "Joey",
+          "line": "C'mon, you guys. This is a real movie, and Al Pacino's in it, and that's big!",
+          "line_number": 193
+        },
+        {
+          "speaker": "Chandler",
+          "line": "Oh no, it's terrific, it's... it's... y'know, you deserve this, after all your years of struggling, you've finally been able to crack your way into showbusiness.",
+          "line_number": 195
+        },
+        {
+          "speaker": "Joey",
+          "line": "Okay, okay, fine! Make jokes, I don't care! This is a big break for me!",
+          "line_number": 196
+        }
+      ],
+      "page_numbers": [
+        "4/10",
+        "5/10"
+      ],
+      "episode_title": "The One With the Butt",
+      "stage_directions": [
+        {
+          "direction": "(She moves it.) Alright, just to compare. Let's see. Well, it looks good there too. Let's just leave it there for a",
+          "line_number": 150
+        },
+        {
+          "direction": "(Monica gasps.)",
+          "line_number": 171
+        },
+        {
+          "direction": "(Joey enters and he's on the phone.)",
+          "line_number": 177
+        }
+      ],
+      "line_number_start": 133
+    },
+    {
+      "scene": "Monica and Rachel's, the next morning, Monica is getting the door.",
+      "scene_number": 5,
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Monica",
+        "Chandler"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Monica",
+          "line": "Alright, alright, alright...",
+          "line_number": 201
+        },
+        {
+          "speaker": "Joey",
+          "line": "Here. I need to borrow some moisturizer.",
+          "line_number": 202
+        },
+        {
+          "speaker": "Monica",
+          "line": "For what?",
+          "line_number": 203
+        },
+        {
+          "speaker": "Joey",
+          "line": "Whaddya think? Today's the big day!",
+          "line_number": 204
+        },
+        {
+          "speaker": "Monica",
+          "line": "Oh my God. Okay, go into the bathroom, use whatever you want, just don't ever tell me what you did in there.",
+          "line_number": 206
+        },
+        {
+          "speaker": "Joey",
+          "line": "Thank you! (He goes into the bathroom.)",
+          "line_number": 212,
+          "page_number": "6/10",
+          "cleaned": true
+        },
+        {
+          "speaker": "Chandler",
+          "line": "Where's Joey? His mom's on the phone.",
+          "line_number": 213
+        },
+        {
+          "speaker": "Monica",
+          "line": "He's in the bathroom. I don't think you wanna go in there!",
+          "line_number": 214
+        },
+        {
+          "speaker": "Chandler",
+          "line": "C'mon, we're roommates! (He goes into the bathroom, screams, and runs back out.) My eyes!! My eyes!!",
+          "line_number": 216
+        },
+        {
+          "speaker": "Monica",
+          "line": "I warned you...",
+          "line_number": 218
+        },
+        {
+          "speaker": "Rachel",
+          "line": "Who is being loud?",
+          "line_number": 219
+        },
+        {
+          "speaker": "Chandler",
+          "line": "Oh, that would be Monica. Hey, listen, I wanna borrow a coupla things, Aurora spent the night, I really wanna make her breakfast.",
+          "line_number": 221
+        },
+        {
+          "speaker": "Monica",
+          "line": "Oh, you got the whole night, huh?",
+          "line_number": 222
+        },
+        {
+          "speaker": "Chandler",
+          "line": "Yeah, well, I only have twenty minutes until Ethan, so, y'know.. (He starts to raid the fridge.)",
+          "line_number": 223
+        },
+        {
+          "speaker": "Rachel",
+          "line": "Ooh, do I sense a little bit of resentment?",
+          "line_number": 224
+        },
+        {
+          "speaker": "Chandler",
+          "line": "No, no resentment, believe me, it's worth it. 'Kay? Y'know in a relationship you have these key moments that you know you'll remember for the rest of your life? Well, every- single- second is like that with Aurora.. and I've just wasted about thirty-five of them talking to you people, so, uh.. Monica, can you help me with the door? (He has armloads of stuff.)",
+          "line_number": 228
+        }
+      ],
+      "page_numbers": [
+        "6/10"
+      ],
+      "episode_title": "The One With the Butt",
+      "stage_directions": [
+        {
+          "direction": "(Joey enters with Monica's paper and hands it to her.)",
+          "line_number": 200
+        },
+        {
+          "direction": "(Chandler enters with the phone.)",
+          "line_number": 211
+        },
+        {
+          "direction": "(Rachel enters from her room.)",
+          "line_number": 217
+        },
+        {
+          "direction": "(She opens the door and he leaves.)",
+          "line_number": 230
+        }
+      ],
+      "line_number_start": 198
+    },
+    {
+      "scene": "A Film Set, Joey is entering for his scene.",
+      "scene_number": 6,
+      "characters": [
+        "Joey",
+        "Director"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Director",
+          "line": "(on phone)...Dammit, hire the girl! (He hangs up the phone.) Okay, everybody ready?",
+          "line_number": 233
+        },
+        {
+          "speaker": "Joey",
+          "line": "Uh, listen, I just wanna thank you for this great opportunity.",
+          "line_number": 234
+        },
+        {
+          "speaker": "Director",
+          "line": "Lose the robe.",
+          "line_number": 235
+        },
+        {
+          "speaker": "Joey",
+          "line": "Me?",
+          "line_number": 236
+        },
+        {
+          "speaker": "Director",
+          "line": "That would work.",
+          "line_number": 237
+        },
+        {
+          "speaker": "Joey",
+          "line": "Right. Okay. Losing the robe. (He takes off the robe.) And the robe is lost.",
+          "line_number": 238
+        },
+        {
+          "speaker": "Director",
+          "line": "Okay, everybody, we'd like to get this in one take, please. Let's roll it.. water's working (The shower starts).. and... action.",
+          "line_number": 241
+        },
+        {
+          "speaker": "Director",
+          "line": "And cut. Hey, Butt Guy, what the hell are you doing?",
+          "line_number": 242
+        },
+        {
+          "speaker": "Joey",
+          "line": "Well, I'm- I'm showering.",
+          "line_number": 247,
+          "page_number": "7/10",
+          "cleaned": true
+        },
+        {
+          "speaker": "Director",
+          "line": "No, that was clenching.",
+          "line_number": 248
+        },
+        {
+          "speaker": "Joey",
+          "line": "Oh. Well, the way I see it, the guy's upset here, y'know? I mean, his wife's dead, his brother's missing... I think his butt would be angry here.",
+          "line_number": 250
+        },
+        {
+          "speaker": "Director",
+          "line": "I think his butt would like to get this shot before lunch. Once again, rolling... water working... and action....and cut. What was that?",
+          "line_number": 252
+        }
+      ],
+      "page_numbers": [
+        "7/10"
+      ],
+      "episode_title": "The One With the Butt",
+      "stage_directions": [
+        {
+          "direction": "(Joey starts to the shower with a grim, determined look on his face.)",
+          "line_number": 240
+        }
+      ],
+      "line_number_start": 231
+    },
+    {
+      "scene": "Chandler and Joey's, Aurora and Chandler are in bed in Chandler's room.",
+      "scene_number": 7,
+      "characters": [
+        "Chandler",
+        "Aurora"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Chandler",
+          "line": "God, I love these fingers...",
+          "line_number": 255
+        },
+        {
+          "speaker": "Aurora",
+          "line": "Thank you.",
+          "line_number": 256
+        },
+        {
+          "speaker": "Chandler",
+          "line": "No, actually I meant my fingers. Look at 'em, look at how happy they are.",
+          "line_number": 257
+        },
+        {
+          "speaker": "Aurora",
+          "line": "(moves Chandler's arm and look at his watch.) Oh my God, I'm late. (She starts to get up.)",
+          "line_number": 258
+        },
+        {
+          "speaker": "Chandler",
+          "line": "Oh no nonononononnononono, don't go.. (He kisses her and pulls her back down.)",
+          "line_number": 259
+        },
+        {
+          "speaker": "Aurora",
+          "line": "Okay.",
+          "line_number": 260
+        },
+        {
+          "speaker": "Chandler",
+          "line": "Don't go.",
+          "line_number": 261
+        },
+        {
+          "speaker": "Aurora",
+          "line": "Okay. Oh no, I have to.",
+          "line_number": 262
+        },
+        {
+          "speaker": "Chandler",
+          "line": "(to himself) Too bad, she's leaving.",
+          "line_number": 263
+        },
+        {
+          "speaker": "Aurora",
+          "line": "(getting up and dressing) I'm sorry. He'll be waiting for me.",
+          "line_number": 264
+        },
+        {
+          "speaker": "Chandler",
+          "line": "Well, I thought- I thought you talked to Rick.",
+          "line_number": 265
+        },
+        {
+          "speaker": "Aurora",
+          "line": "It's not Rick.",
+          "line_number": 266
+        },
+        {
+          "speaker": "Chandler",
+          "line": "What, Ethan? He got to spend the whole day with you!",
+          "line_number": 267
+        },
+        {
+          "speaker": "Aurora",
+          "line": "No, it's-it's Andrew.",
+          "line_number": 268
+        },
+        {
+          "speaker": "Chandler",
+          "line": "I know there'll be many moments in the years to come when I'll regret asking the following question, but- And Andrew is?",
+          "line_number": 270
+        },
+        {
+          "speaker": "Aurora",
+          "line": "He's... new.",
+          "line_number": 271
+        },
+        {
+          "speaker": "Chandler",
+          "line": "Oh, so what you're saying is you're not completely fulfilled by Rick, Ethan and myself?",
+          "line_number": 272
+        },
+        {
+          "speaker": "Aurora",
+          "line": "No, that's not exactly what I was..",
+          "line_number": 273
+        },
+        {
+          "speaker": "Chandler",
+          "line": "Well, y'know, most women would kill for three guys like us.",
+          "line_number": 274
+        },
+        {
+          "speaker": "Aurora",
+          "line": "So what do you want?",
+          "line_number": 275
+        },
+        {
+          "speaker": "Chandler",
+          "line": "You.",
+          "line_number": 276
+        },
+        {
+          "speaker": "Aurora",
+          "line": "You have me!",
+          "line_number": 281,
+          "page_number": "8/10",
+          "cleaned": true
+        },
+        {
+          "speaker": "Chandler",
+          "line": "Nono, just you.",
+          "line_number": 282
+        },
+        {
+          "speaker": "Aurora",
+          "line": "Whaddyou mean?",
+          "line_number": 283
+        },
+        {
+          "speaker": "Chandler",
+          "line": "Lose the other guys.",
+          "line_number": 284
+        },
+        {
+          "speaker": "Aurora",
+          "line": "...Like, ...all of them?",
+          "line_number": 285
+        },
+        {
+          "speaker": "Chandler",
+          "line": "C'mon, we're great together, why not?",
+          "line_number": 286
+        },
+        {
+          "speaker": "Aurora",
+          "line": "Why can't we just have what we have now? Why can't we just talk, and laugh, and make love, without feeling obligated to one another... and up until tonight I thought that's what you wanted too.",
+          "line_number": 288
+        },
+        {
+          "speaker": "Chandler",
+          "line": "...Well, y'know, part of me wants that, but it's like I'm two guys, y'know? I mean, one guy's going 'Shut up! This is great!' But there's this other guy. Actually it's the same guy that wells up every time that Grinch's heart grows three sizes and breaks that measuring device... And he's saying, y'know, 'This is too hard! Get out! Get out!'",
+          "line_number": 292
+        },
+        {
+          "speaker": "Aurora",
+          "line": "So... which one of the two guys will you listen to?",
+          "line_number": 293
+        },
+        {
+          "speaker": "Chandler",
+          "line": "I don't know, I-I have to listen to both of them, they don't exactly let each other finish...",
+          "line_number": 294
+        },
+        {
+          "speaker": "Aurora",
+          "line": "Which one?",
+          "line_number": 295
+        },
+        {
+          "speaker": "Chandler",
+          "line": "...The second guy.",
+          "line_number": 296
+        },
+        {
+          "speaker": "Aurora",
+          "line": "(gets up to leave) Well, call me if you change your mind.",
+          "line_number": 298
+        }
+      ],
+      "page_numbers": [
+        "8/10"
+      ],
+      "episode_title": "The One With the Butt",
+      "stage_directions": [
+        {
+          "direction": "(She kisses him, he holds her, and kisses her passionately.)",
+          "line_number": 297
+        },
+        {
+          "direction": "(She leaves, Chandler sighs, and falls back on his bed.)",
+          "line_number": 299
+        }
+      ],
+      "line_number_start": 253
+    },
+    {
+      "scene": "Monica and Rachel's, Ross is trying to comfort Chandler.  Joey is absent.",
+      "scene_number": 8,
+      "characters": [
+        "Joey",
+        "All",
+        "Ross",
+        "Rachel",
+        "Monica",
+        "Phoebe",
+        "Chandler"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Ross",
+          "line": "Look at it this way: you dumped her. Right? I mean, this woman was unbelievably sexy, and beautiful, intelligent, unattainable... Tell me why you did this again?",
+          "line_number": 304
+        },
+        {
+          "speaker": "All",
+          "line": "Hey!",
+          "line_number": 305
+        },
+        {
+          "speaker": "Monica",
+          "line": "Hey, waitwait, aren't you the guy that plays the butt in the new Al Pacino movie?",
+          "line_number": 306
+        },
+        {
+          "speaker": "Joey",
+          "line": "Nope.",
+          "line_number": 307
+        },
+        {
+          "speaker": "Ross",
+          "line": "No? What happened, big guy?",
+          "line_number": 308
+        },
+        {
+          "speaker": "Chandler",
+          "line": "(to Ross) \"Big guy?\"",
+          "line_number": 309
+        },
+        {
+          "speaker": "Ross",
+          "line": "It felt like a 'big guy' moment.",
+          "line_number": 310
+        },
+        {
+          "speaker": "Joey",
+          "line": "I got fired.",
+          "line_number": 311
+        },
+        {
+          "speaker": "All",
+          "line": "Oh!",
+          "line_number": 316,
+          "page_number": "9/10",
+          "cleaned": true
+        },
+        {
+          "speaker": "Joey",
+          "line": "Yeah, they said I acted too much with it. I told everybody about this! Now everybody's gonna go to the theatre, expecting to see me, and...",
+          "line_number": 318
+        },
+        {
+          "speaker": "Rachel",
+          "line": "Oh, Joey, you know what, no-one is gonna be able to tell.",
+          "line_number": 319
+        },
+        {
+          "speaker": "Joey",
+          "line": "My mom will.",
+          "line_number": 320
+        },
+        {
+          "speaker": "Chandler",
+          "line": "Something so sweet and...disturbing about that.",
+          "line_number": 321
+        },
+        {
+          "speaker": "Joey",
+          "line": "Y'know, I've done nothing but crappy plays for six years. And I finally get my shot, and I blow it!",
+          "line_number": 322
+        },
+        {
+          "speaker": "Monica",
+          "line": "Maybe this wasn't your shot.",
+          "line_number": 323
+        },
+        {
+          "speaker": "Ross",
+          "line": "Yeah, I mean... I think when it's your shot, y'know, you-you know it's your shot. Did it... feel like your shot..?",
+          "line_number": 325
+        },
+        {
+          "speaker": "Joey",
+          "line": "Hard to tell, I was naked.",
+          "line_number": 326
+        },
+        {
+          "speaker": "Phoebe",
+          "line": "No, I don't think this was your shot. I mean, I don't even think you just get one shot. I really believe big things are gonna happen for you, I do! You've gotta just keep thinking about the day that some kid is gonna run up to his friends and go 'I got the part! I got the part! I'm gonna be Joey Tribbiani's ass!'.",
+          "line_number": 329
+        },
+        {
+          "speaker": "Joey",
+          "line": "Yeah? That's so nice! (They hug.)",
+          "line_number": 331
+        },
+        {
+          "speaker": "Monica",
+          "line": "I'm sorry, Joey. I'm gonna go to bed, guys.",
+          "line_number": 332
+        },
+        {
+          "speaker": "All",
+          "line": "Night.",
+          "line_number": 333
+        },
+        {
+          "speaker": "Rachel",
+          "line": "Uh, Mon, you-you gonna leave your shoes out here?",
+          "line_number": 334
+        },
+        {
+          "speaker": "Monica",
+          "line": "(determined) Uh-huh!",
+          "line_number": 335
+        },
+        {
+          "speaker": "Rachel",
+          "line": "Really? Just casually strewn about in that reckless haphazard manner?",
+          "line_number": 336
+        },
+        {
+          "speaker": "Monica",
+          "line": "Doesn't matter, I'll get 'em tomorrow. Or not. Whenever. (He goes to her room.)",
+          "line_number": 337
+        }
+      ],
+      "page_numbers": [
+        "9/10"
+      ],
+      "episode_title": "The One With the Butt",
+      "stage_directions": [
+        {
+          "direction": "(Joey enters.)",
+          "line_number": 303
+        },
+        {
+          "direction": "(Ross and Chandler look at each other and hug as well.)",
+          "line_number": 330
+        }
+      ],
+      "line_number_start": 300
+    },
+    {
+      "scene": "Monica's Bedroom, she's lying in bed wide awake.",
+      "scene_number": 9,
+      "characters": [
+        "Monica"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Monica",
+          "line": "(hums for a while, then gives up, and in her head) If it bothers you that much, just go out and get the shoes. No. Don't do this. This is stupid! I don't have to prove anything, I'm gonna go get them...But then everyone will know. Unless I get them, and then wake up really early and put them back! ...I need help! (She buries her head in her pillow.) End",
+          "line_number": 348,
+          "page_number": "10/10",
+          "cleaned": true
+        }
+      ],
+      "page_numbers": [
+        "10/10"
+      ],
+      "episode_title": "The One With the Butt",
+      "stage_directions": [],
+      "line_number_start": 339
+    }
+  ],
+  "parsing_info": {
+    "parser_version": "2.0",
+    "total_lines_processed": 348,
+    "parsing_date": "2025-07-07T23:37:50.316185",
+    "dialogue_lines_cleaned": 10
+  }
+}

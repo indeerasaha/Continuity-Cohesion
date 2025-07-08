@@ -1,0 +1,1666 @@
+{
+  "metadata": {
+    "episode_title": "The One With the East German Laundry Detergent",
+    "season": 1,
+    "episode_number": 5,
+    "series_episode_number": 5,
+    "air_date": null,
+    "writers": [
+      "Jeff Greenstein",
+      "Jeff Strauss"
+    ],
+    "directors": [],
+    "story_by": [],
+    "teleplay_by": [],
+    "production_code": null,
+    "total_pages": 11,
+    "file_info": {
+      "filename": "S1_Ep5.pdf",
+      "file_path": "Raw_Data/S1_Scripts/S1_Ep5.pdf",
+      "file_size": 212693,
+      "extraction_date": "2025-07-07T23:37:09.731771"
+    }
+  },
+  "statistics": {
+    "total_scenes": 16,
+    "total_dialogue_lines": 223,
+    "character_stats": {
+      "Rachel": {
+        "total_lines": 36,
+        "scenes_appeared": 6,
+        "average_lines_per_scene": 6.0
+      },
+      "Chandler": {
+        "total_lines": 34,
+        "scenes_appeared": 7,
+        "average_lines_per_scene": 4.857142857142857
+      },
+      "Phoebe": {
+        "total_lines": 21,
+        "scenes_appeared": 6,
+        "average_lines_per_scene": 3.5
+      },
+      "Monica": {
+        "total_lines": 32,
+        "scenes_appeared": 8,
+        "average_lines_per_scene": 4.0
+      },
+      "Ross": {
+        "total_lines": 37,
+        "scenes_appeared": 7,
+        "average_lines_per_scene": 5.285714285714286
+      },
+      "Joey": {
+        "total_lines": 31,
+        "scenes_appeared": 8,
+        "average_lines_per_scene": 3.875
+      },
+      "Angela": {
+        "total_lines": 12,
+        "scenes_appeared": 4,
+        "average_lines_per_scene": 3.0
+      },
+      "Janice": {
+        "total_lines": 8,
+        "scenes_appeared": 3,
+        "average_lines_per_scene": 2.6666666666666665
+      },
+      "Woman": {
+        "total_lines": 8,
+        "scenes_appeared": 2,
+        "average_lines_per_scene": 4.0
+      },
+      "Bob": {
+        "total_lines": 4,
+        "scenes_appeared": 2,
+        "average_lines_per_scene": 2.0
+      }
+    },
+    "scene_lengths": [
+      6,
+      50,
+      8,
+      11,
+      8,
+      22,
+      27,
+      6,
+      6,
+      5,
+      2,
+      10,
+      18,
+      15,
+      14,
+      15
+    ],
+    "average_scene_length": 13.9375,
+    "longest_scene": {
+      "length": 50,
+      "scene_index": 1
+    },
+    "shortest_scene": {
+      "length": 2,
+      "scene_index": 10
+    },
+    "page_range": {
+      "start": 1,
+      "end": 11
+    },
+    "unique_characters": [
+      "Woman",
+      "Rachel",
+      "Chandler",
+      "Angela",
+      "Phoebe",
+      "Monica",
+      "Janice",
+      "Ross",
+      "Bob",
+      "Joey"
+    ],
+    "speaking_characters": [
+      "Woman",
+      "Rachel",
+      "Chandler",
+      "Angela",
+      "Phoebe",
+      "Monica",
+      "Janice",
+      "Ross",
+      "Bob",
+      "Joey"
+    ]
+  },
+  "script": [
+    {
+      "scene": "Central Perk, all six are there.",
+      "scene_number": 1,
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Phoebe",
+        "Monica",
+        "Ross",
+        "Joey"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Monica",
+          "line": "Would you let it go? It's not that big a deal.",
+          "line_number": 7
+        },
+        {
+          "speaker": "Ross",
+          "line": "Not that big a deal? It's amazing. Ok, you just reach in there, there's one little maneuver, and bam, a bra right out the sleeve. All right, as far as I'm concerned, there is nothing a guy can do that even comes close. Am I right?",
+          "line_number": 10
+        },
+        {
+          "speaker": "Rachel",
+          "line": "Come on! You guys can pee standing up.",
+          "line_number": 11
+        },
+        {
+          "speaker": "Chandler",
+          "line": "We can? All right, I'm tryin' that.",
+          "line_number": 12
+        },
+        {
+          "speaker": "Joey",
+          "line": "Ok, you know what blows my mind? Women can see breasts any time they want. You just look down and there they are. How you get any work done is beyond me.",
+          "line_number": 14
+        },
+        {
+          "speaker": "Phoebe",
+          "line": "Oh, ok, you know what I don't get? The way guys can do so many mean things, and then not even care.",
+          "line_number": 16
+        }
+      ],
+      "page_numbers": [],
+      "episode_title": "The One With the East German Laundry Detergent",
+      "stage_directions": [
+        {
+          "direction": "(Long pause.)",
+          "line_number": 15
+        }
+      ],
+      "line_number_start": 5
+    },
+    {
+      "scene": "Central Perk, all are there.",
+      "scene_number": 2,
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Angela",
+        "Phoebe",
+        "Monica",
+        "Ross",
+        "Joey"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Chandler",
+          "line": "So, Saturday night, the big night, date night, Saturday night, Sat-ur-day night!",
+          "line_number": 20
+        },
+        {
+          "speaker": "Joey",
+          "line": "No plans, huh?",
+          "line_number": 21
+        },
+        {
+          "speaker": "Chandler",
+          "line": "Not a one.",
+          "line_number": 22
+        },
+        {
+          "speaker": "Ross",
+          "line": "Not even, say, breaking up with Janice?",
+          "line_number": 23
+        },
+        {
+          "speaker": "Chandler",
+          "line": "Oh, right, right, shut up.",
+          "line_number": 24
+        },
+        {
+          "speaker": "Monica",
+          "line": "Chandler, nobody likes breaking up with someone. You just gotta do it.",
+          "line_number": 25
+        },
+        {
+          "speaker": "Chandler",
+          "line": "No, I know, but it's just so hard, you know? I mean, you're sitting there with her, she has no idea what's happening, and then you finally get up the courage to do it, and there's the horrible awkward moment when you've handed her the note.",
+          "line_number": 28
+        },
+        {
+          "speaker": "Joey",
+          "line": "Why do you have to break up with her? Be a man, just stop calling.",
+          "line_number": 29
+        },
+        {
+          "speaker": "Phoebe",
+          "line": "You know, if you want, I'll do it with you.",
+          "line_number": 30
+        },
+        {
+          "speaker": "Chandler",
+          "line": "Oh, thanks, but I think she'd feel like we're gangin' up on her.",
+          "line_number": 35,
+          "page_number": "1/11",
+          "cleaned": true
+        },
+        {
+          "speaker": "Phoebe",
+          "line": "No, I mean you break up with Janice and I'll break up with Tony.",
+          "line_number": 36
+        },
+        {
+          "speaker": "Ross",
+          "line": "Tony?",
+          "line_number": 37
+        },
+        {
+          "speaker": "Monica",
+          "line": "Oh, you're breaking up with Tony?",
+          "line_number": 38
+        },
+        {
+          "speaker": "Phoebe",
+          "line": "Yeah, I know, he's sweet, but it's just not fun anymore, you know? I don't know if it's me, or his hunger strike, or, I don't know.",
+          "line_number": 40
+        },
+        {
+          "speaker": "Rachel",
+          "line": "(waitressing) Does anybody want anything else?",
+          "line_number": 41
+        },
+        {
+          "speaker": "Ross",
+          "line": "Oh, yeah, last week you had a wonderful, nutty, chocolatey kind of a cakey pie thing. (Rachel gives him a dirty look) Nothing, just, just, I'm fine.",
+          "line_number": 43
+        },
+        {
+          "speaker": "Phoebe",
+          "line": "(to Rachel) What's the matter? Why so scrunchy?",
+          "line_number": 44
+        },
+        {
+          "speaker": "Rachel",
+          "line": "It's my father. He wants to give me a Mercedes convertible.",
+          "line_number": 45
+        },
+        {
+          "speaker": "Ross",
+          "line": "That guy, he burns me up.",
+          "line_number": 46
+        },
+        {
+          "speaker": "Rachel",
+          "line": "Yeah, well, it's a Mercedes if I move back home. Oh, it was horrible. He called me young lady.",
+          "line_number": 47
+        },
+        {
+          "speaker": "Chandler",
+          "line": "Ooh, I hate when my father calls me that.",
+          "line_number": 48
+        },
+        {
+          "speaker": "Monica",
+          "line": "Did he give you that whole \"You're-not-up-to-this\" thing again?",
+          "line_number": 49
+        },
+        {
+          "speaker": "Rachel",
+          "line": "Oh, yeah, yeah. Actually, I got the extended disco version, with three choruses of \"You'll never make it on your own\".",
+          "line_number": 51
+        },
+        {
+          "speaker": "Phoebe",
+          "line": "(rhythmically) Uh-huh, uh-huh.",
+          "line_number": 53
+        },
+        {
+          "speaker": "Angela",
+          "line": "Hi, Joey.",
+          "line_number": 54
+        },
+        {
+          "speaker": "Joey",
+          "line": "My god, Angela.",
+          "line_number": 56
+        },
+        {
+          "speaker": "Monica",
+          "line": "Wow, being dumped by you obviously agrees with her.",
+          "line_number": 57
+        },
+        {
+          "speaker": "Phoebe",
+          "line": "Are you gonna go over there?",
+          "line_number": 58
+        },
+        {
+          "speaker": "Joey",
+          "line": "No, yeah, no, ok, but not yet. I don't wanna seem too eager. One Mississippi, two Mississippi, three Mississippi. That seems pretty cool. (he walks over to her) Hey, Angela.",
+          "line_number": 60
+        },
+        {
+          "speaker": "Angela",
+          "line": "(casually) Joey.",
+          "line_number": 61
+        },
+        {
+          "speaker": "Joey",
+          "line": "You look good.",
+          "line_number": 62
+        },
+        {
+          "speaker": "Angela",
+          "line": "That's because I'm wearing a dress that accents my boobs.",
+          "line_number": 63
+        },
+        {
+          "speaker": "Joey",
+          "line": "You don't say.",
+          "line_number": 65
+        },
+        {
+          "speaker": "Ross",
+          "line": "So, uh, Rachel, what are you, uh, what're you doing tonight?",
+          "line_number": 70,
+          "page_number": "2/11",
+          "cleaned": true
+        },
+        {
+          "speaker": "Rachel",
+          "line": "Oh, big glamour night. Me and Monica at Laundorama.",
+          "line_number": 71
+        },
+        {
+          "speaker": "Ross",
+          "line": "Oh, you uh, you wanna hear a freaky coincidence? Guess who's doing laundry there too?",
+          "line_number": 72
+        },
+        {
+          "speaker": "Rachel",
+          "line": "Who?",
+          "line_number": 73
+        },
+        {
+          "speaker": "Ross",
+          "line": "Me. Was that not clear? Hey, why don't, um, why don't I just join you both, here?",
+          "line_number": 74
+        },
+        {
+          "speaker": "Rachel",
+          "line": "Don't you have a laundry room in your building?",
+          "line_number": 75
+        },
+        {
+          "speaker": "Ross",
+          "line": "Yes, I do have a laundry room in my building, um, but there's a.... rat problem. Apparently they're attracted to the dryer sheets, and they're goin' in fine, but they're comin' out all.... fluffy. Anyway, say, sevenish?",
+          "line_number": 77
+        },
+        {
+          "speaker": "Rachel",
+          "line": "Sure.",
+          "line_number": 79
+        },
+        {
+          "speaker": "Angela",
+          "line": "Forget it Joey. I'm with Bob now.",
+          "line_number": 80
+        },
+        {
+          "speaker": "Joey",
+          "line": "Bob? Who the hell's Bob?",
+          "line_number": 81
+        },
+        {
+          "speaker": "Angela",
+          "line": "Bob is great. He's smart, he's sophisticated, and he has a real job. You, you go on three auditions a month and you call yourself an actor, but Bob...",
+          "line_number": 83
+        },
+        {
+          "speaker": "Joey",
+          "line": "Come on, we were great together. And not just at the fun stuff, but like, talking too.",
+          "line_number": 84
+        },
+        {
+          "speaker": "Angela",
+          "line": "Yeah, well, sorry, Joe. You said let's just be friends, so guess what?",
+          "line_number": 85
+        },
+        {
+          "speaker": "Joey",
+          "line": "What?",
+          "line_number": 86
+        },
+        {
+          "speaker": "Angela",
+          "line": "We're just friends.",
+          "line_number": 87
+        },
+        {
+          "speaker": "Joey",
+          "line": "Fine, fine, so, why don't the four of us go out and have dinner together tonight? You know, as friends?",
+          "line_number": 88
+        },
+        {
+          "speaker": "Angela",
+          "line": "What four of us?",
+          "line_number": 89
+        }
+      ],
+      "page_numbers": [
+        "2/11",
+        "1/11"
+      ],
+      "episode_title": "The One With the East German Laundry Detergent",
+      "stage_directions": [
+        {
+          "direction": "(Angela, a beautiful woman in a tight dress, enters.)",
+          "line_number": 52
+        },
+        {
+          "direction": "(Angela takes a seat at the counter.)",
+          "line_number": 55
+        },
+        {
+          "direction": "(Cut to Ross and Rachel, talking next to one of the tables.)",
+          "line_number": 64
+        },
+        {
+          "direction": "(Cut back to Joey and Angela at the counter.)",
+          "line_number": 78
+        }
+      ],
+      "line_number_start": 18
+    },
+    {
+      "scene": null,
+      "scene_number": 3,
+      "characters": [
+        "Monica",
+        "Joey"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Joey",
+          "line": "Monica, I'm tellin' you, this guy is perfect for you.",
+          "line_number": 93
+        },
+        {
+          "speaker": "Monica",
+          "line": "Forget it. Not after your cousin who could belch the alphabet.",
+          "line_number": 94
+        },
+        {
+          "speaker": "Joey",
+          "line": "Come on. This guy's great. His name's Bob. He's Angela's... brother. He's smart, he's sophisticated, and he has a real job. Me, I go on three auditions a month and call myself an actor, but Bob is...",
+          "line_number": 96
+        },
+        {
+          "speaker": "Monica",
+          "line": "(looking out window) Oh, god help us.",
+          "line_number": 97
+        },
+        {
+          "speaker": "Joey",
+          "line": "What?",
+          "line_number": 98
+        },
+        {
+          "speaker": "Monica",
+          "line": "Ugly Naked Guy's laying kitchen tile. Eww!",
+          "line_number": 99
+        },
+        {
+          "speaker": "Joey",
+          "line": "Eww! Look, I'm asking a favor here. If I do this for her brother, maybe Angela will come back to me.",
+          "line_number": 100
+        },
+        {
+          "speaker": "Monica",
+          "line": "What's going on here? You go out with tons of girls.",
+          "line_number": 105,
+          "page_number": "3/11",
+          "cleaned": true
+        }
+      ],
+      "page_numbers": [
+        "3/11"
+      ],
+      "episode_title": "The One With the East German Laundry Detergent",
+      "stage_directions": [],
+      "line_number_start": 90
+    },
+    {
+      "scene": "Ross' apartment, Chandler is over.",
+      "scene_number": 4,
+      "characters": [
+        "Ross",
+        "Chandler"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Ross",
+          "line": "(on phone) Ok, bye. (hangs up) Well, Monica's not coming, it's just gonna be me and Rachel.",
+          "line_number": 109
+        },
+        {
+          "speaker": "Chandler",
+          "line": "Oh. Well, hold on camper, are you sure you've thought this thing through?",
+          "line_number": 110
+        },
+        {
+          "speaker": "Ross",
+          "line": "It's laundry. The thinking through is minimal.",
+          "line_number": 111
+        },
+        {
+          "speaker": "Chandler",
+          "line": "It's just you and Rachel, just the two of you? This is a date. You're going on a date.",
+          "line_number": 112
+        },
+        {
+          "speaker": "Ross",
+          "line": "Nuh-uh.",
+          "line_number": 113
+        },
+        {
+          "speaker": "Chandler",
+          "line": "Yuh-huh.",
+          "line_number": 114
+        },
+        {
+          "speaker": "Ross",
+          "line": "So what're you saying here? I should shave again, pick up some wine, what?",
+          "line_number": 115
+        },
+        {
+          "speaker": "Chandler",
+          "line": "Well, you may wanna rethink the dirty underwear. This is basically the first time she's gonna see your underwear—you want it to be dirty?",
+          "line_number": 117
+        },
+        {
+          "speaker": "Ross",
+          "line": "(sheepish) No.",
+          "line_number": 118
+        },
+        {
+          "speaker": "Chandler",
+          "line": "Oh, and uh, the fabric softener?",
+          "line_number": 119
+        },
+        {
+          "speaker": "Ross",
+          "line": "Ok, ok, now what is wrong with my Snuggles? What, it says I'm a sensitive, warm kinda guy, you know, like a warm, fuzzy bear. Ok, I can pick something else up on the way.",
+          "line_number": 121
+        }
+      ],
+      "page_numbers": [],
+      "episode_title": "The One With the East German Laundry Detergent",
+      "stage_directions": [],
+      "line_number_start": 107
+    },
+    {
+      "scene": null,
+      "scene_number": 5,
+      "characters": [
+        "Angela",
+        "Monica",
+        "Joey"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Monica",
+          "line": "Thank you. So what does this Bob guy look like? Is he tall? Short?",
+          "line_number": 125
+        },
+        {
+          "speaker": "Joey",
+          "line": "Yep.",
+          "line_number": 126
+        },
+        {
+          "speaker": "Monica",
+          "line": "Which?",
+          "line_number": 127
+        },
+        {
+          "speaker": "Joey",
+          "line": "Which what?",
+          "line_number": 128
+        },
+        {
+          "speaker": "Monica",
+          "line": "You've never met Bob, have you?",
+          "line_number": 129
+        },
+        {
+          "speaker": "Joey",
+          "line": "No, but he's...",
+          "line_number": 130
+        },
+        {
+          "speaker": "Monica",
+          "line": "Oh my god, Joey, for all we know this guy could be horribly...",
+          "line_number": 132
+        },
+        {
+          "speaker": "Angela",
+          "line": "Hey, Joey.",
+          "line_number": 133
+        }
+      ],
+      "page_numbers": [],
+      "episode_title": "The One With the East German Laundry Detergent",
+      "stage_directions": [
+        {
+          "direction": "(Angela and Bob walk in. Bob is good-looking.)",
+          "line_number": 131
+        }
+      ],
+      "line_number_start": 122
+    },
+    {
+      "scene": "Central Perk, Chandler and Phoebe are there, both ready to break up with their significant others.",
+      "scene_number": 6,
+      "characters": [
+        "Janice",
+        "Chandler",
+        "Phoebe"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Chandler",
+          "line": "Where are they? Where are they?",
+          "line_number": 140,
+          "page_number": "4/11",
+          "cleaned": true
+        },
+        {
+          "speaker": "Phoebe",
+          "line": "This is nice. We never do anything just the two of us.",
+          "line_number": 141
+        },
+        {
+          "speaker": "Chandler",
+          "line": "It's great. Maybe tomorrow we can rent a car and run over some puppies.",
+          "line_number": 142
+        },
+        {
+          "speaker": "Phoebe",
+          "line": "Eww, I don't wanna do that.",
+          "line_number": 144
+        },
+        {
+          "speaker": "Chandler",
+          "line": "Here we go.",
+          "line_number": 145
+        },
+        {
+          "speaker": "Phoebe",
+          "line": "Ok, have a good break-up.",
+          "line_number": 146
+        },
+        {
+          "speaker": "Chandler",
+          "line": "Hey, Janice.",
+          "line_number": 147
+        },
+        {
+          "speaker": "Janice",
+          "line": "Oh, my god, I am so glad you called me. I had the most supremely awful day.",
+          "line_number": 148
+        },
+        {
+          "speaker": "Chandler",
+          "line": "Hey, that's not good. Can I get an espresso and a latte over here, please?",
+          "line_number": 149
+        },
+        {
+          "speaker": "Janice",
+          "line": "We got the proofs back from that photo shoot, you know, the one with the little vegetables. Anyway, they pretty much sucked, so, I blew off the rest of the day, and I went shopping...(looks through her bags)... and I got you, I'm looking, I'm looking, I'm looking, I got you... Chandler is amazed how easy it was for her.)",
+          "line_number": 154
+        },
+        {
+          "speaker": "Chandler",
+          "line": "What?",
+          "line_number": 155
+        },
+        {
+          "speaker": "Janice",
+          "line": "What?",
+          "line_number": 156
+        },
+        {
+          "speaker": "Chandler",
+          "line": "(covering) What... did you get me there?",
+          "line_number": 157
+        },
+        {
+          "speaker": "Janice",
+          "line": "I got you...these. (pulls out a pair of socks)",
+          "line_number": 158
+        },
+        {
+          "speaker": "Chandler",
+          "line": "Bullwinkle socks. That's so sweet.",
+          "line_number": 159
+        },
+        {
+          "speaker": "Janice",
+          "line": "Well, I knew you had the Rockys, and so I figured, you know, you can wear Bullwinkle and Bullwinkle, or you can wear Rocky and Rocky,or, you can mix and match, moose and squirrel. Whatever you want.",
+          "line_number": 161
+        },
+        {
+          "speaker": "Chandler",
+          "line": "That's great.",
+          "line_number": 163
+        },
+        {
+          "speaker": "Chandler",
+          "line": "Well, I'm gonna get another espresso. Can I get you another latte?",
+          "line_number": 164
+        },
+        {
+          "speaker": "Janice",
+          "line": "(holding the full cup) No, no, I'm still working on mine.",
+          "line_number": 166
+        },
+        {
+          "speaker": "Chandler",
+          "line": "That's it?",
+          "line_number": 167
+        },
+        {
+          "speaker": "Phoebe",
+          "line": "Yeah, it was really hard.",
+          "line_number": 168
+        },
+        {
+          "speaker": "Chandler",
+          "line": "Oh, yeah, that hug looked pretty brutal.",
+          "line_number": 169
+        }
+      ],
+      "page_numbers": [
+        "4/11"
+      ],
+      "episode_title": "The One With the East German Laundry Detergent",
+      "stage_directions": [
+        {
+          "direction": "(Janice and Phoebe's boyfriend, Tony, walk in.)",
+          "line_number": 143
+        },
+        {
+          "direction": "(Chandler sees Phoebe breaking up with Tony. She talks to him for a few seconds, hugs him, and then he leaves.",
+          "line_number": 152
+        },
+        {
+          "direction": "(The drinks arrive, and Chandler downs his espresso in one gulp.)",
+          "line_number": 162
+        },
+        {
+          "direction": "(Chandler walks over to the counter where Phoebe is, and is asking her about the break-up.)",
+          "line_number": 165
+        }
+      ],
+      "line_number_start": 134
+    },
+    {
+      "scene": null,
+      "scene_number": 7,
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Woman"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Woman",
+          "line": "Comin' through. Move, move.",
+          "line_number": 177
+        },
+        {
+          "speaker": "Rachel",
+          "line": "Oh, 'scuse me. I was kinda using that machine.",
+          "line_number": 178
+        },
+        {
+          "speaker": "Woman",
+          "line": "Yeah, well, now you're kinda not.",
+          "line_number": 179
+        },
+        {
+          "speaker": "Rachel",
+          "line": "But I saved it. I put my basket on top.",
+          "line_number": 180
+        },
+        {
+          "speaker": "Woman",
+          "line": "Oh, I'm sorry, is that your basket? It's really pretty. Unfortunately, I don't see suds.",
+          "line_number": 181
+        },
+        {
+          "speaker": "Rachel",
+          "line": "What?",
+          "line_number": 182
+        },
+        {
+          "speaker": "Woman",
+          "line": "No suds, no save. Ok?",
+          "line_number": 184
+        },
+        {
+          "speaker": "Ross",
+          "line": "What's goin' on?",
+          "line_number": 185
+        },
+        {
+          "speaker": "Rachel",
+          "line": "Hi, uh, nothing. That horrible woman just took my machine.",
+          "line_number": 186
+        },
+        {
+          "speaker": "Ross",
+          "line": "Was your basket on top?",
+          "line_number": 187
+        },
+        {
+          "speaker": "Rachel",
+          "line": "Yeah, but, there were no suds.",
+          "line_number": 188
+        },
+        {
+          "speaker": "Ross",
+          "line": "So?",
+          "line_number": 189
+        },
+        {
+          "speaker": "Rachel",
+          "line": "Well, you know, no suds, no save.",
+          "line_number": 190
+        },
+        {
+          "speaker": "Ross",
+          "line": "No suds? Excuse me, hold on a second. (to woman) That's my friend's machine.",
+          "line_number": 191
+        },
+        {
+          "speaker": "Woman",
+          "line": "Hey, hey, hey, her stuff wasn't in it.",
+          "line_number": 192
+        },
+        {
+          "speaker": "Ross",
+          "line": "Hey, hey, hey, that's not the rule and you know it.",
+          "line_number": 194
+        },
+        {
+          "speaker": "Ross",
+          "line": "(to the crowd in the laundromat) All right, show's over. Nothing to see here. (to Rachel) Ok, let's do laundry.",
+          "line_number": 196
+        },
+        {
+          "speaker": "Rachel",
+          "line": "That was amazing. I can't even send back soup.",
+          "line_number": 197
+        },
+        {
+          "speaker": "Ross",
+          "line": "Well, that's because you're such a sweet, gentle, uh...Do you, uh, do you...Oh, hey, uh you must need detergent.",
+          "line_number": 200
+        },
+        {
+          "speaker": "Rachel",
+          "line": "What's that?",
+          "line_number": 201
+        },
+        {
+          "speaker": "Ross",
+          "line": "Uberveiss. It's new, it's German, it's extra-tough.",
+          "line_number": 203
+        },
+        {
+          "speaker": "Ross",
+          "line": "Rach, do you uh, are you gonna separate those?",
+          "line_number": 208,
+          "page_number": "6/11",
+          "cleaned": true
+        },
+        {
+          "speaker": "Rachel",
+          "line": "Oh god. Oh, am I being like a total laundry spaz? I mean, am I supposed to use like one machine for shirts and another machine for pants?",
+          "line_number": 210
+        },
+        {
+          "speaker": "Ross",
+          "line": "Rach, have you never done this before?",
+          "line_number": 211
+        },
+        {
+          "speaker": "Rachel",
+          "line": "Well, not myself, but I know other people that have. Ok, you caught me. I'm a laundry virgin.",
+          "line_number": 212
+        },
+        {
+          "speaker": "Ross",
+          "line": "Uh, well, don't worry, I'll use the gentle cycle. Ok, um, basically you wanna use one machine for all your whites, a whole nother machine for colors, and a third for your uh, your uh, delicates, and that would be your bras and your under-panty things.",
+          "line_number": 215
+        },
+        {
+          "speaker": "Rachel",
+          "line": "(holds a pair of panties in front of Ross) Ok, Well, what about these are white cotton panties. Would they go with whites or delicates?",
+          "line_number": 217
+        }
+      ],
+      "page_numbers": [
+        "6/11"
+      ],
+      "episode_title": "The One With the East German Laundry Detergent",
+      "stage_directions": [
+        {
+          "direction": "(Ross arrives.)",
+          "line_number": 183
+        },
+        {
+          "direction": "(The woman and Ross stare at each other. Finally she takes her stuff out of the machine and leaves.)",
+          "line_number": 193
+        },
+        {
+          "direction": "(Ross pulls out a huge box of laundry detergent.)",
+          "line_number": 199
+        },
+        {
+          "direction": "(Rachel starts to load her clothes.)",
+          "line_number": 202
+        }
+      ],
+      "line_number_start": 174
+    },
+    {
+      "scene": "Fancy restaurant, Monica, Joey, Angela, and Bob are seated at the table.",
+      "scene_number": 8,
+      "characters": [
+        "Joey",
+        "Monica",
+        "Bob",
+        "Angela"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Monica",
+          "line": "(to Joey) He is so cute. (to Angela and Bob) So, where did you guys grow up?",
+          "line_number": 220
+        },
+        {
+          "speaker": "Angela",
+          "line": "Brooklyn Heights.",
+          "line_number": 221
+        },
+        {
+          "speaker": "Bob",
+          "line": "Cleveland.",
+          "line_number": 222
+        },
+        {
+          "speaker": "Monica",
+          "line": "How, how did that happen?",
+          "line_number": 223
+        },
+        {
+          "speaker": "Joey",
+          "line": "Oh my god.",
+          "line_number": 224
+        },
+        {
+          "speaker": "Monica",
+          "line": "What?",
+          "line_number": 225
+        }
+      ],
+      "page_numbers": [],
+      "episode_title": "The One With the East German Laundry Detergent",
+      "stage_directions": [],
+      "line_number_start": 218
+    },
+    {
+      "scene": "Fancy restaurant, Joey and Bob are talking.",
+      "scene_number": 9,
+      "characters": [
+        "Bob",
+        "Joey"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Joey",
+          "line": "So, you and Angela, huh?",
+          "line_number": 229
+        },
+        {
+          "speaker": "Bob",
+          "line": "Yep. Pretty much.",
+          "line_number": 230
+        },
+        {
+          "speaker": "Joey",
+          "line": "You're a lucky man. You know what I miss the most about her? That cute nibbly noise when she eats. Like a happy little squirrel, or a weasel.",
+          "line_number": 232
+        },
+        {
+          "speaker": "Bob",
+          "line": "Huh, I never really noticed.",
+          "line_number": 233
+        },
+        {
+          "speaker": "Joey",
+          "line": "Oh, yeah, yeah, listen for it.",
+          "line_number": 234
+        },
+        {
+          "speaker": "Bob",
+          "line": "Monica, Monica is great.",
+          "line_number": 235
+        }
+      ],
+      "page_numbers": [],
+      "episode_title": "The One With the East German Laundry Detergent",
+      "stage_directions": [],
+      "line_number_start": 227
+    },
+    {
+      "scene": "The ladies' bathroom at the restaurant, Monica and Angela are talking.",
+      "scene_number": 10,
+      "characters": [
+        "Monica",
+        "Angela"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Monica",
+          "line": "I've gotta tell you, Bob is terrific.",
+          "line_number": 238
+        },
+        {
+          "speaker": "Angela",
+          "line": "Yeah, isn't he?",
+          "line_number": 243,
+          "page_number": "7/11",
+          "cleaned": true
+        },
+        {
+          "speaker": "Monica",
+          "line": "It is so great to meet a guy who is smart and funny, and has an emotional age beyond, like eight.",
+          "line_number": 244
+        },
+        {
+          "speaker": "Angela",
+          "line": "You know what else? He's unbelievable in bed.",
+          "line_number": 245
+        },
+        {
+          "speaker": "Monica",
+          "line": "Wow. My brother never even told me when he lost his virginity.",
+          "line_number": 246
+        }
+      ],
+      "page_numbers": [
+        "7/11"
+      ],
+      "episode_title": "The One With the East German Laundry Detergent",
+      "stage_directions": [],
+      "line_number_start": 236
+    },
+    {
+      "scene": "Central Perk, Phoebe is coaching Chandler on how to break up with Janice.",
+      "scene_number": 11,
+      "characters": [
+        "Janice",
+        "Chandler",
+        "Phoebe"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Phoebe",
+          "line": "Ok, you can do this. It's just like pulling off a Band-aid. Just do it really fast, and then the wound is exposed.",
+          "line_number": 251
+        },
+        {
+          "speaker": "Chandler",
+          "line": "Janice. Hi, Janice. Ok, here we go. I don't think we should go out anymore. Janice.",
+          "line_number": 252
+        }
+      ],
+      "page_numbers": [],
+      "episode_title": "The One With the East German Laundry Detergent",
+      "stage_directions": [
+        {
+          "direction": "(Chandler walks back to couch, where Janice is.)",
+          "line_number": 250
+        }
+      ],
+      "line_number_start": 247
+    },
+    {
+      "scene": "The laundromat.",
+      "scene_number": 12,
+      "characters": [
+        "Rachel",
+        "Ross"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Rachel",
+          "line": "Ok, I know this is gonna sound really stupid, but I feel that if I can do this, you know, if I can actually do my own laundry, there isn't anything I can't do.",
+          "line_number": 257
+        },
+        {
+          "speaker": "Ross",
+          "line": "That does not sound stupid to me. You know, it's like the first time I had to make dinner for myself, after Carol left me? (the buzzer on the washer goes off) I'm sorry, that's all the time we have. Next on Ross...(opens up the washer) Uh-oh.",
+          "line_number": 260
+        },
+        {
+          "speaker": "Rachel",
+          "line": "What uh-oh?",
+          "line_number": 261
+        },
+        {
+          "speaker": "Ross",
+          "line": "(not wanting to tell her) Uh-oh, uh-oh, the laundry's done. It's, uh, it's a song. The laundry song that we sing. (singing) Uh-oh the laundry's done, uh-oh, uh-oh.",
+          "line_number": 263
+        },
+        {
+          "speaker": "Rachel",
+          "line": "Ross, what's the matter?",
+          "line_number": 264
+        },
+        {
+          "speaker": "Ross",
+          "line": "Nothing, nothing. Lee-lo, the laundry's done.",
+          "line_number": 265
+        },
+        {
+          "speaker": "Rachel",
+          "line": "Come on, show me.",
+          "line_number": 266
+        },
+        {
+          "speaker": "Ross",
+          "line": "All right, all right, it's just that you left a red sock in with all your whites, and now, everything's kinda pink.",
+          "line_number": 268
+        },
+        {
+          "speaker": "Rachel",
+          "line": "Oh, everything's pink.",
+          "line_number": 269
+        },
+        {
+          "speaker": "Ross",
+          "line": "Yeah, uh, except for the red sock, which is still red. I'm sorry, please don't be upset, it could happen to anyone.",
+          "line_number": 271
+        }
+      ],
+      "page_numbers": [],
+      "episode_title": "The One With the East German Laundry Detergent",
+      "stage_directions": [
+        {
+          "direction": "(The woman who had tried to steal the washing machine walks by, and laughs.)",
+          "line_number": 273
+        }
+      ],
+      "line_number_start": 254
+    },
+    {
+      "scene": "The fancy restaurant, Angela has her hand in Bob's shirt, and Monica is very uncomfortable.",
+      "scene_number": 13,
+      "characters": [
+        "Monica",
+        "Joey"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Monica",
+          "line": "Something went wrong with Underdog, and they couldn't get his head to inflate. So anyway, um, his head is like flopping down Broadway, right, and I'm just thinking... how inappropriate this is. Um, I've got8/11 something in my eye, uh, Joey, could we check it in the light, please?",
+          "line_number": 283,
+          "cleaned": true
+        },
+        {
+          "speaker": "Monica",
+          "line": "Oh my god.",
+          "line_number": 284
+        },
+        {
+          "speaker": "Joey",
+          "line": "What?",
+          "line_number": 285
+        },
+        {
+          "speaker": "Monica",
+          "line": "Hello! Were we at the same table? It's like... cocktails in Appalachia.",
+          "line_number": 286
+        },
+        {
+          "speaker": "Joey",
+          "line": "Come on, they're close.",
+          "line_number": 287
+        },
+        {
+          "speaker": "Monica",
+          "line": "Close? She's got her tongue in his ear.",
+          "line_number": 288
+        },
+        {
+          "speaker": "Joey",
+          "line": "Oh, like you've never gotten a little rambunctious with Ross.",
+          "line_number": 289
+        },
+        {
+          "speaker": "Monica",
+          "line": "Joey, this is sick, it's disgusting, it's, it's—not really true, is it?",
+          "line_number": 290
+        },
+        {
+          "speaker": "Joey",
+          "line": "Well, who's to say what's true? I mean...",
+          "line_number": 291
+        },
+        {
+          "speaker": "Monica",
+          "line": "Oh my god, what were you thinking?",
+          "line_number": 292
+        },
+        {
+          "speaker": "Joey",
+          "line": "All right, look, I'm not proud of this, ok? Well, maybe I am a little.",
+          "line_number": 293
+        },
+        {
+          "speaker": "Monica",
+          "line": "(hits him lightly) Oh!",
+          "line_number": 294
+        },
+        {
+          "speaker": "Joey",
+          "line": "Ow!",
+          "line_number": 295
+        },
+        {
+          "speaker": "Monica",
+          "line": "(leaving) I'm outta here.",
+          "line_number": 296
+        },
+        {
+          "speaker": "Joey",
+          "line": "Wait, wait, wait. You want him, I want her. He likes you.",
+          "line_number": 297
+        },
+        {
+          "speaker": "Monica",
+          "line": "Really?",
+          "line_number": 298
+        },
+        {
+          "speaker": "Joey",
+          "line": "Yeah. I'm thinking, if we put our heads together, between the two of us, we can break them up. Angela.]",
+          "line_number": 301
+        },
+        {
+          "speaker": "Monica",
+          "line": "I'm so sorry, I can't believe I did this, but I couldn't stop laughing at your Norman Mailer story.",
+          "line_number": 303
+        }
+      ],
+      "page_numbers": [],
+      "episode_title": "The One With the East German Laundry Detergent",
+      "stage_directions": [
+        {
+          "direction": "(Her and Joey walk away from the table.)",
+          "line_number": 282
+        },
+        {
+          "direction": "[Time lapse, Monica accidentally spilled her drink on Bob's shirt and is wiping it off. Joey is making eyes at",
+          "line_number": 299
+        },
+        {
+          "direction": "(Angela is eating chicken wings and making the weasel-like noise Joey had told Bob about.)",
+          "line_number": 302
+        }
+      ],
+      "line_number_start": 274
+    },
+    {
+      "scene": null,
+      "scene_number": 14,
+      "characters": [
+        "Janice",
+        "Chandler",
+        "Phoebe"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Chandler",
+          "line": "Here's the thing, Janice. You know, I mean, it's like we're different. I'm like the bing, bing, bing. You're like the boom, boom, (Chandler flails his hand out and hits Janice in the eye)... boom.",
+          "line_number": 308
+        },
+        {
+          "speaker": "Janice",
+          "line": "Ow!",
+          "line_number": 309
+        },
+        {
+          "speaker": "Chandler",
+          "line": "Oh, my god, I'm so sorry. Are you ok?",
+          "line_number": 310
+        },
+        {
+          "speaker": "Janice",
+          "line": "Ow. Um, it's just my lens. It's just my lens. I'll be right back.",
+          "line_number": 316,
+          "page_number": "9/11",
+          "cleaned": true
+        },
+        {
+          "speaker": "Chandler",
+          "line": "(to Phoebe) I hit her in the eye! I hit her in the eye! This is the worst break-up in the history of the world.",
+          "line_number": 318
+        },
+        {
+          "speaker": "Phoebe",
+          "line": "Oh my god. (Chandler downs another espresso.) How many of those have you had?",
+          "line_number": 319
+        },
+        {
+          "speaker": "Chandler",
+          "line": "Oh, I don't know, a million?",
+          "line_number": 320
+        },
+        {
+          "speaker": "Phoebe",
+          "line": "Chandler, easy, easy. Go to your happy place. La la la la la la la.",
+          "line_number": 321
+        },
+        {
+          "speaker": "Chandler",
+          "line": "I'm fine.",
+          "line_number": 322
+        },
+        {
+          "speaker": "Phoebe",
+          "line": "All right.",
+          "line_number": 324
+        },
+        {
+          "speaker": "Chandler",
+          "line": "I'm not fine. Here she comes.",
+          "line_number": 325
+        },
+        {
+          "speaker": "Phoebe",
+          "line": "Wait here. Breathe. hugs her, waves to Chandler, and leaves.)",
+          "line_number": 328
+        },
+        {
+          "speaker": "Chandler",
+          "line": "How do you do that?",
+          "line_number": 329
+        },
+        {
+          "speaker": "Phoebe",
+          "line": "It's like a gift.",
+          "line_number": 330
+        },
+        {
+          "speaker": "Chandler",
+          "line": "We should always always break up together.",
+          "line_number": 331
+        }
+      ],
+      "page_numbers": [
+        "9/11"
+      ],
+      "episode_title": "The One With the East German Laundry Detergent",
+      "stage_directions": [
+        {
+          "direction": "(She leaves.)",
+          "line_number": 315
+        },
+        {
+          "direction": "(Janice returns from the bathroom.)",
+          "line_number": 323
+        },
+        {
+          "direction": "(Phoebe goes over to speak to Janice. She talks to her for a few seconds, and then Janice immediately smiles,",
+          "line_number": 326
+        }
+      ],
+      "line_number_start": 304
+    },
+    {
+      "scene": "The Launderama. Rachel is sorting her now-pink clothes.",
+      "scene_number": 15,
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Woman"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Ross",
+          "line": "You got the clothes clean. Now that's the important part.",
+          "line_number": 334
+        },
+        {
+          "speaker": "Rachel",
+          "line": "Oh, I guess. Except everything looks like jammies now.",
+          "line_number": 336
+        },
+        {
+          "speaker": "Rachel",
+          "line": "Whoa, I'm sorry. Excuse me. We had this cart.",
+          "line_number": 337
+        },
+        {
+          "speaker": "Woman",
+          "line": "Yeah, well, I had a 24-inch waist. You lose things. Now come on, get outta my way.",
+          "line_number": 339
+        },
+        {
+          "speaker": "Rachel",
+          "line": "I'm sorry, you know, maybe I wasn't being clear. Uh, this is our cart.",
+          "line_number": 340
+        },
+        {
+          "speaker": "Woman",
+          "line": "Hey, hey, hey there aren't any clothes in it.",
+          "line_number": 341
+        },
+        {
+          "speaker": "Rachel",
+          "line": "Hey, hey, hey, hey, quit making up rules!",
+          "line_number": 342
+        },
+        {
+          "speaker": "Woman",
+          "line": "Let go!",
+          "line_number": 344
+        },
+        {
+          "speaker": "Rachel",
+          "line": "All right, listen, missy. If you want this cart, you're gonna have to take me with it!",
+          "line_number": 350,
+          "page_number": "10/11",
+          "cleaned": true
+        },
+        {
+          "speaker": "Rachel",
+          "line": "(to Ross) Yes! Did you see that?",
+          "line_number": 351
+        },
+        {
+          "speaker": "Ross",
+          "line": "You were incredible! Brand new woman, ladies and gentlemen.",
+          "line_number": 352
+        },
+        {
+          "speaker": "Rachel",
+          "line": "I could not have done this without you.",
+          "line_number": 354
+        },
+        {
+          "speaker": "Ross",
+          "line": "Ok, um, uh, more clothes in the dryer? (Ross turns and bangs his head on an open dryer door.) I'm fine, I'm fine.",
+          "line_number": 356
+        },
+        {
+          "speaker": "Rachel",
+          "line": "Are you sure?",
+          "line_number": 357
+        }
+      ],
+      "page_numbers": [
+        "10/11"
+      ],
+      "episode_title": "The One With the East German Laundry Detergent",
+      "stage_directions": [
+        {
+          "direction": "(The same woman walks over and takes Rachel's laundry cart.)",
+          "line_number": 335
+        },
+        {
+          "direction": "(Rachel looks at Ross, who motions to her to get the cart back.)",
+          "line_number": 338
+        },
+        {
+          "direction": "(They struggle for the cart. Finally, Rachel climbs inside of it.)",
+          "line_number": 343
+        },
+        {
+          "direction": "(She thinks it over, and then walks away.)",
+          "line_number": 349
+        },
+        {
+          "direction": "(Rachel stands up and kisses Ross. He is stunned. A moment of silence follows.)",
+          "line_number": 353
+        }
+      ],
+      "line_number_start": 332
+    },
+    {
+      "scene": "Central Perk, Ross, Rachel, and Phoebe are there. Ross has an icepack to his head.",
+      "scene_number": 16,
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Phoebe",
+        "Monica",
+        "Ross",
+        "Joey"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Rachel",
+          "line": "Oh, are you sure you're ok?",
+          "line_number": 361
+        },
+        {
+          "speaker": "Ross",
+          "line": "Yeah.",
+          "line_number": 362
+        },
+        {
+          "speaker": "Rachel",
+          "line": "Does it still hurt?",
+          "line_number": 363
+        },
+        {
+          "speaker": "Ross",
+          "line": "Yeah.",
+          "line_number": 364
+        },
+        {
+          "speaker": "Phoebe",
+          "line": "(seeing Rachel's clothes) What a neat idea. All your clothes match. I'm gonna do this.",
+          "line_number": 366
+        },
+        {
+          "speaker": "Monica",
+          "line": "Hi.",
+          "line_number": 367
+        },
+        {
+          "speaker": "Phoebe",
+          "line": "Hey, how'd it go?",
+          "line_number": 368
+        },
+        {
+          "speaker": "Joey",
+          "line": "Excellent.",
+          "line_number": 369
+        },
+        {
+          "speaker": "Monica",
+          "line": "We ripped that couple apart, and kept the pieces for ourselves.",
+          "line_number": 370
+        },
+        {
+          "speaker": "Ross",
+          "line": "What a beautiful story. Hey, I'm fine by the way.",
+          "line_number": 371
+        },
+        {
+          "speaker": "Monica",
+          "line": "(notices his head) Oh, I'm sorry.",
+          "line_number": 372
+        },
+        {
+          "speaker": "Rachel",
+          "line": "Where's Chandler?",
+          "line_number": 373
+        },
+        {
+          "speaker": "Phoebe",
+          "line": "Oh, he needed some time to grieve.",
+          "line_number": 375
+        },
+        {
+          "speaker": "Chandler",
+          "line": "I'm free! I'm free!",
+          "line_number": 376
+        },
+        {
+          "speaker": "Phoebe",
+          "line": "That oughta do it. End",
+          "line_number": 381,
+          "page_number": "11/11",
+          "cleaned": true
+        }
+      ],
+      "page_numbers": [
+        "11/11"
+      ],
+      "episode_title": "The One With the East German Laundry Detergent",
+      "stage_directions": [
+        {
+          "direction": "(Monica and Joey enter.)",
+          "line_number": 365
+        },
+        {
+          "direction": "(Chandler runs by the window outside, joyous.)",
+          "line_number": 374
+        }
+      ],
+      "line_number_start": 359
+    }
+  ],
+  "parsing_info": {
+    "parser_version": "2.0",
+    "total_lines_processed": 381,
+    "parsing_date": "2025-07-07T23:37:09.756140",
+    "dialogue_lines_cleaned": 10
+  }
+}

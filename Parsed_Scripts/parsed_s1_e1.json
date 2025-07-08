@@ -1,0 +1,1925 @@
+{
+  "metadata": {
+    "episode_title": "The One Where Monica Gets a New Roommate (The Pilot-The Uncut Version)",
+    "season": 1,
+    "episode_number": 1,
+    "series_episode_number": 1,
+    "air_date": null,
+    "writers": [
+      "Marta Kauffman",
+      "David Crane"
+    ],
+    "directors": [],
+    "story_by": [],
+    "teleplay_by": [],
+    "production_code": null,
+    "total_pages": 14,
+    "file_info": {
+      "filename": "S1_Ep1.pdf",
+      "file_path": "Raw_Data/S1_Scripts/S1_Ep1.pdf",
+      "file_size": 284598,
+      "extraction_date": "2025-07-07T23:36:02.506043"
+    }
+  },
+  "statistics": {
+    "total_scenes": 11,
+    "total_dialogue_lines": 286,
+    "character_stats": {
+      "Monica": {
+        "total_lines": 72,
+        "scenes_appeared": 8,
+        "average_lines_per_scene": 9.0
+      },
+      "All": {
+        "total_lines": 8,
+        "scenes_appeared": 4,
+        "average_lines_per_scene": 2.0
+      },
+      "Rachel": {
+        "total_lines": 44,
+        "scenes_appeared": 6,
+        "average_lines_per_scene": 7.333333333333333
+      },
+      "Joey": {
+        "total_lines": 39,
+        "scenes_appeared": 7,
+        "average_lines_per_scene": 5.571428571428571
+      },
+      "Paul": {
+        "total_lines": 17,
+        "scenes_appeared": 4,
+        "average_lines_per_scene": 4.25
+      },
+      "Ross": {
+        "total_lines": 45,
+        "scenes_appeared": 7,
+        "average_lines_per_scene": 6.428571428571429
+      },
+      "Phoebe": {
+        "total_lines": 17,
+        "scenes_appeared": 4,
+        "average_lines_per_scene": 4.25
+      },
+      "Waitress": {
+        "total_lines": 1,
+        "scenes_appeared": 1,
+        "average_lines_per_scene": 1.0
+      },
+      "Chandler": {
+        "total_lines": 38,
+        "scenes_appeared": 8,
+        "average_lines_per_scene": 4.75
+      },
+      "Frannie": {
+        "total_lines": 4,
+        "scenes_appeared": 1,
+        "average_lines_per_scene": 4.0
+      },
+      "Customer": {
+        "total_lines": 1,
+        "scenes_appeared": 1,
+        "average_lines_per_scene": 1.0
+      }
+    },
+    "scene_lengths": [
+      0,
+      106,
+      16,
+      9,
+      22,
+      4,
+      43,
+      8,
+      19,
+      41,
+      18
+    ],
+    "average_scene_length": 26.0,
+    "longest_scene": {
+      "length": 106,
+      "scene_index": 1
+    },
+    "shortest_scene": {
+      "length": 0,
+      "scene_index": 0
+    },
+    "page_range": {
+      "start": 1,
+      "end": 14
+    },
+    "unique_characters": [
+      "Monica",
+      "All",
+      "Joey",
+      "Frannie",
+      "Paul",
+      "Ross",
+      "Phoebe",
+      "Chandler",
+      "Waitress",
+      "Rachel",
+      "Customer"
+    ],
+    "speaking_characters": [
+      "Monica",
+      "All",
+      "Rachel",
+      "Joey",
+      "Frannie",
+      "Paul",
+      "Ross",
+      "Phoebe",
+      "Waitress",
+      "Chandler",
+      "Customer"
+    ]
+  },
+  "script": [
+    {
+      "scene": null,
+      "scene_number": 0,
+      "characters": [],
+      "dialogue": [],
+      "page_numbers": [],
+      "episode_title": "The One Where Monica Gets a New Roommate (The Pilot-The Uncut Version)",
+      "stage_directions": [
+        {
+          "direction": "(Note: The previously unseen parts of this episode are shown in blue text.)",
+          "line_number": 6
+        }
+      ]
+    },
+    {
+      "scene": "Central Perk, Chandler, Joey, Phoebe, and Monica are there.",
+      "scene_number": 1,
+      "characters": [
+        "Monica",
+        "All",
+        "Rachel",
+        "Joey",
+        "Paul",
+        "Ross",
+        "Phoebe",
+        "Waitress",
+        "Chandler"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Monica",
+          "line": "There's nothing to tell! He's just some guy I work with!",
+          "line_number": 9
+        },
+        {
+          "speaker": "Joey",
+          "line": "C'mon, you're going out with the guy! There's gotta be something wrong with him!",
+          "line_number": 10
+        },
+        {
+          "speaker": "Chandler",
+          "line": "All right Joey, be nice. So does he have a hump? A hump and a hairpiece?",
+          "line_number": 11,
+          "cleaned": true
+        },
+        {
+          "speaker": "Phoebe",
+          "line": "Wait, does he eat chalk?",
+          "line_number": 13
+        },
+        {
+          "speaker": "Phoebe",
+          "line": "Just, 'cause, I don't want her to go through what I went through with Carl- oh!",
+          "line_number": 14
+        },
+        {
+          "speaker": "Monica",
+          "line": "Okay, everybody relax. This is not even a date. It's just two people going out to dinner and- not having sex.",
+          "line_number": 16
+        },
+        {
+          "speaker": "Chandler",
+          "line": "Sounds like a date to me.",
+          "line_number": 18
+        },
+        {
+          "speaker": "Chandler",
+          "line": "Alright, so I'm back in high school, I'm standing in the middle of the cafeteria, and I realize I am totally naked.",
+          "line_number": 20
+        },
+        {
+          "speaker": "All",
+          "line": "Oh, yeah. Had that dream.",
+          "line_number": 21
+        },
+        {
+          "speaker": "Chandler",
+          "line": "Then I look down, and I realize there's a phone... there.",
+          "line_number": 22
+        },
+        {
+          "speaker": "Joey",
+          "line": "Instead of...?",
+          "line_number": 23
+        },
+        {
+          "speaker": "Chandler",
+          "line": "That's right.",
+          "line_number": 24
+        },
+        {
+          "speaker": "Joey",
+          "line": "Never had that dream.",
+          "line_number": 25
+        },
+        {
+          "speaker": "Phoebe",
+          "line": "No.",
+          "line_number": 26
+        },
+        {
+          "speaker": "Chandler",
+          "line": "All of a sudden, the phone starts to ring. Now I don't know what to do, everybody starts looking at me.",
+          "line_number": 28
+        },
+        {
+          "speaker": "Monica",
+          "line": "And they weren't looking at you before?!",
+          "line_number": 29
+        },
+        {
+          "speaker": "Chandler",
+          "line": "Finally, I figure I'd better answer it, and it turns out it's my mother, which is very-very weird, because- she never calls me! The One Where Monica Gets a New Roomate (The Pilot-The Uncut Version)",
+          "line_number": 36,
+          "page_number": "1/14"
+        },
+        {
+          "speaker": "Ross",
+          "line": "(mortified) Hi.",
+          "line_number": 37
+        },
+        {
+          "speaker": "Joey",
+          "line": "This guy says hello, I wanna kill myself.",
+          "line_number": 38
+        },
+        {
+          "speaker": "Monica",
+          "line": "Are you okay, sweetie?",
+          "line_number": 39
+        },
+        {
+          "speaker": "Ross",
+          "line": "I just feel like someone reached down my throat, grabbed my small intestine, pulled it out of my mouth and tied it around my neck...",
+          "line_number": 41
+        },
+        {
+          "speaker": "Chandler",
+          "line": "Cookie?",
+          "line_number": 42
+        },
+        {
+          "speaker": "Monica",
+          "line": "(explaining to the others) Carol moved her stuff out today.",
+          "line_number": 43
+        },
+        {
+          "speaker": "Joey",
+          "line": "Ohh.",
+          "line_number": 44
+        },
+        {
+          "speaker": "Monica",
+          "line": "(to Ross) Let me get you some coffee.",
+          "line_number": 45
+        },
+        {
+          "speaker": "Ross",
+          "line": "Thanks.",
+          "line_number": 46
+        },
+        {
+          "speaker": "Phoebe",
+          "line": "Ooh! Oh! (She starts to pluck at the air just in front of Ross.)",
+          "line_number": 47
+        },
+        {
+          "speaker": "Ross",
+          "line": "No, no don't! Stop cleansing my aura! No, just leave my aura alone, okay?",
+          "line_number": 48
+        },
+        {
+          "speaker": "Phoebe",
+          "line": "Fine! Be murky!",
+          "line_number": 49,
+          "cleaned": true
+        },
+        {
+          "speaker": "Ross",
+          "line": "I'll be fine, alright? Really, everyone. I hope she'll be very happy.",
+          "line_number": 50
+        },
+        {
+          "speaker": "Monica",
+          "line": "No you don't.",
+          "line_number": 51
+        },
+        {
+          "speaker": "Ross",
+          "line": "No I don't, to hell with her, she left me!",
+          "line_number": 52
+        },
+        {
+          "speaker": "Joey",
+          "line": "And you never knew she was a lesbian...",
+          "line_number": 53
+        },
+        {
+          "speaker": "Ross",
+          "line": "No!! Okay?! Why does everyone keep fixating on that? She didn't know, how should I know?",
+          "line_number": 54
+        },
+        {
+          "speaker": "Chandler",
+          "line": "Sometimes I wish I was a lesbian... (They all stare at him.) Did I say that out loud?",
+          "line_number": 55
+        },
+        {
+          "speaker": "Ross",
+          "line": "I told mom and dad last night, they seemed to take it pretty well.",
+          "line_number": 56
+        },
+        {
+          "speaker": "Monica",
+          "line": "Oh really, so that hysterical phone call I got from a woman at sobbing 3:00 A.M., \"I'll never have grandchildren, I'll never have grandchildren.\" was what? A wrong number?",
+          "line_number": 58,
+          "cleaned": true
+        },
+        {
+          "speaker": "Ross",
+          "line": "Sorry.",
+          "line_number": 59
+        },
+        {
+          "speaker": "Joey",
+          "line": "Alright Ross, look. You're feeling a lot of pain right now. You're angry. You're hurting. Can I tell you what the answer is?",
+          "line_number": 62
+        },
+        {
+          "speaker": "Joey",
+          "line": "Strip joint! C'mon, you're single! Have some hormones!",
+          "line_number": 63
+        },
+        {
+          "speaker": "Ross",
+          "line": "I don't want to be single, okay? I just... I just- I just wanna be married again! The One Where Monica Gets a New Roomate (The Pilot-The Uncut Version)",
+          "line_number": 69,
+          "page_number": "2/14"
+        },
+        {
+          "speaker": "Chandler",
+          "line": "And I just want a million dollars! (He extends his hand hopefully.)",
+          "line_number": 70
+        },
+        {
+          "speaker": "Monica",
+          "line": "Rachel?!",
+          "line_number": 71
+        },
+        {
+          "speaker": "Rachel",
+          "line": "Oh God Monica hi! Thank God! I just went to your building and you weren't there and then this guy with a big hammer said you might be here and you are, you are!",
+          "line_number": 73
+        },
+        {
+          "speaker": "Waitress",
+          "line": "Can I get you some coffee?",
+          "line_number": 74
+        },
+        {
+          "speaker": "Monica",
+          "line": "(pointing at Rachel) De-caff. (to All) Okay, everybody, this is Rachel, another Lincoln High survivor.",
+          "line_number": 76
+        },
+        {
+          "speaker": "Rachel",
+          "line": "Hi, sure!",
+          "line_number": 77
+        },
+        {
+          "speaker": "Ross",
+          "line": "Hi. Rachel sits and the others expect her to explain.)",
+          "line_number": 80
+        },
+        {
+          "speaker": "Monica",
+          "line": "So you wanna tell us now, or are we waiting for four wet bridesmaids?",
+          "line_number": 81
+        },
+        {
+          "speaker": "Rachel",
+          "line": "Oh God... well, it started about a half hour before the wedding. I was in the room where we were keeping all the presents, and I was looking at this gravy boat. This really gorgeous Lamauge gravy boat. When all of a sudden- (to the waitress that brought her coffee)Sweet 'n' Lo?- I realized that I was more turned on by this gravy boat than by Barry! And then I got really freaked out, and that's when it hit me: how much Barry looks like Mr. Potato Head. Y'know, I mean, I always knew looked familiar, but... Anyway, I just had to get out of there, and I started wondering 'Why am I doing this, and who am I doing this for?'. (to Monica) So anyway I just didn't know where to go, and I know that you and I have kinda drifted apart, but you're the only person I knew who lived here in the city.",
+          "line_number": 89
+        },
+        {
+          "speaker": "Monica",
+          "line": "Who wasn't invited to the wedding.",
+          "line_number": 90
+        },
+        {
+          "speaker": "Rachel",
+          "line": "Ooh, I was kinda hoping that wouldn't be an issue... [Scene: Monica's Apartment, everyone is there and watching a Spanish Soap on TV and are trying to figure out what is going on.]",
+          "line_number": 92
+        },
+        {
+          "speaker": "Monica",
+          "line": "Now I'm guessing that he bought her the big pipe organ, and she's really not happy about it.",
+          "line_number": 93
+        },
+        {
+          "speaker": "Chandler",
+          "line": "(imitating the characters) Tuna or egg salad? Decide!",
+          "line_number": 94,
+          "cleaned": true
+        },
+        {
+          "speaker": "Ross",
+          "line": "(in a deep voice) I'll have whatever Christine is having.",
+          "line_number": 95
+        },
+        {
+          "speaker": "Rachel",
+          "line": "(on phone) Daddy, I just... I can't marry him! I'm sorry. I just don't love him. Well, it matters to me!",
+          "line_number": 97
+        },
+        {
+          "speaker": "Phoebe",
+          "line": "If I let go of my hair, my head will fall off.",
+          "line_number": 98
+        },
+        {
+          "speaker": "Chandler",
+          "line": "(re TV) Ooh, she should not be wearing those pants.",
+          "line_number": 99
+        },
+        {
+          "speaker": "Joey",
+          "line": "I say push her down the stairs. Phoebe, Ross, Chandler, and Joey: Push her down the stairs! Push her down the stairs! Push her down the stairs! The One Where Monica Gets a New Roomate (The Pilot-The Uncut Version)",
+          "line_number": 107,
+          "page_number": "3/14",
+          "cleaned": true
+        },
+        {
+          "speaker": "Rachel",
+          "line": "C'mon Daddy, listen to me! It's like, it's like, all of my life, everyone has always told me, 'You're a shoe! You're a shoe, you're a shoe, you're a shoe!'. And today I just stopped and I said, 'What if I don't wanna be a shoe? What if I wanna be a- a purse, y'know? Or a- or a hat! No, I'm not saying I want you to buy me a hat, I'm saying I am a ha- It's a metaphor, Daddy!",
+          "line_number": 111
+        },
+        {
+          "speaker": "Ross",
+          "line": "You can see where he'd have trouble.",
+          "line_number": 112
+        },
+        {
+          "speaker": "Rachel",
+          "line": "Look Daddy, it's my life. Well maybe I'll just stay here with Monica.",
+          "line_number": 113
+        },
+        {
+          "speaker": "Monica",
+          "line": "Well, I guess we've established who's staying here with Monica...",
+          "line_number": 114
+        },
+        {
+          "speaker": "Rachel",
+          "line": "Well, maybe that's my decision. Well, maybe I don't need your money. Wait!! Wait, I said maybe!!",
+          "line_number": 116
+        },
+        {
+          "speaker": "Monica",
+          "line": "Just breathe, breathe.. that's it. Just try to think of nice calm things...",
+          "line_number": 117
+        },
+        {
+          "speaker": "Phoebe",
+          "line": "(sings) Raindrops on roses and rabbits and kittens, (Rachel and Monica turn to look at her.) bluebells and sleighbells and- something with mittens... La la la la...something and noodles with string. These are a few...",
+          "line_number": 119,
+          "cleaned": true
+        },
+        {
+          "speaker": "Rachel",
+          "line": "I'm all better now.",
+          "line_number": 120
+        },
+        {
+          "speaker": "Phoebe",
+          "line": "(grins and walks to the kitchen and says to Chandler and Joey.) I helped!",
+          "line_number": 121
+        },
+        {
+          "speaker": "Monica",
+          "line": "Okay, look, this is probably for the best, y'know? Independence. Taking control of your life. The whole, 'hat' thing.",
+          "line_number": 123,
+          "cleaned": true
+        },
+        {
+          "speaker": "Joey",
+          "line": "(comforting her) And hey, you need anything, you can always come to Joey. Me and Chandler live across the hall. And he's away a lot.",
+          "line_number": 125
+        },
+        {
+          "speaker": "Monica",
+          "line": "Joey, stop hitting on her! It's her wedding day!",
+          "line_number": 126
+        },
+        {
+          "speaker": "Joey",
+          "line": "What, like there's a rule or something?",
+          "line_number": 128
+        },
+        {
+          "speaker": "Chandler",
+          "line": "Please don't do that again, it's a horrible sound.",
+          "line_number": 129
+        },
+        {
+          "speaker": "Paul",
+          "line": "(over the intercom) It's, uh, it's Paul.",
+          "line_number": 130
+        },
+        {
+          "speaker": "Monica",
+          "line": "Oh God, is it 6:30? Buzz him in!",
+          "line_number": 131,
+          "cleaned": true
+        },
+        {
+          "speaker": "Joey",
+          "line": "Who's Paul?",
+          "line_number": 132
+        },
+        {
+          "speaker": "Ross",
+          "line": "Paul the Wine Guy, Paul?",
+          "line_number": 133
+        },
+        {
+          "speaker": "Monica",
+          "line": "Maybe. Joey: Wait. Your 'not a real date' tonight is with Paul the Wine Guy?",
+          "line_number": 134
+        },
+        {
+          "speaker": "Ross",
+          "line": "He finally asked you out?",
+          "line_number": 135
+        },
+        {
+          "speaker": "Monica",
+          "line": "Yes!",
+          "line_number": 136
+        },
+        {
+          "speaker": "Chandler",
+          "line": "Ooh, this is a Dear Diary moment.",
+          "line_number": 137
+        },
+        {
+          "speaker": "Monica",
+          "line": "Rach, wait, I can cancel...",
+          "line_number": 138
+        },
+        {
+          "speaker": "Rachel",
+          "line": "Please, no, go, that'd be fine! The One Where Monica Gets a New Roomate (The Pilot-The Uncut Version)",
+          "line_number": 143,
+          "page_number": "4/14"
+        },
+        {
+          "speaker": "Monica",
+          "line": "(to Ross) Are, are you okay? I mean, do you want me to stay?",
+          "line_number": 144
+        },
+        {
+          "speaker": "Ross",
+          "line": "(choked voice) That'd be good...",
+          "line_number": 145
+        },
+        {
+          "speaker": "Monica",
+          "line": "(horrified) Really?",
+          "line_number": 146
+        },
+        {
+          "speaker": "Ross",
+          "line": "(normal voice) No, go on! It's Paul the Wine Guy!",
+          "line_number": 147
+        },
+        {
+          "speaker": "Phoebe",
+          "line": "What does that mean? Does he sell it, drink it, or just complain a lot? (Chandler doesn't know.)",
+          "line_number": 149,
+          "cleaned": true
+        },
+        {
+          "speaker": "Monica",
+          "line": "Hi, come in! Paul, this is.. (They are all lined up next to the door.)... everybody, everybody, this is Paul.",
+          "line_number": 150
+        },
+        {
+          "speaker": "All",
+          "line": "Hey! Paul! Hi! The Wine Guy! Hey!",
+          "line_number": 151
+        },
+        {
+          "speaker": "Chandler",
+          "line": "I'm sorry, I didn't catch your name. Paul, was it?",
+          "line_number": 152
+        },
+        {
+          "speaker": "Monica",
+          "line": "Okay, umm-umm, I'll just--I'll be right back, I just gotta go ah, go ah...",
+          "line_number": 153
+        },
+        {
+          "speaker": "Ross",
+          "line": "A wandering?",
+          "line_number": 154
+        },
+        {
+          "speaker": "Monica",
+          "line": "Change! Okay, sit down. (Shows Paul in) Two seconds.",
+          "line_number": 155,
+          "cleaned": true
+        },
+        {
+          "speaker": "Phoebe",
+          "line": "Ooh, I just pulled out four eyelashes. That can't be good.",
+          "line_number": 157
+        },
+        {
+          "speaker": "Joey",
+          "line": "Hey, Paul!",
+          "line_number": 158
+        },
+        {
+          "speaker": "Paul",
+          "line": "Yeah?",
+          "line_number": 159
+        },
+        {
+          "speaker": "Joey",
+          "line": "Here's a little tip, she really likes it when you rub her neck in the same spot over and over and over again until it starts to get a little red.",
+          "line_number": 161
+        },
+        {
+          "speaker": "Monica",
+          "line": "(yelling from the bedroom) Shut up, Joey!",
+          "line_number": 162
+        },
+        {
+          "speaker": "Ross",
+          "line": "So Rachel, what're you, uh... what're you up to tonight?",
+          "line_number": 163
+        },
+        {
+          "speaker": "Rachel",
+          "line": "Well, I was kinda supposed to be headed for Aruba on my honeymoon, so nothing!",
+          "line_number": 164
+        },
+        {
+          "speaker": "Ross",
+          "line": "Right, you're not even getting your honeymoon, God.. No, no, although, Aruba, this time of year... talk about your- (thinks) -big lizards... Anyway, if you don't feel like being alone tonight, Joey and Chandler are coming over to help me put together my new furniture.",
+          "line_number": 167
+        },
+        {
+          "speaker": "Chandler",
+          "line": "(deadpan) Yes, and we're very excited about it.",
+          "line_number": 168
+        },
+        {
+          "speaker": "Rachel",
+          "line": "Well actually thanks, but I think I'm just gonna hang out here tonight. It's been kinda a long day.",
+          "line_number": 169,
+          "cleaned": true
+        },
+        {
+          "speaker": "Ross",
+          "line": "Okay, sure.",
+          "line_number": 170
+        },
+        {
+          "speaker": "Joey",
+          "line": "Hey Pheebs, you wanna help?",
+          "line_number": 171
+        }
+      ],
+      "page_numbers": [
+        "1/14",
+        "2/14",
+        "4/14",
+        "3/14"
+      ],
+      "episode_title": "The One Where Monica Gets a New Roommate (The Pilot-The Uncut Version)",
+      "stage_directions": [
+        {
+          "direction": "(They all stare, bemused.)",
+          "line_number": 12
+        },
+        {
+          "direction": "[Time Lapse]",
+          "line_number": 17
+        },
+        {
+          "direction": "[Time Lapse, Ross has entered.]",
+          "line_number": 35
+        },
+        {
+          "direction": "(Ross gestures his consent.)",
+          "line_number": 61
+        },
+        {
+          "direction": "(Rachel enters in a wet wedding dress and starts to search the room.)",
+          "line_number": 64
+        },
+        {
+          "direction": "(to Rachel) This is everybody, this is Chandler, and Phoebe, and Joey, and- you remember my brother Ross?",
+          "line_number": 75
+        },
+        {
+          "direction": "(They go to hug but Ross's umbrella opens.  He sits back down defeated again.  A moment of silence follows as",
+          "line_number": 78
+        },
+        {
+          "direction": "(The scene on TV has changed to show two women, one is holding her hair.)",
+          "line_number": 96
+        },
+        {
+          "direction": "(She is pushed down the stairs and everyone cheers.)",
+          "line_number": 102
+        },
+        {
+          "direction": "[Time Lapse, Rachel is breating into a paper bag.]",
+          "line_number": 115
+        },
+        {
+          "direction": "(The door buzzer sounds and Chandler gets it.)",
+          "line_number": 127
+        },
+        {
+          "direction": "(There's a knock on the door and it's Paul.)",
+          "line_number": 148
+        },
+        {
+          "direction": "(Monica goes to change.)",
+          "line_number": 156
+        }
+      ],
+      "line_number_start": 7
+    },
+    {
+      "scene": "Ross's Apartment, the guys are there assembling furniture.",
+      "scene_number": 3,
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Joey"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Ross",
+          "line": "(squatting and reading the instructions) I'm supposed to attach a brackety thing to the side things, using a bunch of these little worm guys. I have no brackety thing, I see no whim guys whatsoever and- I cannot feel my legs.",
+          "line_number": 186
+        },
+        {
+          "speaker": "Joey",
+          "line": "I'm thinking we've got a bookcase here.",
+          "line_number": 187
+        },
+        {
+          "speaker": "Chandler",
+          "line": "It's a beautiful thing.",
+          "line_number": 188
+        },
+        {
+          "speaker": "Joey",
+          "line": "(picking up a leftover part) What's this?",
+          "line_number": 189
+        },
+        {
+          "speaker": "Chandler",
+          "line": "I would have to say that is an 'L'-shaped bracket.",
+          "line_number": 190
+        },
+        {
+          "speaker": "Joey",
+          "line": "Which goes where?",
+          "line_number": 191
+        },
+        {
+          "speaker": "Chandler",
+          "line": "I have no idea.",
+          "line_number": 193
+        },
+        {
+          "speaker": "Joey",
+          "line": "Done with the bookcase!",
+          "line_number": 194
+        },
+        {
+          "speaker": "Chandler",
+          "line": "All finished!",
+          "line_number": 195
+        },
+        {
+          "speaker": "Ross",
+          "line": "(clutching a beer can and sniffing) This was Carol's favorite beer. She always drank it out of the can, I should have known.",
+          "line_number": 197
+        },
+        {
+          "speaker": "Joey",
+          "line": "Hey-hey-hey-hey, if you're gonna start with that stuff we're outta here.",
+          "line_number": 198
+        },
+        {
+          "speaker": "Chandler",
+          "line": "Yes, please don't spoil all this fun.",
+          "line_number": 199
+        },
+        {
+          "speaker": "Joey",
+          "line": "Ross, let me ask you a question. She got the furniture, the stereo, the good TV- what did you get?",
+          "line_number": 200
+        },
+        {
+          "speaker": "Ross",
+          "line": "You guys.",
+          "line_number": 201
+        },
+        {
+          "speaker": "Chandler",
+          "line": "Oh, God.",
+          "line_number": 202
+        },
+        {
+          "speaker": "Joey",
+          "line": "You got screwed.",
+          "line_number": 203
+        }
+      ],
+      "page_numbers": [],
+      "episode_title": "The One Where Monica Gets a New Roommate (The Pilot-The Uncut Version)",
+      "stage_directions": [
+        {
+          "direction": "(Joey and Chandler are finishing assembling the bookcase.)",
+          "line_number": 185
+        },
+        {
+          "direction": "(Joey checks that Ross is not looking and dumps it in a plant.)",
+          "line_number": 192
+        }
+      ],
+      "line_number_start": 181
+    },
+    {
+      "scene": "A Restaurant, Monica and Paul are eating.",
+      "scene_number": 4,
+      "characters": [
+        "Monica",
+        "Paul",
+        "Rachel"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Monica",
+          "line": "Oh my God!",
+          "line_number": 206
+        },
+        {
+          "speaker": "Paul",
+          "line": "I know, I know, I'm such an idiot. I guess I should have caught on when she started going to the dentist four and five times a week. I mean, how clean can teeth get?",
+          "line_number": 208
+        },
+        {
+          "speaker": "Monica",
+          "line": "My brother's going through that right now, he's such a mess. How did you get through it? The One Where Monica Gets a New Roomate (The Pilot-The Uncut Version)",
+          "line_number": 213,
+          "page_number": "6/14"
+        },
+        {
+          "speaker": "Paul",
+          "line": "Well, you might try accidentally breaking something valuable of hers, say her-",
+          "line_number": 214
+        },
+        {
+          "speaker": "Monica",
+          "line": "-leg?",
+          "line_number": 215
+        },
+        {
+          "speaker": "Paul",
+          "line": "(laughing) That's one way! Me, I- I went for the watch.",
+          "line_number": 216
+        },
+        {
+          "speaker": "Monica",
+          "line": "You actually broke her watch? Wow! The worst thing I ever did was, I-I shredded by boyfriend's favorite bath towel.",
+          "line_number": 218,
+          "cleaned": true
+        },
+        {
+          "speaker": "Paul",
+          "line": "Ooh, steer clear of you.",
+          "line_number": 219
+        },
+        {
+          "speaker": "Monica",
+          "line": "That's right. [Scene: Monica's Apartment, Rachel is talking on the phone and pacing.]",
+          "line_number": 220
+        }
+      ],
+      "page_numbers": [
+        "6/14"
+      ],
+      "episode_title": "The One Where Monica Gets a New Roommate (The Pilot-The Uncut Version)",
+      "stage_directions": [],
+      "line_number_start": 204
+    },
+    {
+      "scene": "Ross's Apartment; Ross is pacing while Joey and Chandler are working on some more furniture.",
+      "scene_number": 5,
+      "characters": [
+        "Monica",
+        "Joey",
+        "Paul",
+        "Ross",
+        "Chandler"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Ross",
+          "line": "I'm divorced! I'm only 26 and I'm divorced!",
+          "line_number": 227,
+          "cleaned": true
+        },
+        {
+          "speaker": "Joey",
+          "line": "Shut up!",
+          "line_number": 228
+        },
+        {
+          "speaker": "Chandler",
+          "line": "You must stop! (Chandler hits what he is working on with a hammer and it collapses.)",
+          "line_number": 229
+        },
+        {
+          "speaker": "Ross",
+          "line": "That only took me an hour.",
+          "line_number": 230
+        },
+        {
+          "speaker": "Chandler",
+          "line": "Look, Ross, you gotta understand, between us we haven't had a relationship that has lasted longer than a Mento. You, however have had the love of a woman for four years. Four years of closeness and sharing at the end of which she ripped your heart out, and that is why we don't do it! I don't think that was my point!",
+          "line_number": 233,
+          "cleaned": true
+        },
+        {
+          "speaker": "Ross",
+          "line": "You know what the scariest part is? What if there's only one woman for everybody, y'know? I mean what if you get one woman- and that's it? Unfortunately in my case, there was only one woman- for her...",
+          "line_number": 235
+        },
+        {
+          "speaker": "Joey",
+          "line": "What are you talking about? 'One woman'? That's like saying there's only one flavor of ice cream for you. Lemme tell you something, Ross. There's lots of flavors out there. There's Rocky Road, and Cookie Dough, and Bing! Cherry Vanilla. You could get 'em with Jimmies, or nuts, or whipped cream! This is the best thing that ever happened to you! You got married, you were, like, what, eight? Welcome back to the world! Grab a spoon!",
+          "line_number": 239
+        },
+        {
+          "speaker": "Ross",
+          "line": "I honestly don't know if I'm hungry or horny.",
+          "line_number": 240
+        },
+        {
+          "speaker": "Chandler",
+          "line": "Stay out of my freezer! [Scene: A Restaurant, Monica and Paul are still eating.]",
+          "line_number": 241
+        },
+        {
+          "speaker": "Paul",
+          "line": "Ever since she walked out on me, I, uh...",
+          "line_number": 242
+        },
+        {
+          "speaker": "Monica",
+          "line": "What?..... What, you wanna spell it out with noodles?",
+          "line_number": 243
+        },
+        {
+          "speaker": "Paul",
+          "line": "No, it's, it's more of a fifth date kinda revelation.",
+          "line_number": 244
+        },
+        {
+          "speaker": "Monica",
+          "line": "Oh, so there is gonna be a fifth date?",
+          "line_number": 245
+        },
+        {
+          "speaker": "Paul",
+          "line": "Isn't there?",
+          "line_number": 246
+        },
+        {
+          "speaker": "Monica",
+          "line": "Yeah... yeah, I think there is. -What were you gonna say? The One Where Monica Gets a New Roomate (The Pilot-The Uncut Version)",
+          "line_number": 251,
+          "page_number": "7/14"
+        },
+        {
+          "speaker": "Paul",
+          "line": "Well, ever-ev-... ever since she left me, um, I haven't been able to, uh, perform. (Monica takes a sip of her drink.) ...Sexually.",
+          "line_number": 253
+        },
+        {
+          "speaker": "Monica",
+          "line": "(spitting out her drink in shock) Oh God, oh God, I am sorry... I am so sorry...",
+          "line_number": 254
+        },
+        {
+          "speaker": "Paul",
+          "line": "It's okay...",
+          "line_number": 255
+        },
+        {
+          "speaker": "Monica",
+          "line": "I know being spit on is probably not what you need right now. Um... how long?",
+          "line_number": 256
+        },
+        {
+          "speaker": "Paul",
+          "line": "Two years.",
+          "line_number": 257
+        },
+        {
+          "speaker": "Monica",
+          "line": "Wow! I'm-I'm-I'm glad you smashed her watch!",
+          "line_number": 258
+        },
+        {
+          "speaker": "Paul",
+          "line": "So you still think you, um... might want that fifth date?",
+          "line_number": 259
+        }
+      ],
+      "page_numbers": [
+        "7/14"
+      ],
+      "episode_title": "The One Where Monica Gets a New Roommate (The Pilot-The Uncut Version)",
+      "stage_directions": [],
+      "line_number_start": 225
+    },
+    {
+      "scene": "Ross's Apartment, they're all sitting around and talking.",
+      "scene_number": 7,
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Joey"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Ross",
+          "line": "(scornful) Grab a spoon. Do you know how long it's been since I've grabbed a spoon? Do the words 'Billy, don't be a hero' mean anything to you?",
+          "line_number": 267
+        },
+        {
+          "speaker": "Joey",
+          "line": "Great story! But, I uh, I gotta go, I got a date with Andrea--Angela--Andrea... Oh man, (looks to Chandler)",
+          "line_number": 269,
+          "cleaned": true
+        },
+        {
+          "speaker": "Chandler",
+          "line": "Angela's the screamer, Andrea has cats.",
+          "line_number": 270
+        },
+        {
+          "speaker": "Joey",
+          "line": "Right. Thanks. It's June. I'm outta here. (Exits.)",
+          "line_number": 271,
+          "cleaned": true
+        }
+      ],
+      "page_numbers": [],
+      "episode_title": "The One Where Monica Gets a New Roommate (The Pilot-The Uncut Version)",
+      "stage_directions": [
+        {
+          "direction": "[Cut to Rachel staring out of her window.]",
+          "line_number": 273
+        }
+      ],
+      "line_number_start": 264
+    },
+    {
+      "scene": "Monica's Apartment, Rachel is making coffee for Joey and Chandler.",
+      "scene_number": 8,
+      "characters": [
+        "Monica",
+        "All",
+        "Rachel",
+        "Joey",
+        "Paul",
+        "Chandler"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Rachel",
+          "line": "Isn't this amazing? I mean, I have never made coffee before in my entire life.",
+          "line_number": 277
+        },
+        {
+          "speaker": "Chandler",
+          "line": "That is amazing.",
+          "line_number": 278
+        },
+        {
+          "speaker": "Joey",
+          "line": "Congratulations.",
+          "line_number": 279
+        },
+        {
+          "speaker": "Rachel",
+          "line": "Y'know, I figure if I can make coffee, there isn't anything I can't do.",
+          "line_number": 280
+        },
+        {
+          "speaker": "Chandler",
+          "line": "If can invade Poland, there isn't anything I can't do.",
+          "line_number": 281
+        },
+        {
+          "speaker": "Joey",
+          "line": "Listen, while you're on a roll, if you feel like you gotta make like a Western omelet or something... (Joey and Chandler taste the coffee, grimace, and pour it into a plant pot.) Although actually I'm really not that The One Where Monica Gets a New Roomate (The Pilot-The Uncut Version) 8/14 hungry...",
+          "line_number": 288,
+          "cleaned": true
+        },
+        {
+          "speaker": "Monica",
+          "line": "(entering, to herself) Oh good, Lenny and Squigy are here.",
+          "line_number": 289
+        },
+        {
+          "speaker": "All",
+          "line": "Morning. Good morning.",
+          "line_number": 290
+        },
+        {
+          "speaker": "Paul",
+          "line": "(entering from Monica's room) Morning.",
+          "line_number": 291
+        },
+        {
+          "speaker": "Joey",
+          "line": "Morning, Paul.",
+          "line_number": 292
+        },
+        {
+          "speaker": "Rachel",
+          "line": "Hello, Paul.",
+          "line_number": 293
+        },
+        {
+          "speaker": "Chandler",
+          "line": "Hi, Paul, is it? table closer to the door so that they can.)",
+          "line_number": 296
+        },
+        {
+          "speaker": "Paul",
+          "line": "Thank you! Thank you so much!",
+          "line_number": 297,
+          "cleaned": true
+        },
+        {
+          "speaker": "Monica",
+          "line": "Stop!",
+          "line_number": 298
+        },
+        {
+          "speaker": "Paul",
+          "line": "No, I'm telling you last night was like umm, all my birthdays, both graduations, plus the barn raising scene in Witness.",
+          "line_number": 300
+        },
+        {
+          "speaker": "Monica",
+          "line": "We'll talk later.",
+          "line_number": 301
+        },
+        {
+          "speaker": "Paul",
+          "line": "Yeah. (They kiss) Thank you. (Exits)",
+          "line_number": 302
+        },
+        {
+          "speaker": "Joey",
+          "line": "That wasn't a real date?! What the hell do you do on a real date?",
+          "line_number": 303
+        },
+        {
+          "speaker": "Monica",
+          "line": "Shut up, and put my table back.",
+          "line_number": 304
+        },
+        {
+          "speaker": "All",
+          "line": "Okayyy! (They do so.)",
+          "line_number": 305
+        },
+        {
+          "speaker": "Chandler",
+          "line": "All right, kids, I gotta get to work. If I don't input those numbers,... it doesn't make much of a difference...",
+          "line_number": 307
+        },
+        {
+          "speaker": "Rachel",
+          "line": "So, like, you guys all have jobs?",
+          "line_number": 308
+        },
+        {
+          "speaker": "Monica",
+          "line": "Yeah, we all have jobs. See, that's how we buy stuff.",
+          "line_number": 309
+        },
+        {
+          "speaker": "Joey",
+          "line": "Yeah, I'm an actor.",
+          "line_number": 310
+        },
+        {
+          "speaker": "Rachel",
+          "line": "Wow! Would I have seen you in anything?",
+          "line_number": 311
+        },
+        {
+          "speaker": "Joey",
+          "line": "I doubt it. Mostly regional work.",
+          "line_number": 312
+        },
+        {
+          "speaker": "Monica",
+          "line": "Oh wait, wait, unless you happened to catch the Reruns' production of Pinocchio, at the little theater in the park.",
+          "line_number": 314
+        },
+        {
+          "speaker": "Joey",
+          "line": "Look, it was a job all right?",
+          "line_number": 315
+        },
+        {
+          "speaker": "Chandler",
+          "line": "'Look, Gippetto, I'm a real live boy.'",
+          "line_number": 316
+        },
+        {
+          "speaker": "Joey",
+          "line": "I will not take this abuse. (Walks to the door and opens it to leave.) The One Where Monica Gets a New Roomate (The Pilot-The Uncut Version)",
+          "line_number": 321,
+          "page_number": "9/14"
+        },
+        {
+          "speaker": "Chandler",
+          "line": "You're right, I'm sorry. (Burst into song and dances out of the door.) \"Once I was a wooden boy, a little wooden boy...\"",
+          "line_number": 323
+        },
+        {
+          "speaker": "Joey",
+          "line": "You should both know, that he's a dead man. Oh, Chandler? (Starts after Chandler.)",
+          "line_number": 324,
+          "cleaned": true
+        },
+        {
+          "speaker": "Monica",
+          "line": "So how you doing today? Did you sleep okay? Talk to Barry? I can't stop smiling.",
+          "line_number": 325
+        },
+        {
+          "speaker": "Rachel",
+          "line": "I can see that. You look like you slept with a hanger in your mouth.",
+          "line_number": 326
+        },
+        {
+          "speaker": "Monica",
+          "line": "I know, he's just so, so... Do you remember you and Tony DeMarco?",
+          "line_number": 327
+        },
+        {
+          "speaker": "Rachel",
+          "line": "Oh, yeah.",
+          "line_number": 328
+        },
+        {
+          "speaker": "Monica",
+          "line": "Well, it's like that. With feelings.",
+          "line_number": 329
+        },
+        {
+          "speaker": "Rachel",
+          "line": "Oh wow. Are you in trouble.",
+          "line_number": 330
+        },
+        {
+          "speaker": "Monica",
+          "line": "Big time!",
+          "line_number": 331
+        },
+        {
+          "speaker": "Rachel",
+          "line": "Want a wedding dress? Hardly used.",
+          "line_number": 332,
+          "cleaned": true
+        },
+        {
+          "speaker": "Monica",
+          "line": "I think we are getting a little ahead of selves here. Okay. Okay. I am just going to get up, go to work and not think about him all day. Or else I'm just gonna get up and go to work.",
+          "line_number": 334
+        },
+        {
+          "speaker": "Rachel",
+          "line": "Oh, look, wish me luck!",
+          "line_number": 335
+        },
+        {
+          "speaker": "Monica",
+          "line": "What for?",
+          "line_number": 336
+        }
+      ],
+      "page_numbers": [
+        "9/14"
+      ],
+      "episode_title": "The One Where Monica Gets a New Roommate (The Pilot-The Uncut Version)",
+      "stage_directions": [
+        {
+          "direction": "(Monica and Paul walk to the door and talk in a low voice so the others can't hear.  The others move Monica's",
+          "line_number": 294
+        },
+        {
+          "direction": "(Monica exits.)",
+          "line_number": 337
+        }
+      ],
+      "line_number_start": 275
+    },
+    {
+      "scene": "Iridium, Monica is working as Frannie enters.",
+      "scene_number": 9,
+      "characters": [
+        "Monica",
+        "Frannie"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Frannie",
+          "line": "Hey, Monica!",
+          "line_number": 340
+        },
+        {
+          "speaker": "Monica",
+          "line": "Hey Frannie, welcome back! How was Florida?",
+          "line_number": 341
+        },
+        {
+          "speaker": "Frannie",
+          "line": "You had sex, didn't you?",
+          "line_number": 342
+        },
+        {
+          "speaker": "Monica",
+          "line": "How do you do that?",
+          "line_number": 343
+        },
+        {
+          "speaker": "Frannie",
+          "line": "Oh, I hate you, I'm pushing my Aunt Roz through Parrot Jungle and you're having sex! So? Who?",
+          "line_number": 344,
+          "cleaned": true
+        },
+        {
+          "speaker": "Monica",
+          "line": "You know Paul?",
+          "line_number": 345
+        },
+        {
+          "speaker": "Frannie",
+          "line": "Paul the Wine Guy? Oh yeah, I know Paul.",
+          "line_number": 346
+        },
+        {
+          "speaker": "Monica",
+          "line": "You mean you know Paul like I know Paul?",
+          "line_number": 347
+        }
+      ],
+      "page_numbers": [],
+      "episode_title": "The One Where Monica Gets a New Roommate (The Pilot-The Uncut Version)",
+      "stage_directions": [],
+      "line_number_start": 338
+    },
+    {
+      "scene": "Central Perk, everyone but Rachel is there.",
+      "scene_number": 10,
+      "characters": [
+        "Monica",
+        "Joey",
+        "Ross",
+        "Phoebe",
+        "Chandler",
+        "Rachel"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Joey",
+          "line": "(sitting on the arm of the couch)Of course it was a line! The One Where Monica Gets a New Roomate (The Pilot-The Uncut Version)",
+          "line_number": 355,
+          "page_number": "10/14"
+        },
+        {
+          "speaker": "Monica",
+          "line": "Why?! Why? Why, why would anybody do something like that?",
+          "line_number": 356
+        },
+        {
+          "speaker": "Ross",
+          "line": "I assume we're looking for an answer more sophisticated than 'to get you into bed'.",
+          "line_number": 357
+        },
+        {
+          "speaker": "Monica",
+          "line": "I hate men! I hate men!",
+          "line_number": 358,
+          "cleaned": true
+        },
+        {
+          "speaker": "Phoebe",
+          "line": "Oh no, don't hate, you don't want to put that out into the universe.",
+          "line_number": 359
+        },
+        {
+          "speaker": "Monica",
+          "line": "Is it me? Is it like I have some sort of beacon that only dogs and men with severe emotional problems can hear?",
+          "line_number": 361
+        },
+        {
+          "speaker": "Phoebe",
+          "line": "All right, c'mere, gimme your feet. (She starts massaging them.)",
+          "line_number": 362
+        },
+        {
+          "speaker": "Monica",
+          "line": "I just thought he was nice, y'know?",
+          "line_number": 363
+        },
+        {
+          "speaker": "Joey",
+          "line": "(bursts out laughing again) I can't believe you didn't know it was a line!",
+          "line_number": 365
+        },
+        {
+          "speaker": "Rachel",
+          "line": "Guess what?",
+          "line_number": 366
+        },
+        {
+          "speaker": "Ross",
+          "line": "You got a job?",
+          "line_number": 367
+        },
+        {
+          "speaker": "Rachel",
+          "line": "Are you kidding? I'm trained for nothing! I was laughed out of twelve interviews today.",
+          "line_number": 368
+        },
+        {
+          "speaker": "Chandler",
+          "line": "And yet you're surprisingly upbeat.",
+          "line_number": 369
+        },
+        {
+          "speaker": "Rachel",
+          "line": "You would be too if you found John and David boots on sale, fifty percent off!",
+          "line_number": 370
+        },
+        {
+          "speaker": "Chandler",
+          "line": "Oh, how well you know me...",
+          "line_number": 371
+        },
+        {
+          "speaker": "Rachel",
+          "line": "They're my new 'I don't need a job, I don't need my parents, I've got great boots' boots!",
+          "line_number": 372
+        },
+        {
+          "speaker": "Monica",
+          "line": "How'd you pay for them?",
+          "line_number": 373
+        },
+        {
+          "speaker": "Rachel",
+          "line": "Uh, credit card.",
+          "line_number": 374
+        },
+        {
+          "speaker": "Monica",
+          "line": "And who pays for that?",
+          "line_number": 375
+        }
+      ],
+      "page_numbers": [
+        "10/14"
+      ],
+      "episode_title": "The One Where Monica Gets a New Roommate (The Pilot-The Uncut Version)",
+      "stage_directions": [
+        {
+          "direction": "(Monica pushes him off of the sofa as Rachel enters with a shopping bag.)",
+          "line_number": 364
+        }
+      ],
+      "line_number_start": 349
+    },
+    {
+      "scene": null,
+      "scene_number": 11,
+      "characters": [
+        "Monica",
+        "All",
+        "Ross",
+        "Phoebe",
+        "Chandler",
+        "Rachel"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Rachel",
+          "line": "Oh God, come on you guys, is this really necessary? I mean, I can stop charging anytime I want.",
+          "line_number": 379,
+          "cleaned": true
+        },
+        {
+          "speaker": "Monica",
+          "line": "C'mon, you can't live off your parents your whole life.",
+          "line_number": 380
+        },
+        {
+          "speaker": "Rachel",
+          "line": "I know that. That's why I was getting married.",
+          "line_number": 381
+        },
+        {
+          "speaker": "Phoebe",
+          "line": "Give her a break, it's hard being on your own for the first time.",
+          "line_number": 382
+        },
+        {
+          "speaker": "Rachel",
+          "line": "Thank you.",
+          "line_number": 383
+        },
+        {
+          "speaker": "Phoebe",
+          "line": "You're welcome. I remember when I first came to this city. I was fourteen. My mom had just killed herself and my step-dad was back in prison, and I got here, and I didn't know anybody. And I ended up living The One Where Monica Gets a New Roomate (The Pilot-The Uncut Version) 11/14 with this albino guy who was, like, cleaning windshields outside port authority, and then he killed himself, and then I found aromatherapy. So believe me, I know exactly how you feel.",
+          "line_number": 392,
+          "cleaned": true
+        },
+        {
+          "speaker": "Ross",
+          "line": "The word you're looking for is 'Anyway'...",
+          "line_number": 393
+        },
+        {
+          "speaker": "Monica",
+          "line": "All right, you ready?",
+          "line_number": 394
+        },
+        {
+          "speaker": "Rachel",
+          "line": "No. No, no, I'm not ready! How can I be ready? \"Hey, Rach! You ready to jump out the airplane without your parachute?\" Come on, I can't do this!",
+          "line_number": 396,
+          "cleaned": true
+        },
+        {
+          "speaker": "Monica",
+          "line": "You can, I know you can!",
+          "line_number": 397
+        },
+        {
+          "speaker": "Rachel",
+          "line": "I don't think so.",
+          "line_number": 398
+        },
+        {
+          "speaker": "Ross",
+          "line": "Come on, you made coffee! You can do anything! (Chandler slowly tries to hide the now dead plant from that morning when he and Joey poured their coffee into it.)",
+          "line_number": 400,
+          "cleaned": true
+        },
+        {
+          "speaker": "Ross",
+          "line": "C'mon, cut. Cut, cut, cut,...",
+          "line_number": 401
+        },
+        {
+          "speaker": "All",
+          "line": "Cut, cut, cut, cut, cut, cut, cut... (She cuts one of them and they cheer.)",
+          "line_number": 402
+        },
+        {
+          "speaker": "Rachel",
+          "line": "Y'know what? I think we can just leave it at that. It's kinda like a symbolic gesture...",
+          "line_number": 403,
+          "cleaned": true
+        },
+        {
+          "speaker": "Monica",
+          "line": "Rachel! That was a library card!",
+          "line_number": 404,
+          "cleaned": true
+        },
+        {
+          "speaker": "All",
+          "line": "Cut, cut, cut, cut, cut, cut, cut..",
+          "line_number": 405
+        },
+        {
+          "speaker": "Chandler",
+          "line": "(as Rachel is cutting up her cards) Y'know, if you listen closely, you can hear a thousand retailers scream.",
+          "line_number": 408
+        },
+        {
+          "speaker": "Monica",
+          "line": "Welcome to the real world! It sucks. You're gonna love it! anthem.]",
+          "line_number": 411
+        },
+        {
+          "speaker": "Monica",
+          "line": "Well, that's it (To Ross) You gonna crash on the couch?",
+          "line_number": 412
+        },
+        {
+          "speaker": "Ross",
+          "line": "No. No, I gotta go home sometime.",
+          "line_number": 413
+        },
+        {
+          "speaker": "Monica",
+          "line": "You be okay?",
+          "line_number": 414
+        },
+        {
+          "speaker": "Ross",
+          "line": "Yeah.",
+          "line_number": 415
+        },
+        {
+          "speaker": "Rachel",
+          "line": "Hey Mon, look what I just found on the floor. (Monica smiles.) What?",
+          "line_number": 416
+        },
+        {
+          "speaker": "Monica",
+          "line": "That's Paul's watch. You just put it back where you found it. Oh boy. Alright. Goodnight, everybody. Ross and Rachel: Goodnight.",
+          "line_number": 419
+        },
+        {
+          "speaker": "Ross",
+          "line": "Mmm. (They both reach for the last cookie) Oh, no- The One Where Monica Gets a New Roomate (The Pilot-The Uncut Version)",
+          "line_number": 424,
+          "page_number": "12/14"
+        },
+        {
+          "speaker": "Rachel",
+          "line": "Sorry-",
+          "line_number": 425
+        },
+        {
+          "speaker": "Ross",
+          "line": "No no no, go-",
+          "line_number": 426
+        },
+        {
+          "speaker": "Rachel",
+          "line": "No, you have it, really, I don't want it-",
+          "line_number": 427
+        },
+        {
+          "speaker": "Ross",
+          "line": "Split it?",
+          "line_number": 428
+        },
+        {
+          "speaker": "Rachel",
+          "line": "Okay.",
+          "line_number": 429
+        },
+        {
+          "speaker": "Ross",
+          "line": "Okay. (They split it.) You know you probably didn't know this, but back in high school, I had a, um, major crush on you.",
+          "line_number": 431
+        },
+        {
+          "speaker": "Rachel",
+          "line": "I knew.",
+          "line_number": 432
+        },
+        {
+          "speaker": "Ross",
+          "line": "You did! Oh.... I always figured you just thought I was Monica's geeky older brother.",
+          "line_number": 433
+        },
+        {
+          "speaker": "Rachel",
+          "line": "I did.",
+          "line_number": 434
+        },
+        {
+          "speaker": "Ross",
+          "line": "Oh. Listen, do you think- and try not to let my intense vulnerability become any kind of a factor here- but do you think it would be okay if I asked you out? Sometime? Maybe?",
+          "line_number": 436
+        },
+        {
+          "speaker": "Rachel",
+          "line": "Yeah, maybe...",
+          "line_number": 437
+        },
+        {
+          "speaker": "Ross",
+          "line": "Okay... okay, maybe I will...",
+          "line_number": 438
+        },
+        {
+          "speaker": "Rachel",
+          "line": "Goodnight.",
+          "line_number": 439
+        },
+        {
+          "speaker": "Ross",
+          "line": "Goodnight.",
+          "line_number": 441
+        },
+        {
+          "speaker": "Monica",
+          "line": "See ya.... Waitwait, what's with you?",
+          "line_number": 442
+        }
+      ],
+      "page_numbers": [
+        "12/14"
+      ],
+      "episode_title": "The One Where Monica Gets a New Roommate (The Pilot-The Uncut Version)",
+      "stage_directions": [
+        {
+          "direction": "(Pause)",
+          "line_number": 391
+        },
+        {
+          "direction": "(She finishes cutting them up and they all cheer.)",
+          "line_number": 407
+        },
+        {
+          "direction": "[Time Lapse, Rachel and Ross are watching a TV channel finishes it's broadcast day by playing the national",
+          "line_number": 409
+        },
+        {
+          "direction": "(Monica stomps on Paul's watch and goes into her room.)",
+          "line_number": 418
+        },
+        {
+          "direction": "(Rachel goes into her room and Monica enters the living room as Ross is leaving.)",
+          "line_number": 440
+        }
+      ],
+      "line_number_start": 376
+    },
+    {
+      "scene": "Central Perk, everyone is there.",
+      "scene_number": 12,
+      "characters": [
+        "Monica",
+        "All",
+        "Joey",
+        "Ross",
+        "Phoebe",
+        "Chandler",
+        "Rachel",
+        "Customer"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Joey",
+          "line": "I can't believe what I'm hearing here.",
+          "line_number": 446
+        },
+        {
+          "speaker": "Phoebe",
+          "line": "(sings) I can't believe what I'm hearing here...",
+          "line_number": 447
+        },
+        {
+          "speaker": "Monica",
+          "line": "What? I-I said you had a-",
+          "line_number": 448
+        },
+        {
+          "speaker": "Phoebe",
+          "line": "(sings) What I said you had...",
+          "line_number": 449
+        },
+        {
+          "speaker": "Monica",
+          "line": "(to Phoebe) Would you stop?",
+          "line_number": 450
+        },
+        {
+          "speaker": "Phoebe",
+          "line": "Oh, was I doing it again?",
+          "line_number": 451
+        },
+        {
+          "speaker": "All",
+          "line": "Yes!",
+          "line_number": 452
+        },
+        {
+          "speaker": "Monica",
+          "line": "I said that you had a nice butt, it's just not a great butt.",
+          "line_number": 453
+        },
+        {
+          "speaker": "Joey",
+          "line": "Oh, you wouldn't know a great butt if it came up and bit ya. The One Where Monica Gets a New Roomate (The Pilot-The Uncut Version)",
+          "line_number": 458,
+          "page_number": "13/14"
+        },
+        {
+          "speaker": "Ross",
+          "line": "There's an image.",
+          "line_number": 459
+        },
+        {
+          "speaker": "Rachel",
+          "line": "(walks up with a pot of coffee) Would anybody like more coffee?",
+          "line_number": 460
+        },
+        {
+          "speaker": "Chandler",
+          "line": "Did you make it, or are you just serving it?",
+          "line_number": 461
+        },
+        {
+          "speaker": "Rachel",
+          "line": "I'm just serving it.",
+          "line_number": 462
+        },
+        {
+          "speaker": "All",
+          "line": "Yeah. Yeah, I'll have a cup of coffee.",
+          "line_number": 463
+        },
+        {
+          "speaker": "Chandler",
+          "line": "Kids, new dream... I'm in Las Vegas. (Rachel sits down to hear Chandler's dream.)",
+          "line_number": 464
+        },
+        {
+          "speaker": "Customer",
+          "line": "(To Rachel) Ahh, miss? More coffee?",
+          "line_number": 465,
+          "cleaned": true
+        },
+        {
+          "speaker": "Rachel",
+          "line": "Ugh. (To another customer that's leaving.) Excuse me, could you give this to that guy over there?",
+          "line_number": 467
+        },
+        {
+          "speaker": "Chandler",
+          "line": "Okay, so, I'm in Las Vegas... I'm Liza Minelli- End The One Where Monica Gets a New Roomate (The Pilot-The Uncut Version)",
+          "line_number": 472,
+          "page_number": "14/14"
+        }
+      ],
+      "page_numbers": [
+        "13/14",
+        "14/14"
+      ],
+      "episode_title": "The One Where Monica Gets a New Roommate (The Pilot-The Uncut Version)",
+      "stage_directions": [
+        {
+          "direction": "(Hands him the coffee pot.) Go ahead. (He does so.) Thank you. (To the gang.) Sorry.  Okay, Las Vegas.",
+          "line_number": 466
+        }
+      ],
+      "line_number_start": 444
+    }
+  ],
+  "parsing_info": {
+    "parser_version": "2.0",
+    "total_lines_processed": 472,
+    "parsing_date": "2025-07-07T23:36:02.549393",
+    "dialogue_lines_cleaned": 29
+  }
+}

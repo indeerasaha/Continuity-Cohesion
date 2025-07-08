@@ -1,0 +1,1645 @@
+{
+  "metadata": {
+    "episode_title": "The One With George Stephanopoulos",
+    "season": 1,
+    "episode_number": 4,
+    "series_episode_number": 4,
+    "air_date": null,
+    "writers": [
+      "Alexa Junge"
+    ],
+    "directors": [],
+    "story_by": [],
+    "teleplay_by": [],
+    "production_code": null,
+    "total_pages": 11,
+    "file_info": {
+      "filename": "S1_Ep4.pdf",
+      "file_path": "Raw_Data/S1_Scripts/S1_Ep4.pdf",
+      "file_size": 213324,
+      "extraction_date": "2025-07-07T23:37:00.548552"
+    }
+  },
+  "statistics": {
+    "total_scenes": 15,
+    "total_dialogue_lines": 229,
+    "character_stats": {
+      "Ross": {
+        "total_lines": 38,
+        "scenes_appeared": 9,
+        "average_lines_per_scene": 4.222222222222222
+      },
+      "All": {
+        "total_lines": 3,
+        "scenes_appeared": 4,
+        "average_lines_per_scene": 0.75
+      },
+      "Joey": {
+        "total_lines": 20,
+        "scenes_appeared": 7,
+        "average_lines_per_scene": 2.857142857142857
+      },
+      "Chandler": {
+        "total_lines": 30,
+        "scenes_appeared": 9,
+        "average_lines_per_scene": 3.3333333333333335
+      },
+      "Phoebe": {
+        "total_lines": 29,
+        "scenes_appeared": 7,
+        "average_lines_per_scene": 4.142857142857143
+      },
+      "Rachel": {
+        "total_lines": 41,
+        "scenes_appeared": 9,
+        "average_lines_per_scene": 4.555555555555555
+      },
+      "Monica": {
+        "total_lines": 46,
+        "scenes_appeared": 8,
+        "average_lines_per_scene": 5.75
+      },
+      "Leslie": {
+        "total_lines": 2,
+        "scenes_appeared": 2,
+        "average_lines_per_scene": 1.0
+      },
+      "Guys": {
+        "total_lines": 1,
+        "scenes_appeared": 1,
+        "average_lines_per_scene": 1.0
+      },
+      "Kiki": {
+        "total_lines": 4,
+        "scenes_appeared": 2,
+        "average_lines_per_scene": 2.0
+      },
+      "Joanne": {
+        "total_lines": 5,
+        "scenes_appeared": 2,
+        "average_lines_per_scene": 2.5
+      },
+      "Receptionist": {
+        "total_lines": 6,
+        "scenes_appeared": 2,
+        "average_lines_per_scene": 3.0
+      },
+      "Both": {
+        "total_lines": 1,
+        "scenes_appeared": 1,
+        "average_lines_per_scene": 1.0
+      },
+      "Kid": {
+        "total_lines": 3,
+        "scenes_appeared": 1,
+        "average_lines_per_scene": 3.0
+      }
+    },
+    "scene_lengths": [
+      11,
+      56,
+      12,
+      10,
+      13,
+      3,
+      17,
+      5,
+      8,
+      25,
+      7,
+      12,
+      19,
+      19,
+      12
+    ],
+    "average_scene_length": 15.266666666666667,
+    "longest_scene": {
+      "length": 56,
+      "scene_index": 1
+    },
+    "shortest_scene": {
+      "length": 3,
+      "scene_index": 5
+    },
+    "page_range": {
+      "start": 1,
+      "end": 11
+    },
+    "unique_characters": [
+      "Leslie",
+      "Ross",
+      "All",
+      "Joey",
+      "Receptionist",
+      "Guys",
+      "Chandler",
+      "Phoebe",
+      "Rachel",
+      "Kiki",
+      "Monica",
+      "Both",
+      "Joanne",
+      "Kid"
+    ],
+    "speaking_characters": [
+      "Leslie",
+      "Ross",
+      "All",
+      "Joey",
+      "Receptionist",
+      "Guys",
+      "Chandler",
+      "Phoebe",
+      "Rachel",
+      "Kiki",
+      "Monica",
+      "Both",
+      "Joanne",
+      "Kid"
+    ]
+  },
+  "script": [
+    {
+      "scene": "Central Perk, everyone is there except Joey.",
+      "scene_number": 1,
+      "characters": [
+        "Ross",
+        "All",
+        "Joey",
+        "Chandler",
+        "Phoebe",
+        "Rachel",
+        "Monica"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Monica",
+          "line": "Alright. Phoebe?",
+          "line_number": 6
+        },
+        {
+          "speaker": "Phoebe",
+          "line": "Okay, okay. If I were omnipotent for a day, I would want, um, world peace, no more hunger, good things for the rain-forest...And bigger boobs!",
+          "line_number": 8
+        },
+        {
+          "speaker": "Ross",
+          "line": "Yeah, see.. you took mine. Chandler, what about you?",
+          "line_number": 9
+        },
+        {
+          "speaker": "Chandler",
+          "line": "Uh, if I were omnipotent for a day, I'd.. make myself omnipotent forever.",
+          "line_number": 10
+        },
+        {
+          "speaker": "Rachel",
+          "line": "See, there's always one guy. (Mocking) \"If I had a wish, I'd wish for three more wishes.\" (Joey enters.)",
+          "line_number": 11
+        },
+        {
+          "speaker": "All",
+          "line": "Hey Joey. Hi. Hey, buddy.",
+          "line_number": 12
+        },
+        {
+          "speaker": "Monica",
+          "line": "Hey, Joey, what would you do if you were omnipotent?",
+          "line_number": 13
+        },
+        {
+          "speaker": "Joey",
+          "line": "Probably kill myself!",
+          "line_number": 14
+        },
+        {
+          "speaker": "Monica",
+          "line": "..Excuse me?",
+          "line_number": 15
+        },
+        {
+          "speaker": "Joey",
+          "line": "Hey, if Little Joey's dead, then I got no reason to live!",
+          "line_number": 16
+        },
+        {
+          "speaker": "Ross",
+          "line": "Joey, uh- OMnipotent.",
+          "line_number": 17
+        }
+      ],
+      "page_numbers": [],
+      "episode_title": "The One With George Stephanopoulos",
+      "stage_directions": [],
+      "line_number_start": 4
+    },
+    {
+      "scene": "Central Perk, Ross and Monica are watching Phoebe sleep.",
+      "scene_number": 2,
+      "characters": [
+        "Leslie",
+        "Ross",
+        "All",
+        "Joey",
+        "Guys",
+        "Chandler",
+        "Phoebe",
+        "Rachel",
+        "Kiki",
+        "Monica",
+        "Joanne"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Monica",
+          "line": "How does she do that?",
+          "line_number": 21
+        },
+        {
+          "speaker": "Ross",
+          "line": "I cannot sleep in a public place.",
+          "line_number": 22
+        },
+        {
+          "speaker": "Monica",
+          "line": "Would you look at her? She is so peaceful.",
+          "line_number": 23
+        },
+        {
+          "speaker": "Phoebe",
+          "line": "(waking and startling them) Oh! What what what! ...Hi.",
+          "line_number": 24
+        },
+        {
+          "speaker": "Ross",
+          "line": "It's okay, y'know, you just nodded off again.",
+          "line_number": 25
+        },
+        {
+          "speaker": "Monica",
+          "line": "What's going on with you?",
+          "line_number": 26
+        },
+        {
+          "speaker": "Phoebe",
+          "line": "I got no sleep last night!",
+          "line_number": 27
+        },
+        {
+          "speaker": "Ross",
+          "line": "Why?",
+          "line_number": 32,
+          "page_number": "1/11",
+          "cleaned": true
+        },
+        {
+          "speaker": "Phoebe",
+          "line": "My grandmother has this new boyfriend, and they're both kind of insecure in bed. Oh, and deaf. So they're constantly, like, having to reassure each other that they're having a good time. You have no idea how loud they are!",
+          "line_number": 35
+        },
+        {
+          "speaker": "Monica",
+          "line": "Well, if you want, you can stay with Rachel and me tonight.",
+          "line_number": 36
+        },
+        {
+          "speaker": "Phoebe",
+          "line": "Thanks.",
+          "line_number": 38
+        },
+        {
+          "speaker": "Joey",
+          "line": "...Ninety-five, ninety-six, ninety-seven. See, I told you! Less than a hundred steps from our place to here.",
+          "line_number": 39
+        },
+        {
+          "speaker": "Chandler",
+          "line": "You got waaaay too much free time.",
+          "line_number": 40
+        },
+        {
+          "speaker": "Joey",
+          "line": "(to Ross) Hey! Here's the birthday boy! Ross, check it out: hockey tickets, Rangers-Penguins, tonight at the Garden, and we're taking you.",
+          "line_number": 42
+        },
+        {
+          "speaker": "Chandler",
+          "line": "Happy birthday, pal!",
+          "line_number": 43
+        },
+        {
+          "speaker": "Joey",
+          "line": "We love you, man. (Kisses Ross)",
+          "line_number": 44
+        },
+        {
+          "speaker": "Ross",
+          "line": "Funny, my birthday was seven months ago.",
+          "line_number": 45
+        },
+        {
+          "speaker": "Joey",
+          "line": "So?",
+          "line_number": 46
+        },
+        {
+          "speaker": "Ross",
+          "line": "So, I'm guessing you had an extra ticket and couldn't decide which one of you got to bring a date?",
+          "line_number": 47
+        },
+        {
+          "speaker": "Chandler",
+          "line": "Well, aren't we Mr. \"The glass is half empty.\"",
+          "line_number": 48
+        },
+        {
+          "speaker": "Ross",
+          "line": "Oh my God, oh- is today the twentieth, October twentieth?",
+          "line_number": 49
+        },
+        {
+          "speaker": "Monica",
+          "line": "Oh, I was hoping you wouldn't remember.",
+          "line_number": 50
+        },
+        {
+          "speaker": "Ross",
+          "line": "Ohhh.",
+          "line_number": 51
+        },
+        {
+          "speaker": "Joey",
+          "line": "What's wrong with the twentieth?",
+          "line_number": 52
+        },
+        {
+          "speaker": "Chandler",
+          "line": "Eleven days before Halloween.. all the good costumes are gone?",
+          "line_number": 53
+        },
+        {
+          "speaker": "Ross",
+          "line": "Today's the day Carol and I first.. consummated our physical relationship. (Joey is puzzled.) Sex. ..You know what, I-I'd better pass on the game. I think I'm just gonna go home and think about my ex-wife and her lesbian lover.",
+          "line_number": 56
+        },
+        {
+          "speaker": "Joey",
+          "line": "The hell with hockey, let's all do that!",
+          "line_number": 57
+        },
+        {
+          "speaker": "Chandler",
+          "line": "(trying to stop Ross leaving) C'mon, Ross! You, me, Joey, ice, guys' night out, c'mon, whaddya say, big guy, (Pretending to punch him in the stomach.) Huh? Huh? Huh?",
+          "line_number": 59
+        },
+        {
+          "speaker": "Ross",
+          "line": "What are you doing?",
+          "line_number": 60
+        },
+        {
+          "speaker": "Chandler",
+          "line": "(stops) I have no idea.",
+          "line_number": 61
+        },
+        {
+          "speaker": "Joey",
+          "line": "C'mon, Ross!",
+          "line_number": 62
+        },
+        {
+          "speaker": "Ross",
+          "line": "Alright, alright, maybe it'll take my mind off it. Do you promise to buy me a big thumb finger?",
+          "line_number": 63
+        },
+        {
+          "speaker": "Chandler",
+          "line": "You got it.",
+          "line_number": 69,
+          "page_number": "2/11",
+          "cleaned": true
+        },
+        {
+          "speaker": "Rachel",
+          "line": "Look-look-look-look-look, my first pay check! Look at the window, there's my name! Hi, me!",
+          "line_number": 70
+        },
+        {
+          "speaker": "Phoebe",
+          "line": "I remember the day I got my first pay check. There was a cave in in one of the mines, and eight people were killed.",
+          "line_number": 72
+        },
+        {
+          "speaker": "Monica",
+          "line": "Wow, you worked in a mine?",
+          "line_number": 73
+        },
+        {
+          "speaker": "Phoebe",
+          "line": "I worked in a Dairy Queen, why?",
+          "line_number": 74
+        },
+        {
+          "speaker": "Rachel",
+          "line": "God, isn't this exciting? I earned this. I wiped tables for it, I steamed milk for it, and it was totally— that.",
+          "line_number": 77
+        },
+        {
+          "speaker": "Chandler",
+          "line": "(looking) Oh, this is not that bad.",
+          "line_number": 78
+        },
+        {
+          "speaker": "Joey",
+          "line": "Oh, you're fine, yeah, for a first job.",
+          "line_number": 79
+        },
+        {
+          "speaker": "Ross",
+          "line": "You can totally, totally live on this.",
+          "line_number": 80
+        },
+        {
+          "speaker": "Monica",
+          "line": "Yeah, yeah.",
+          "line_number": 81
+        },
+        {
+          "speaker": "Ross",
+          "line": "Oh, by the way, great service tonight.",
+          "line_number": 82
+        },
+        {
+          "speaker": "All",
+          "line": "Oh! Yeah!",
+          "line_number": 84
+        },
+        {
+          "speaker": "Guys",
+          "line": "Hockey! (They go to leave but are blocked by three of Rachel's friends, Leslie, Kiki, and Joanne. The guys pause to stare at them.) Hockey! Hockey. (The guys.)",
+          "line_number": 86,
+          "cleaned": true
+        },
+        {
+          "speaker": "Leslie",
+          "line": "(looking around) Rachel?",
+          "line_number": 87
+        },
+        {
+          "speaker": "Rachel",
+          "line": "Oh my God! (Rachel, Leslie, Kiki, and Joanne all scream and hug each other.",
+          "line_number": 88
+        },
+        {
+          "speaker": "Monica",
+          "line": "(to Phoebe) I swear I've seen birds do this on Wild Kingdom.",
+          "line_number": 89
+        },
+        {
+          "speaker": "Rachel",
+          "line": "What are you guys doing here?",
+          "line_number": 90
+        },
+        {
+          "speaker": "Kiki",
+          "line": "Well, we were in the city shopping, and your mom said you work here, aaand it's true!",
+          "line_number": 91
+        },
+        {
+          "speaker": "Joanne",
+          "line": "Look at you in the apron. You look like you're in a play.",
+          "line_number": 92
+        },
+        {
+          "speaker": "Rachel",
+          "line": "(to a pregnant Leslie) Look at you, you are so big I can't believe it!",
+          "line_number": 93
+        },
+        {
+          "speaker": "Leslie",
+          "line": "I know. I know! I'm a duplex.",
+          "line_number": 94
+        },
+        {
+          "speaker": "Rachel",
+          "line": "(to Joanne) So what's going on with you?",
+          "line_number": 95
+        },
+        {
+          "speaker": "Joanne",
+          "line": "Well, guess who my dad's making partner in his firm? (She points to herself and they all scream again.)",
+          "line_number": 96
+        },
+        {
+          "speaker": "Kiki",
+          "line": "And while we're on the subject of news.. (She holds up here finger to show off her engagement ring and they all scream again.)",
+          "line_number": 98
+        }
+      ],
+      "page_numbers": [
+        "2/11",
+        "1/11"
+      ],
+      "episode_title": "The One With George Stephanopoulos",
+      "stage_directions": [
+        {
+          "direction": "(Chandler and Joey enter.  Joey is counting his steps.)",
+          "line_number": 37
+        },
+        {
+          "direction": "(Rachel runs up cluching an envelope.)",
+          "line_number": 68
+        },
+        {
+          "direction": "(opens envelope)—not worth it. Who's FICA? Why's he getting all my money? I mean, what- Chandler, look at",
+          "line_number": 75
+        },
+        {
+          "direction": "(They all get their wallets out and give generous tips.)",
+          "line_number": 83
+        }
+      ],
+      "line_number_start": 19
+    },
+    {
+      "scene": "A Street, Chandler and Joey are kicking a can to each other.",
+      "scene_number": 3,
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Joey"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Chandler",
+          "line": "...Poulet passes it up to Leetch! (Passes it to Joey.)",
+          "line_number": 105
+        },
+        {
+          "speaker": "Joey",
+          "line": "Leetch spots Messier in the crease- there's the pass! (He kicks it to Ross, but Ross is staring into a shop window.)",
+          "line_number": 107
+        },
+        {
+          "speaker": "Chandler",
+          "line": "We'll take a brief time out while Messier stops to look at some women's shoes.",
+          "line_number": 108
+        },
+        {
+          "speaker": "Ross",
+          "line": "Carol was wearing boots just like those the night that we- we first- y'know. Fact, she, uh- she never took'em off, 'cause we-we- (off Chandler's look) Sorry. Sorry.",
+          "line_number": 111
+        },
+        {
+          "speaker": "Joey",
+          "line": "What?",
+          "line_number": 112
+        },
+        {
+          "speaker": "Ross",
+          "line": "Peach pit.",
+          "line_number": 113
+        },
+        {
+          "speaker": "Chandler",
+          "line": "Yes, Bunny?",
+          "line_number": 114
+        },
+        {
+          "speaker": "Ross",
+          "line": "(points) Peach pit. That night we, uh- we had-",
+          "line_number": 115
+        },
+        {
+          "speaker": "Joey",
+          "line": "-Peaches?",
+          "line_number": 116
+        },
+        {
+          "speaker": "Ross",
+          "line": "Actually, nectarines, but basically...",
+          "line_number": 117
+        },
+        {
+          "speaker": "Chandler",
+          "line": "(to Joey) Could've been a peach.",
+          "line_number": 118
+        },
+        {
+          "speaker": "Ross",
+          "line": "Then, uh, then we got dressed, and I-I... I walked her to the- (looks up, realises, and points) -the bus stop... I'm fine.",
+          "line_number": 120
+        }
+      ],
+      "page_numbers": [],
+      "episode_title": "The One With George Stephanopoulos",
+      "stage_directions": [
+        {
+          "direction": "(They walk on.  Chandler and Joey start to talk but Ross stops and whines.)",
+          "line_number": 110
+        }
+      ],
+      "line_number_start": 103
+    },
+    {
+      "scene": "Central Perk, Rachel, Lesile, Kiki, and Joanne are talking.",
+      "scene_number": 4,
+      "characters": [
+        "Kiki",
+        "Joanne",
+        "Leslie",
+        "Rachel"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Rachel",
+          "line": "So c'mon, you guys, tell me all the dirt!",
+          "line_number": 124
+        },
+        {
+          "speaker": "Kiki",
+          "line": "Well, the biggest news is still you dumping Barry at the altar!",
+          "line_number": 125
+        },
+        {
+          "speaker": "Joanne",
+          "line": "Alright. Let's talk reality for a second.",
+          "line_number": 126
+        },
+        {
+          "speaker": "Rachel",
+          "line": "Okay.",
+          "line_number": 127
+        },
+        {
+          "speaker": "Joanne",
+          "line": "When are you coming home?",
+          "line_number": 128
+        },
+        {
+          "speaker": "Rachel",
+          "line": "What? Guys, I'm not.",
+          "line_number": 129
+        },
+        {
+          "speaker": "Joanne",
+          "line": "C'mon, this is us.",
+          "line_number": 130
+        },
+        {
+          "speaker": "Rachel",
+          "line": "I'm not! This is what I'm doing now. I've got this job-",
+          "line_number": 131
+        },
+        {
+          "speaker": "Kiki",
+          "line": "Waitressing?",
+          "line_number": 132
+        },
+        {
+          "speaker": "Rachel",
+          "line": "Okay, I'm not just waitressing. I'm.. I, um... I write the specials on the specials board, and, uh... and I, uh... I take the uh dead flowers out of the vase... Oh, and, um, sometimes Artelle lets me put the little chocolate blobbies on the cookies.",
+          "line_number": 139,
+          "page_number": "4/11",
+          "cleaned": true
+        }
+      ],
+      "page_numbers": [
+        "4/11"
+      ],
+      "episode_title": "The One With George Stephanopoulos",
+      "stage_directions": [],
+      "line_number_start": 122
+    },
+    {
+      "scene": null,
+      "scene_number": 5,
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Rachel"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Monica",
+          "line": "Hey, Rach. How was it with your friends? (She and Phoebe scream.) Okay! How would you like some Tiki Death Punch? (She pours the contents of the blender into some glasses.)",
+          "line_number": 144
+        },
+        {
+          "speaker": "Rachel",
+          "line": "What's that?",
+          "line_number": 145
+        },
+        {
+          "speaker": "Monica",
+          "line": "Weeeell, it's rum, and-",
+          "line_number": 146
+        },
+        {
+          "speaker": "Rachel",
+          "line": "Okay. (Grabs the blender and starts to drink.)",
+          "line_number": 147
+        },
+        {
+          "speaker": "Monica",
+          "line": "We thought since Phoebe was staying over tonight we'd have kinda like a slumber party thing. We got some trashy magazines, we got cookie dough, we got Twister... (The phone rings and Monica answers it.)",
+          "line_number": 149
+        },
+        {
+          "speaker": "Phoebe",
+          "line": "Ooh! Ooh! And I brought Operation! But, um, I lost the tweezers, so we can't operate. But we can prep the guy!",
+          "line_number": 151
+        },
+        {
+          "speaker": "Monica",
+          "line": "Uh, Rach, it's the Visa card people.",
+          "line_number": 152
+        },
+        {
+          "speaker": "Rachel",
+          "line": "Oh, God, ask them what they want.",
+          "line_number": 153
+        },
+        {
+          "speaker": "Monica",
+          "line": "(on phone) Could you please tell me what this is in reference to? (Listens) Yes, hold on. (To Rachel) Um, they say there's been some unusual activity on your account.",
+          "line_number": 155
+        },
+        {
+          "speaker": "Rachel",
+          "line": "But I haven't used my card in weeks!",
+          "line_number": 156
+        },
+        {
+          "speaker": "Monica",
+          "line": "That is the unusual activity. Look, they just wanna see if you're okay.",
+          "line_number": 157
+        },
+        {
+          "speaker": "Rachel",
+          "line": "They wanna know if I'm okay. Okay.. they wanna know if I'm okay, okay, let's see. Well, let's see, the FICA guys took all my money, everyone I know is either getting married, or getting promoted, or getting pregnant, and I'm getting coffee! And it's not even for me! So if that sounds like I'm okay, okay, then you can tell them I'm okay, okay?",
+          "line_number": 161
+        },
+        {
+          "speaker": "Monica",
+          "line": "(pauses then on the phone) Uh- Rachel has left the building, can you call back?",
+          "line_number": 162
+        }
+      ],
+      "page_numbers": [],
+      "episode_title": "The One With George Stephanopoulos",
+      "stage_directions": [],
+      "line_number_start": 140
+    },
+    {
+      "scene": "Madison Square Garden, the guys are trying to find their seats.",
+      "scene_number": 6,
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Joey"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Ross",
+          "line": "(squeezing past people) Sorry, sorry... Uh-oh.",
+          "line_number": 165
+        },
+        {
+          "speaker": "Chandler",
+          "line": "What? There was ice there that night with Carol? Plastic seats? Four thousand angry Pittsburgh fans?",
+          "line_number": 166
+        },
+        {
+          "speaker": "Ross",
+          "line": "No, actually I was just saying it looks like we're not sitting together. But now you mention it, there was ice there that night... It was the first frost...",
+          "line_number": 168
+        }
+      ],
+      "page_numbers": [],
+      "episode_title": "The One With George Stephanopoulos",
+      "stage_directions": [],
+      "line_number_start": 163
+    },
+    {
+      "scene": "Monica and Rachel's, they're all hanging out in the living room.",
+      "scene_number": 7,
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Rachel"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Monica",
+          "line": "You should feel great about yourself! You're doing this amazing independence thing!",
+          "line_number": 171
+        },
+        {
+          "speaker": "Rachel",
+          "line": "Monica, what is so amazing? I gave up, like, everything. And for what?",
+          "line_number": 176,
+          "page_number": "5/11",
+          "cleaned": true
+        },
+        {
+          "speaker": "Phoebe",
+          "line": "You are just like Jack.",
+          "line_number": 177
+        },
+        {
+          "speaker": "Rachel",
+          "line": "...Jack from downstairs?",
+          "line_number": 178
+        },
+        {
+          "speaker": "Phoebe",
+          "line": "No, Jack and the Beanstalk.",
+          "line_number": 179
+        },
+        {
+          "speaker": "Monica",
+          "line": "Ah, the other Jack.",
+          "line_number": 180
+        },
+        {
+          "speaker": "Phoebe",
+          "line": "Yeah, right! See, he gave up something, but then he got those magic beans. And then he woke up, and there was this, this big plant outside his window, full of possibilities and stuff.. And he lived in a village, and you live in the Village..",
+          "line_number": 183
+        },
+        {
+          "speaker": "Rachel",
+          "line": "Okay, but Pheebs, Pheebs, Jack gave up a cow, I gave up an orthodontist. Okay, I-I-I know, I know I didn't love him-",
+          "line_number": 185
+        },
+        {
+          "speaker": "Phoebe",
+          "line": "Oh, see, Jack did love the cow.",
+          "line_number": 186
+        },
+        {
+          "speaker": "Rachel",
+          "line": "But see, it was a plan. Y'know, it was clear. It was figured out, and now everything's just kinda like...",
+          "line_number": 187
+        },
+        {
+          "speaker": "Phoebe",
+          "line": "Floopy?",
+          "line_number": 188
+        },
+        {
+          "speaker": "Rachel",
+          "line": "Yeah.",
+          "line_number": 189
+        },
+        {
+          "speaker": "Monica",
+          "line": "So what, you're not the only one. I mean, half the time we don't know where we're going. You've just gotta figure at some point it's all gonna come together, and it's just gonna be... un-floopy.",
+          "line_number": 191
+        },
+        {
+          "speaker": "Phoebe",
+          "line": "Oh, like that's a word.",
+          "line_number": 192
+        },
+        {
+          "speaker": "Rachel",
+          "line": "Okay, but Monica, what if- what if it doesn't come together?",
+          "line_number": 193
+        },
+        {
+          "speaker": "Monica",
+          "line": "...Pheebs?",
+          "line_number": 194
+        },
+        {
+          "speaker": "Phoebe",
+          "line": "Oh, well... 'cause.... you just... I don't like this question.",
+          "line_number": 195
+        }
+      ],
+      "page_numbers": [
+        "5/11"
+      ],
+      "episode_title": "The One With George Stephanopoulos",
+      "stage_directions": [],
+      "line_number_start": 169
+    },
+    {
+      "scene": "Madison Square Garden, the guys are watching the game.",
+      "scene_number": 8,
+      "characters": [
+        "Chandler",
+        "Ross",
+        "All"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Ross",
+          "line": "Get him! GET HIM! Get him! Get- YESSS! Not laughing now, are ya pal!",
+          "line_number": 198
+        },
+        {
+          "speaker": "Chandler",
+          "line": "(to Ross) See buddy, that's all you need, a bunch of toothless guys hitting each other with sticks.",
+          "line_number": 199
+        },
+        {
+          "speaker": "Ross",
+          "line": "Pass it! Pass it!",
+          "line_number": 200
+        },
+        {
+          "speaker": "Chandler",
+          "line": "He's open!",
+          "line_number": 201
+        },
+        {
+          "speaker": "All",
+          "line": "Shoot! Shoot! Shoot! notices...)",
+          "line_number": 204
+        }
+      ],
+      "page_numbers": [],
+      "episode_title": "The One With George Stephanopoulos",
+      "stage_directions": [
+        {
+          "direction": "(The player shoots and the puck flies off the rink and hits Ross in the face.  Chandler looks concered until he",
+          "line_number": 202
+        },
+        {
+          "direction": "(Chandler and Joey hold the puck and wave at the TV thing.)",
+          "line_number": 205
+        }
+      ],
+      "line_number_start": 196
+    },
+    {
+      "scene": "An Emergency Room, Chandler and Joey are leading Ross in.",
+      "scene_number": 9,
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Ross",
+        "Receptionist"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Chandler",
+          "line": "(to the receptionist)'Scuse me.",
+          "line_number": 213
+        },
+        {
+          "speaker": "Receptionist",
+          "line": "(holds up her hand—she is on the phone) It says to call this number if you're not completely satisfied with this candy bar. Well, I'm not completely satisfied.",
+          "line_number": 215
+        },
+        {
+          "speaker": "Chandler",
+          "line": "Listen, it's kind of an emergency. Well, I guess you know that, or we'd be in the predicament room.",
+          "line_number": 217
+        },
+        {
+          "speaker": "Receptionist",
+          "line": "(on phone) Hold on. (To Chandler) Fill these out, sit over there. (Tosses him some forms.)",
+          "line_number": 218
+        },
+        {
+          "speaker": "Ross",
+          "line": "(jumping to his feet) Look, I don't wanna make any trouble, okay, but I'm in a lot of pain here, alright? My face is dented.",
+          "line_number": 220
+        },
+        {
+          "speaker": "Receptionist",
+          "line": "Well, you'll have to wait your turn.",
+          "line_number": 221
+        },
+        {
+          "speaker": "Joey",
+          "line": "Well, how long do you think it'll be?",
+          "line_number": 222
+        },
+        {
+          "speaker": "Receptionist",
+          "line": "(sarcastic) Any minute now.",
+          "line_number": 223
+        }
+      ],
+      "page_numbers": [],
+      "episode_title": "The One With George Stephanopoulos",
+      "stage_directions": [
+        {
+          "direction": "(The receptionist glares at him.)",
+          "line_number": 216
+        }
+      ],
+      "line_number_start": 211
+    },
+    {
+      "scene": "Monica and Rachel's, the slumber party continues.",
+      "scene_number": 10,
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Rachel"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Rachel",
+          "line": "I'm so sorry, you guys. I didn't mean to bring you down.",
+          "line_number": 226
+        },
+        {
+          "speaker": "Monica",
+          "line": "No, you were right. I don't have a plan. (There's a knock on the door.) Pizza Guy: (yelling from outside) Pizza guy!",
+          "line_number": 228
+        },
+        {
+          "speaker": "Rachel",
+          "line": "Thank God. Food. (She goes to answer the door.)",
+          "line_number": 229
+        },
+        {
+          "speaker": "Monica",
+          "line": "Phoebe?",
+          "line_number": 230
+        },
+        {
+          "speaker": "Phoebe",
+          "line": "What?",
+          "line_number": 231
+        },
+        {
+          "speaker": "Monica",
+          "line": "Do you have a plan?",
+          "line_number": 232
+        },
+        {
+          "speaker": "Phoebe",
+          "line": "I don't even have a 'pl'. Pizza Guy: Hi, one, uh, mushroom, green pepper and onion?",
+          "line_number": 234
+        },
+        {
+          "speaker": "Rachel",
+          "line": "(miserably) No, no, that's not what we ordered... We ordered a fat-free crust with extra cheese. Pizza Guy: Wait, you're not 'G.Stephanopoulos?' Man, my dad's gonna kill me!",
+          "line_number": 236
+        },
+        {
+          "speaker": "Monica",
+          "line": "(leaping off of the couch and runs up) Wait! Did you say 'G.Stephanopoulos?' Pizza Guy: Yeah. This one goes across the street, I must have given him yours. Oh, bonehead, bonehead!",
+          "line_number": 238
+        },
+        {
+          "speaker": "Monica",
+          "line": "Wait, was this a-a small mediterranean guy with curiously intelligent good looks? Pizza Guy: Yeah, that sounds about right.",
+          "line_number": 240
+        },
+        {
+          "speaker": "Monica",
+          "line": "Was he wearing a stunning blue suit?",
+          "line_number": 245,
+          "page_number": "7/11",
+          "cleaned": true
+        },
+        {
+          "speaker": "Phoebe",
+          "line": "And-and a power tie? Pizza Guy: No, pretty much just a towel.",
+          "line_number": 247
+        },
+        {
+          "speaker": "Monica",
+          "line": "(staggered) Oh God. Pizza Guy: So you guys want me to take this back?",
+          "line_number": 249
+        },
+        {
+          "speaker": "Monica",
+          "line": "Are you nuts?! We've got George Stephanopoulos' pizza! (Rachel pays him, Monica grabs some binoculars, and runs to the window.)",
+          "line_number": 251
+        },
+        {
+          "speaker": "Rachel",
+          "line": "Uh, Pheebs? Who's George Snuffalopagus?",
+          "line_number": 252
+        },
+        {
+          "speaker": "Phoebe",
+          "line": "Big Bird's friend.",
+          "line_number": 253
+        },
+        {
+          "speaker": "Monica",
+          "line": "I see pizza!",
+          "line_number": 254
+        },
+        {
+          "speaker": "Phoebe",
+          "line": "Oh, I wanna see! Lemme see! Lemme see! (She runs up and takes the binoculars.)",
+          "line_number": 255
+        },
+        {
+          "speaker": "Rachel",
+          "line": "Hello? Who are we spying on?",
+          "line_number": 256
+        },
+        {
+          "speaker": "Monica",
+          "line": "White House adviser? Clinton's campaign guy? The one with the great hair, sexy smile, really cute butt?",
+          "line_number": 258
+        },
+        {
+          "speaker": "Rachel",
+          "line": "Oh, him, the little guy? Oh, I love him!",
+          "line_number": 259
+        },
+        {
+          "speaker": "Phoebe",
+          "line": "Ooh, wait.. wait, I see a woman.",
+          "line_number": 260
+        },
+        {
+          "speaker": "Monica",
+          "line": "Please tell me it's his mother.",
+          "line_number": 261
+        },
+        {
+          "speaker": "Phoebe",
+          "line": "Definitely not his mother.",
+          "line_number": 262
+        },
+        {
+          "speaker": "Monica",
+          "line": "Oh, no...",
+          "line_number": 263
+        }
+      ],
+      "page_numbers": [
+        "7/11"
+      ],
+      "episode_title": "The One With George Stephanopoulos",
+      "stage_directions": [
+        {
+          "direction": "(Yelling) Hey, that's not for you, bitch! (Phoebe covers her mouth with her hand walks away from the window.)",
+          "line_number": 264
+        }
+      ],
+      "line_number_start": 224
+    },
+    {
+      "scene": "Monica and Rachel's, the girls are all out on the balcony.",
+      "scene_number": 12,
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Rachel"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Monica",
+          "line": "Light still out?",
+          "line_number": 274
+        },
+        {
+          "speaker": "Rachel",
+          "line": "Yeah.",
+          "line_number": 275
+        },
+        {
+          "speaker": "Monica",
+          "line": "Oh. Maybe they're- napping.",
+          "line_number": 276
+        },
+        {
+          "speaker": "Rachel",
+          "line": "Oh please, they're having sex. Monica and Phoebe: Shut up!",
+          "line_number": 282,
+          "page_number": "8/11",
+          "cleaned": true
+        },
+        {
+          "speaker": "Rachel",
+          "line": "So, whaddya think George is like?",
+          "line_number": 283
+        },
+        {
+          "speaker": "Monica",
+          "line": "I think he's shy.",
+          "line_number": 284
+        },
+        {
+          "speaker": "Phoebe",
+          "line": "Yeah?",
+          "line_number": 285
+        }
+      ],
+      "page_numbers": [
+        "8/11"
+      ],
+      "episode_title": "The One With George Stephanopoulos",
+      "stage_directions": [],
+      "line_number_start": 272
+    },
+    {
+      "scene": "The Emergency Room, Ross is still going on about his first night with Carol.",
+      "scene_number": 13,
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Joey"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Ross",
+          "line": "I remember the moonlight coming through the window- and her face had the most incredible glow.",
+          "line_number": 288
+        },
+        {
+          "speaker": "Chandler",
+          "line": "Yes, the moon, the glow, the magical feeling, you did this part- Could I get some painkillers over here, please?",
+          "line_number": 290
+        },
+        {
+          "speaker": "Joey",
+          "line": "He's right, enough, already. What is the big deal about today? So you slept with her for the first time, so what? You slept with her for seven years after that.",
+          "line_number": 292
+        },
+        {
+          "speaker": "Ross",
+          "line": "Look, it's just a little more complicated...",
+          "line_number": 293
+        },
+        {
+          "speaker": "Chandler",
+          "line": "Well, what? What? What is it? That she left you? That she likes women? That she left you for another woman that likes women?",
+          "line_number": 295
+        },
+        {
+          "speaker": "Ross",
+          "line": "Little louder, okay, I think there's a man on the twelfth floor in a coma that didn't quite hear you...",
+          "line_number": 296
+        },
+        {
+          "speaker": "Chandler",
+          "line": "Then what?",
+          "line_number": 297
+        },
+        {
+          "speaker": "Ross",
+          "line": "My first time with Carol was... (He mumbles the last part)",
+          "line_number": 298
+        },
+        {
+          "speaker": "Joey",
+          "line": "What?",
+          "line_number": 299
+        },
+        {
+          "speaker": "Ross",
+          "line": "It was my first time.",
+          "line_number": 300
+        },
+        {
+          "speaker": "Joey",
+          "line": "With Carol? (Ross gives him a look.) Oh.",
+          "line_number": 301
+        },
+        {
+          "speaker": "Chandler",
+          "line": "So in your whole life, you've only been with one—(He gets a look too)—oh.",
+          "line_number": 302
+        }
+      ],
+      "page_numbers": [],
+      "episode_title": "The One With George Stephanopoulos",
+      "stage_directions": [],
+      "line_number_start": 286
+    },
+    {
+      "scene": "Monica and Rachel's, the girls are still out on the balcony.",
+      "scene_number": 14,
+      "characters": [
+        "Monica",
+        "All",
+        "Phoebe",
+        "Rachel"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Monica",
+          "line": "Okay. Okay, I got one. Do you remember that vegetarian pate that I made that you loved so much?",
+          "line_number": 305
+        },
+        {
+          "speaker": "Phoebe",
+          "line": "Uh-huh.",
+          "line_number": 306
+        },
+        {
+          "speaker": "Monica",
+          "line": "Well, unless goose is a vegetable...ha haaaah!",
+          "line_number": 307
+        },
+        {
+          "speaker": "Phoebe",
+          "line": "Oh! Oh! Oh! Okay, fine, fine. Now I don't feel so bad about sleeping with Jason Hurley.",
+          "line_number": 308
+        },
+        {
+          "speaker": "Monica",
+          "line": "What?! You slept with Jason?",
+          "line_number": 309
+        },
+        {
+          "speaker": "Phoebe",
+          "line": "You'd already broken up.",
+          "line_number": 310
+        },
+        {
+          "speaker": "Rachel",
+          "line": "How long?",
+          "line_number": 311
+        },
+        {
+          "speaker": "Phoebe",
+          "line": "A couple hours.",
+          "line_number": 316,
+          "page_number": "9/11",
+          "cleaned": true
+        },
+        {
+          "speaker": "Monica",
+          "line": "Oh, that's nice!",
+          "line_number": 317
+        },
+        {
+          "speaker": "Rachel",
+          "line": "Okay, okay, okay, I got one! (She sits up and the cushion she was leaning against falls off of the balcony.) Anyway- The valentine Tommy Rollerson left in your locker was really from me.",
+          "line_number": 319
+        },
+        {
+          "speaker": "Monica",
+          "line": "Excuse me?!",
+          "line_number": 320
+        },
+        {
+          "speaker": "Rachel",
+          "line": "Hello? Like he was really gonna send you one? (To Phoebe) She was a big girl.",
+          "line_number": 321
+        },
+        {
+          "speaker": "Monica",
+          "line": "Really. Well, at least 'big girls' don't pee in their pants in seventh grade!",
+          "line_number": 322
+        },
+        {
+          "speaker": "Rachel",
+          "line": "I was laughing! You made me laugh! (Monica and Rachel start to squabble)",
+          "line_number": 323
+        },
+        {
+          "speaker": "Phoebe",
+          "line": "There he is! There he is!",
+          "line_number": 324
+        },
+        {
+          "speaker": "Monica",
+          "line": "Where?",
+          "line_number": 325
+        },
+        {
+          "speaker": "Phoebe",
+          "line": "Right- where we've been looking all night!",
+          "line_number": 326
+        },
+        {
+          "speaker": "Rachel",
+          "line": "He is so cute!",
+          "line_number": 327
+        },
+        {
+          "speaker": "Monica",
+          "line": "Oh, George, baby, drop the towel!",
+          "line_number": 328
+        }
+      ],
+      "page_numbers": [
+        "9/11"
+      ],
+      "episode_title": "The One With George Stephanopoulos",
+      "stage_directions": [],
+      "line_number_start": 303
+    },
+    {
+      "scene": "The Emergency Room, Ross is absent.",
+      "scene_number": 15,
+      "characters": [
+        "Ross",
+        "Receptionist",
+        "Joey",
+        "Chandler",
+        "Both",
+        "Kid"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Joey",
+          "line": "Man. Can you believe he's only had sex with one woman?",
+          "line_number": 331
+        },
+        {
+          "speaker": "Chandler",
+          "line": "I think it's great. Y'know, it's sweet, it's romantic...",
+          "line_number": 332
+        },
+        {
+          "speaker": "Joey",
+          "line": "Really?",
+          "line_number": 333
+        },
+        {
+          "speaker": "Chandler",
+          "line": "No, you kidding? The guy's a freak.. (Ross enters off camera)",
+          "line_number": 334
+        },
+        {
+          "speaker": "Both",
+          "line": "Hey, buddy.",
+          "line_number": 335
+        },
+        {
+          "speaker": "Ross",
+          "line": "Hi. (He is wearing a piece of steel bandaged to his nose. He tosses some forms onto reception desk.)",
+          "line_number": 336,
+          "cleaned": true
+        },
+        {
+          "speaker": "Receptionist",
+          "line": "(sarcastic) Oh, that's attractive.",
+          "line_number": 337
+        },
+        {
+          "speaker": "Chandler",
+          "line": "Oh, I thought you were great in Silence of the Lambs. Oh come on, admit it! All things considered, you had fun tonight.",
+          "line_number": 339
+        },
+        {
+          "speaker": "Ross",
+          "line": "Fun? Where was the fun? Tell me specifically, which part was the fun part? Where's my puck?",
+          "line_number": 340
+        },
+        {
+          "speaker": "Joey",
+          "line": "Oh, ah- the kid has it.",
+          "line_number": 341
+        },
+        {
+          "speaker": "Ross",
+          "line": "The kid...? (To the kid) Excuse me, uh, that's, that's my puck.",
+          "line_number": 342
+        },
+        {
+          "speaker": "Kid",
+          "line": "I found it. Finders keepers, losers weepers. (Ross looks at Chandler for help.)",
+          "line_number": 343
+        },
+        {
+          "speaker": "Chandler",
+          "line": "You gotta do it, man.",
+          "line_number": 344
+        },
+        {
+          "speaker": "Ross",
+          "line": "(to the kid) Oh yeah? Well, I'm rubber, you're glue, whatever—(to Chandler)—can't do it. (to the kid) Listen, uh- gimme back my puck.",
+          "line_number": 350,
+          "page_number": "10/11",
+          "cleaned": true
+        },
+        {
+          "speaker": "Kid",
+          "line": "No.",
+          "line_number": 351
+        },
+        {
+          "speaker": "Ross",
+          "line": "'Yes', how about. C'mere. Gimme!",
+          "line_number": 352
+        },
+        {
+          "speaker": "Kid",
+          "line": "No! No! (They start to fight over it.)",
+          "line_number": 353
+        },
+        {
+          "speaker": "Receptionist",
+          "line": "Hey! Hey! No rough holding in my ER!",
+          "line_number": 354
+        },
+        {
+          "speaker": "Ross",
+          "line": "(tries to snatch it from the kid) GIVE ME MY PUCK!! (but it files out of his grasp and knocks out the receptionist)",
+          "line_number": 356
+        }
+      ],
+      "page_numbers": [
+        "10/11"
+      ],
+      "episode_title": "The One With George Stephanopoulos",
+      "stage_directions": [],
+      "line_number_start": 329
+    },
+    {
+      "scene": "Monica and Rachel's, Joey and the girls are playing twister.",
+      "scene_number": 16,
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Ross",
+        "Rachel"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Ross",
+          "line": "(Doing the spinning) Okay, Monica: Right foot red.",
+          "line_number": 360
+        },
+        {
+          "speaker": "Monica",
+          "line": "Could've played Monopoly, but nooooo.",
+          "line_number": 362
+        },
+        {
+          "speaker": "Chandler",
+          "line": "Thanks. (The guy nods and leaves)",
+          "line_number": 363
+        },
+        {
+          "speaker": "Ross",
+          "line": "Okay, Pheebs: Right hand blue. (Phoebe has to bend over.)Good. (Joey stares at her butt appreciatively)",
+          "line_number": 365
+        },
+        {
+          "speaker": "Chandler",
+          "line": "Hello? Oh, uh, Rachel, it's the Visa card people.",
+          "line_number": 366
+        },
+        {
+          "speaker": "Rachel",
+          "line": "Oh, okay. Will you take my place?",
+          "line_number": 367
+        },
+        {
+          "speaker": "Chandler",
+          "line": "Alright. (on phone) Yes, this is Rachel.",
+          "line_number": 368
+        },
+        {
+          "speaker": "Rachel",
+          "line": "Nooo! (She grabs the phone and Chandler takes her place on the mat.) (On phone) Hello? (Listens) Oh, yeah, no, I know, I-I haven't been using it much. (Listens) Oh, well, thanks, but, I'm okay, really.",
+          "line_number": 370
+        },
+        {
+          "speaker": "Ross",
+          "line": "Green. To the green.",
+          "line_number": 371
+        },
+        {
+          "speaker": "Rachel",
+          "line": "(on phone) I've got magic beans. (Listens) Never-never mind.",
+          "line_number": 372
+        },
+        {
+          "speaker": "Chandler",
+          "line": "To the left, to the left- aww! (They all collapse)",
+          "line_number": 373
+        },
+        {
+          "speaker": "Rachel",
+          "line": "(on phone) Ohhh... I'm fine. End",
+          "line_number": 378,
+          "page_number": "11/11",
+          "cleaned": true
+        }
+      ],
+      "page_numbers": [
+        "11/11"
+      ],
+      "episode_title": "The One With George Stephanopoulos",
+      "stage_directions": [
+        {
+          "direction": "(There's a knock on the door, Chandler opens it, and silently hands back the cushion.)",
+          "line_number": 361
+        },
+        {
+          "direction": "(The phone rings and Chandler answers it.)",
+          "line_number": 364
+        }
+      ],
+      "line_number_start": 358
+    }
+  ],
+  "parsing_info": {
+    "parser_version": "2.0",
+    "total_lines_processed": 378,
+    "parsing_date": "2025-07-07T23:37:00.572608",
+    "dialogue_lines_cleaned": 11
+  }
+}
